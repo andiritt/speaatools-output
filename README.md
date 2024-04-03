@@ -121,7 +121,7 @@ This section is your one-stop shop for race analysis! Dive into insightful race 
     - Considers performance window accuracy and simulation model confidence
 	- '-' -> Cars Performance window faster than intended
 	- '+' -> Cars Performance window slower than intended
-	- '~' -> Cars Performance window approximately matches the inten
+	- '~' -> Cars Performance window approximately matches the intended
 
 **Simulated Performance:**
 
