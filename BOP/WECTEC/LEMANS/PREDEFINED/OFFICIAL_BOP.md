@@ -1,12 +1,12 @@
 |Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|Cadillac|V-Series.R|LMDH|3:30.54|3:23.58|1046kg|513kw|0.0kph|0%|513kw|887MJ|321.01kph-346.14kph|-|1.02|12|-E1|98.38%|1765|58.43%|
-|Ferrari|499P|LMHHU|3:29.71|3:22.75|1064kg|509kw|0.0kph|0%|509kw|891MJ|324.66kph-347.80kph|190kph|1.03|12|-Ω1|92.24%|2247|38.68%|
-|Glickenhaus|007|LMHNH|3:33.31|3:27.35|1030kg|520kw|0.0kph|0%|520kw|913MJ|332.21kph-344.50kph|-|0.96|12|+E1|96.18%|554|59.98%|
-|Peugeot|9X8|LMHHE|3:33.46|3:26.72|1042kg|516kw|0.0kph|0%|516kw|908MJ|321.90kph-346.07kph|150kph|1.02|12|+C1|87.65%|1795|75.41%|
-|Porsche|963|LMDH|3:30.61|3:23.69|1048kg|516kw|0.0kph|0%|516kw|899MJ|323.09kph-347.31kph|-|1.01|12|-D2|96.81%|5438|60.58%|
-|Toyota|GR010 - Hybrid|LMHHU|3:30.48|3:23.13|1080kg|512kw|0.0kph|0%|512kw|906MJ|320.98kph-353.87kph|190kph|1.01|12|-D2|86.04%|1751|60.82%|
-|Vanwall|Vanderwell 680|LMHNH|3:37.51|3:30.35|1030kg|512kw|0.0kph|0%|512kw|894MJ|315.85kph-339.17kph|-|1.01|12|+Ω2|91.42%|501|-23.41%|
+|Cadillac|V-Series.R|LMDH|3:30.54|3:23.58|1046kg|513kw|0.0kph|0%|513kw|887MJ|330.18kph|-|1.02|12|-E1|98.38%|1765|58.43%|
+|Ferrari|499P|LMHHU|3:29.71|3:22.75|1064kg|509kw|0.0kph|0%|509kw|891MJ|331.67kph|190kph|1.03|12|-Ω1|92.24%|2247|38.68%|
+|Glickenhaus|007|LMHNH|3:33.31|3:27.35|1030kg|520kw|0.0kph|0%|520kw|913MJ|335.37kph|-|0.96|12|+E1|96.18%|554|59.98%|
+|Peugeot|9X8|LMHHE|3:33.46|3:26.72|1042kg|516kw|0.0kph|0%|516kw|908MJ|330.10kph|150kph|1.02|12|+C1|87.65%|1795|75.41%|
+|Porsche|963|LMDH|3:30.61|3:23.69|1048kg|516kw|0.0kph|0%|516kw|899MJ|330.81kph|-|1.01|12|-D2|96.81%|5438|60.58%|
+|Toyota|GR010 - Hybrid|LMHHU|3:30.48|3:23.13|1080kg|512kw|0.0kph|0%|512kw|906MJ|328.38kph|190kph|1.01|12|-D2|86.04%|1751|60.82%|
+|Vanwall|Vanderwell 680|LMHNH|3:37.51|3:30.35|1030kg|512kw|0.0kph|0%|512kw|894MJ|324.59kph|-|1.01|12|+Ω2|91.42%|501|-23.41%|
 
 ### BoP Accuracy: 47.21%; Overall BoP Grade: Ω1
 ![PACECHART](./IMG/OFFICIAL.png)

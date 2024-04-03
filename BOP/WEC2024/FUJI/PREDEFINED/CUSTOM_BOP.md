@@ -1,13 +1,13 @@
 |Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|Alpine|A424|LMDH|1:33.30|1:28.73|1070kg|510kw|210.0kph|0%|510kw|905MJ|321.02kph-341.96kph|-|1.00|41|~A1|81.46%|523|100.00%|
-|BMW|M Hybrid V8 LMDh|LMDH|1:33.51|1:28.90|1060kg|506kw|210.0kph|0%|506kw|892MJ|316.98kph-340.96kph|-|1.01|41|~A1|98.60%|1690|99.63%|
-|Cadillac|V-Series.R|LMDH|1:33.33|1:28.98|1032kg|499kw|210.0kph|0%|499kw|873MJ|316.98kph-341.80kph|-|1.03|41|~A1|98.38%|1765|96.86%|
-|Ferrari|499P|LMHHU|1:32.83|1:28.50|1075kg|503kw|210.0kph|0%|503kw|887MJ|319.95kph-342.75kph|190kph|1.02|41|-D1|92.24%|2247|69.37%|
-|Issotta Fraschini|Tipo6C|LMHHU|1:34.48|1:30.52|1085kg|514kw|210.0kph|0%|514kw|918MJ|321.59kph-332.35kph|190kph|1.02|41|+Ω1|66.67%|96|26.30%|
-|Lamborghini|SC63|LMDH|1:33.80|1:29.09|1041kg|502kw|210.0kph|0%|502kw|883MJ|319.21kph-337.73kph|-|1.05|41|+C2|96.77%|419|72.94%|
-|Porsche|963|LMDH|1:33.28|1:28.96|1048kg|505kw|210.0kph|0%|505kw|889MJ|318.45kph-342.33kph|-|1.02|41|-A2|96.81%|5438|94.86%|
-|Toyota|GR010 - Hybrid|LMHHU|1:32.80|1:28.32|1089kg|510kw|210.0kph|0%|510kw|905MJ|317.11kph-349.60kph|190kph|1.01|41|-D1|86.04%|1751|69.87%|
+|Alpine|A424|LMDH|1:33.30|1:28.73|1070kg|510kw|210.0kph|0%|510kw|905MJ|325.04kph|-|1.00|41|~A1|81.46%|523|100.00%|
+|BMW|M Hybrid V8 LMDh|LMDH|1:33.51|1:28.90|1060kg|506kw|210.0kph|0%|506kw|892MJ|320.45kph|-|1.01|41|~A1|98.60%|1690|99.63%|
+|Cadillac|V-Series.R|LMDH|1:33.33|1:28.98|1032kg|499kw|210.0kph|0%|499kw|873MJ|326.04kph|-|1.03|41|~A1|98.38%|1765|96.86%|
+|Ferrari|499P|LMHHU|1:32.83|1:28.50|1075kg|503kw|210.0kph|0%|503kw|887MJ|326.86kph|190kph|1.02|41|-D1|92.24%|2247|69.37%|
+|Issotta Fraschini|Tipo6C|LMHHU|1:34.48|1:30.52|1085kg|514kw|210.0kph|0%|514kw|918MJ|323.69kph|190kph|1.02|41|+Ω1|66.67%|96|26.30%|
+|Lamborghini|SC63|LMDH|1:33.80|1:29.09|1041kg|502kw|210.0kph|0%|502kw|883MJ|323.17kph|-|1.05|41|+C2|96.77%|419|72.94%|
+|Porsche|963|LMDH|1:33.28|1:28.96|1048kg|505kw|210.0kph|0%|505kw|889MJ|326.06kph|-|1.02|41|-A2|96.81%|5438|94.86%|
+|Toyota|GR010 - Hybrid|LMHHU|1:32.80|1:28.32|1089kg|510kw|210.0kph|0%|510kw|905MJ|324.42kph|190kph|1.01|41|-D1|86.04%|1751|69.87%|
 
 ### BoP Accuracy: 78.73%; Overall BoP Grade: C1
 ![PACECHART](./IMG/CUSTOM.png)

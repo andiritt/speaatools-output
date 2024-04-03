@@ -1,10 +1,10 @@
 |Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|Acura|ARX06|LMDH|1:51.94|1:48.40|1055kg|512kw|210.0kph|0%|512kw|906MJ|275.38kph-290.50kph|-|1.01|29|-D1|100.00%|995|66.22%|
-|BMW|M Hybrid V8 LMDh|LMDH|1:52.86|1:48.82|1060kg|506kw|210.0kph|0%|506kw|892MJ|271.37kph-291.90kph|-|1.01|29|+B2|98.60%|1690|80.46%|
-|Cadillac|V-Series.R|LMDH|1:52.05|1:48.37|1032kg|499kw|210.0kph|0%|499kw|873MJ|271.37kph-292.62kph|-|1.03|29|-B1|98.38%|1765|86.73%|
-|Lamborghini|SC63|LMDH|1:52.79|1:48.66|1041kg|502kw|210.0kph|0%|502kw|883MJ|273.28kph-289.14kph|-|1.05|29|+C2|96.77%|419|73.92%|
-|Porsche|963|LMDH|1:52.37|1:48.68|1048kg|505kw|210.0kph|0%|505kw|889MJ|272.63kph-293.07kph|-|1.02|29|~A1|96.81%|5438|100.00%|
+|Acura|ARX06|LMDH|1:51.94|1:48.40|1055kg|512kw|210.0kph|0%|512kw|906MJ|278.91kph|-|1.01|29|-D1|100.00%|995|66.22%|
+|BMW|M Hybrid V8 LMDh|LMDH|1:52.86|1:48.82|1060kg|506kw|210.0kph|0%|506kw|892MJ|274.34kph|-|1.01|29|+B2|98.60%|1690|80.46%|
+|Cadillac|V-Series.R|LMDH|1:52.05|1:48.37|1032kg|499kw|210.0kph|0%|499kw|873MJ|279.12kph|-|1.03|29|-B1|98.38%|1765|86.73%|
+|Lamborghini|SC63|LMDH|1:52.79|1:48.66|1041kg|502kw|210.0kph|0%|502kw|883MJ|276.67kph|-|1.05|29|+C2|96.77%|419|73.92%|
+|Porsche|963|LMDH|1:52.37|1:48.68|1048kg|505kw|210.0kph|0%|505kw|889MJ|279.14kph|-|1.02|29|~A1|96.81%|5438|100.00%|
 
 ### BoP Accuracy: 81.47%; Overall BoP Grade: B2
 ![PACECHART](./IMG/CUSTOM.png)
