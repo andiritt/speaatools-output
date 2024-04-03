@@ -1,15 +1,18 @@
-| Manufacturer | Car            | Type  | RP      | QP      | Weight | Power¹ | Threshhold | PINC | Power² | E/Stint | AVG Vmax            | FDS    | RDLC | L/Stint | BOP-Grade | ModelAccuracy | ModelPoints | Match%  |
-| :----------- | :------------- | :---- | :------ | :------ | :----- | :----- | :--------- | :--- | :----- | :------ | :------------------ | :----- | :--- | :------ | :-------- | :------------ | :---------- | :------ |
-| Cadillac     | V-Series.R     | LMDH  | 1:39.00 | 1:35.88 | 1032kg | 498kw  | 210.0kph   | 0%   | 498kw  | 872MJ   | 294.80kph-317.88kph | -      | 1.03 | 29      | +A2       | 98.38%        | 1765        | 93.75%  |
-| Ferrari      | 499P           | LMHHU | 1:38.69 | 1:35.57 | 1069kg | 497kw  | 210.0kph   | 0%   | 497kw  | 881MJ   | 297.23kph-318.42kph | 190kph | 1.03 | 29      | -B2       | 92.24%        | 2247        | 83.47%  |
-| Glickenhaus  | 007            | LMHNH | 1:39.14 | 1:36.57 | 1030kg | 520kw  | 210.0kph   | 0%   | 520kw  | 913MJ   | 306.33kph-317.66kph | -      | 0.96 | 29      | +B2       | 96.18%        | 554         | 82.49%  |
-| Peugeot      | 9X8            | LMHHE | 1:38.99 | 1:36.06 | 1046kg | 520kw  | 210.0kph   | 0%   | 520kw  | 912MJ   | 297.10kph-319.42kph | 150kph | 1.02 | 29      | ~A1       | 87.65%        | 1795        | 100.00% |
-| Porsche      | 963            | LMDH  | 1:38.78 | 1:35.70 | 1049kg | 506kw  | 210.0kph   | 0%   | 506kw  | 890MJ   | 296.39kph-318.61kph | -      | 1.01 | 29      | -B1       | 96.81%        | 5438        | 86.55%  |
-| Toyota       | GR010 - Hybrid | LMHHU | 1:38.35 | 1:35.09 | 1080kg | 507kw  | 210.0kph   | 0%   | 507kw  | 901MJ   | 295.25kph-325.50kph | 190kph | 1.01 | 29      | -D1       | 86.04%        | 1751        | 66.93%  |
-| Vanwall      | Vanderwell 680 | LMHNH | 1:40.48 | 1:37.38 | 1030kg | 520kw  | 210.0kph   | 0%   | 520kw  | 901MJ   | 292.37kph-313.96kph | -      | 1.01 | 29      | +Ω1       | 91.42%        | 501         | 33.95%  |
+|Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|Cadillac|V-Series.R|LMDH|1:39.00|1:35.88|1032kg|498kw|210.0kph|0%|498kw|872MJ|294.80kph-317.88kph|-|1.03|29|+A2|98.38%|1765|93.75%|
+|Ferrari|499P|LMHHU|1:38.69|1:35.57|1069kg|497kw|210.0kph|0%|497kw|881MJ|297.23kph-318.42kph|190kph|1.03|29|-B2|92.24%|2247|83.47%|
+|Glickenhaus|007|LMHNH|1:39.14|1:36.57|1030kg|520kw|210.0kph|0%|520kw|913MJ|306.33kph-317.66kph|-|0.96|29|+B2|96.18%|554|82.49%|
+|Peugeot|9X8|LMHHE|1:38.99|1:36.06|1046kg|520kw|210.0kph|0%|520kw|912MJ|297.10kph-319.42kph|150kph|1.02|29|~A1|87.65%|1795|100.00%|
+|Porsche|963|LMDH|1:38.78|1:35.70|1049kg|506kw|210.0kph|0%|506kw|890MJ|296.39kph-318.61kph|-|1.01|29|-B1|96.81%|5438|86.55%|
+|Toyota|GR010 - Hybrid|LMHHU|1:38.35|1:35.09|1080kg|507kw|210.0kph|0%|507kw|901MJ|295.25kph-325.50kph|190kph|1.01|29|-D1|86.04%|1751|66.93%|
+|Vanwall|Vanderwell 680|LMHNH|1:40.48|1:37.38|1030kg|520kw|210.0kph|0%|520kw|901MJ|292.37kph-313.96kph|-|1.01|29|+Ω1|91.42%|501|33.95%|
 
 ### BoP Accuracy: 78.16%; Overall BoP Grade: C1
-![](BOP/WECTEC/MONZA/PREDEFINED/IMG/OFFICIAL.png)![](BOP/WECTEC/MONZA/PREDEFINED/IMG/OFFICIAL_sp.png)![](BOP/WECTEC/MONZA/PREDEFINED/IMG/OFFICIAL_tw.png)
+![PACECHART](./IMG/OFFICIAL.png)
+![STRAIGHTLINEPERFORMANCECHART](./IMG/OFFICIAL_sp.png)
+![TYREPERFORMANCECHART](./IMG/OFFICIAL_tw.png)
+
 ## Power below Threshhold
 |N/Nmax|TOY|PEU|GLI|CAD|FER|POR|VAN|
 |:-|:-|:-|:-|:-|:-|:-|:-|

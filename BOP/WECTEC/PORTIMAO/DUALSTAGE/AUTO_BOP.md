@@ -14,7 +14,10 @@
 |Vanwall|Vanderwell 680|LMHNH|1:36.35|1:32.75|1030kg|520kw|210.0kph|0%|520kw|901MJ|289.34kph-310.70kph|-|1.01|40|+Ω1|91.42%|501|1.94%|
 
 ### BoP Accuracy: 79.20%; Overall BoP Grade: C1
-![](BOP/WECTEC/PORTIMAO/DUALSTAGE/IMG/AUTO.png)![](BOP/WECTEC/PORTIMAO/DUALSTAGE/IMG/AUTO_sp.png)![](BOP/WECTEC/PORTIMAO/DUALSTAGE/IMG/AUTO_tw.png)
+![PACECHART](./IMG/AUTO.png)
+![STRAIGHTLINEPERFORMANCECHART](./IMG/AUTO_sp.png)
+![TYREPERFORMANCECHART](./IMG/AUTO_tw.png)
+
 ## Power below Threshhold
 |N/Nmax|TOY|PEU|CAD|POR|FER|ALP|BMW|LBG|IF|GLI|VAN|ACU|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|

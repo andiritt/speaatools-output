@@ -10,7 +10,10 @@
 |Toyota|GR010 - Hybrid|LMHHU|3:31.23|3:23.83|1068kg|505kw|210.0kph|0%|505kw|898MJ|320.77kph-353.64kph|190kph|1.02|12|~A1|86.04%|1751|100.00%|
 
 ### BoP Accuracy: 98.17%; Overall BoP Grade: A1
-![](BOP/WEC2024/LEMANS/BASIC/IMG/AUTO.png)![](BOP/WEC2024/LEMANS/BASIC/IMG/AUTO_sp.png)![](BOP/WEC2024/LEMANS/BASIC/IMG/AUTO_tw.png)
+![PACECHART](./IMG/AUTO.png)
+![STRAIGHTLINEPERFORMANCECHART](./IMG/AUTO_sp.png)
+![TYREPERFORMANCECHART](./IMG/AUTO_tw.png)
+
 ## Power below Threshhold
 |N/Nmax|TOY|FER|CAD|POR|IF|BMW|ALP|LBG|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
