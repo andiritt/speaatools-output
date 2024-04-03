@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "625a56370c9a5146",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bfdec629cfc38a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8f721796b8f3004",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOP/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "871efabd587d2682",
+    "type": "split",
+    "children": [
+      {
+        "id": "c94d1227a78584cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8deadad4514fcfc7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a929a84393443b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e148202bb77e527",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "e705256b71fce280",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce85b33c349834b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfeb03c6d0986e27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7491d7522b8cbe7a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BOP/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af0f97df608a1195",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BOP/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24e71943c8803a55",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4305d74148d42922",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BOP/README.md"
+              }
+            }
+          },
+          {
+            "id": "1bad002fc25fc7f7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "65cf97e9de29dc39",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
+    }
+  },
+  "active": "e8f721796b8f3004",
+  "lastOpenFiles": [
+    "BOP/WEC2024/LEMANS/BASIC/ACOMETHOD_BOP.md",
+    "BOP/WEC2024/LEMANS/DUALSTAGE/ACOMETHOD_BOP.md",
+    "BOP/WECTEC/MONZA/PREDEFINED/CUSTOM_BOP.md",
+    "BOP/WECTEC/MONZA/PREDEFINED/OFFICIAL_BOP.md",
+    "BOP/WEC2024/README.md",
+    "BOP/WEC2024/LEMANS/PREDEFINED/OFFICIAL_BOP.md",
+    "BOP/WEC2024/LEMANS/PREDEFINED/CUSTOM_BOP.md",
+    "BOP/README.md",
+    "BOP/WECTEC/README.md",
+    "BOP/IMSA2024/README.md",
+    "Reports/README.md",
+    "BOP/WEC2024/USA/PREDEFINED/CUSTOM_BOP.md",
+    "BOP/WEC2024/USA/DUALSTAGE/AUTO_BOP.md",
+    "BOP/WEC2024/IMOLA/PREDEFINED/CUSTOM_BOP.md",
+    "BOP/WECTEC/SEBRING/PREDEFINED/CUSTOM_BOP.md",
+    "BOP/WECTEC/SEBRING/PREDEFINED/OFFICIAL_BOP.md",
+    "BOP/WECTEC/SPA/PREDEFINED/CUSTOM_BOP.md",
+    "BOP/WECTEC/SPA/PREDEFINED/OFFICIAL_BOP.md",
+    "BOP/WECTEC/USA/PREDEFINED/CUSTOM_BOP.md",
+    "BOP/IMSA2024/DAYTONA/PREDEFINED/OFFICIAL_BOP.md",
+    "BOP/IMSA2024/DAYTONA/PREDEFINED/CUSTOM_BOP.md",
+    "README.md",
+    "BOP/WEC2024/IMOLA/BASIC/AUTO_BOP.md",
+    "BOP/WEC2024/QATAR/PREDEFINED/OFFICIAL_BOP.md",
+    "BOP/WEC2024/QATAR/PREDEFINED/CUSTOM_BOP.md",
+    "BOP/WEC2024/IMOLA/DUALSTAGE/ACOMETHOD_BOP.md",
+    "Reports",
+    "BOP/WEC2024/LEMANS/DUALSTAGE/IMG/ACOMETHOD_tw.png"
+  ]
+}

@@ -1,0 +1,1 @@
+This folder contains output data for all IMSA GTP cars and currently implemented tracks.,
