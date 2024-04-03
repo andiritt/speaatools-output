@@ -1,18 +1,28 @@
+|Manufacturer|Car|Weight|Power|PINC|E/Stint|FDS|
+|:-|:-|:-|:-|:-|:-|:-|
+|Alpine|A424|1031kg|520kw|-5%|900MJ|-|
+|BMW|M Hybrid V8 LMDh|1049kg|510kw|2%|898MJ|-|
+|Cadillac|V-Series.R|1043kg|517kw|-4%|883MJ|-|
+|Ferrari|499P|1068kg|515kw|-6%|886MJ|190kph|
+|Issotta Fraschini|Tipo6C|1030kg|520kw|-|917MJ|150kph|
+|Lamborghini|SC63|1067kg|520kw|-|902MJ|-|
+|Porsche|963|1040kg|519kw|-4%|894MJ|-|
+|Toyota|GR010 - Hybrid|1074kg|504kw|2%|901MJ|190kph|
+
+### BoP Accuracy: 98.09%; Overall BoP Grade: A1
+![PACECHART](./IMG/AUTO.png)
+![STRAIGHTLINEPERFORMANCECHART](./IMG/AUTO_sp.png)
+![TYREPERFORMANCECHART](./IMG/AUTO_tw.png)
 |Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |Alpine|A424|LMDH|2:06.76|2:00.97|1031kg|520kw|210.0kph|-5%|494kw|900MJ|303.68kph|-|1.03|25|~A1|81.46%|523|100.00%|
 |BMW|M Hybrid V8 LMDh|LMDH|2:06.74|2:00.92|1049kg|510kw|210.0kph|2%|520kw|898MJ|300.19kph|-|1.02|25|~A1|98.60%|1690|100.00%|
 |Cadillac|V-Series.R|LMDH|2:06.75|2:01.26|1043kg|517kw|210.0kph|-4%|496kw|883MJ|302.80kph|-|1.02|25|~A1|98.38%|1765|96.98%|
 |Ferrari|499P|LMHHU|2:06.74|2:01.23|1068kg|515kw|210.0kph|-6%|484kw|886MJ|302.88kph|190kph|1.02|25|~A1|92.24%|2247|100.00%|
-|Issotta Fraschini|Tipo6C|LMHHU|2:06.75|2:01.91|1030kg|520kw|210.0kph|0%|520kw|917MJ|305.63kph|150kph|1.08|25|+A2|66.67%|96|92.42%|
-|Lamborghini|SC63|LMDH|2:06.75|2:00.83|1067kg|520kw|210.0kph|0%|520kw|902MJ|301.12kph|-|1.02|25|~A1|96.77%|419|95.35%|
+|Issotta Fraschini|Tipo6C|LMHHU|2:06.75|2:01.91|1030kg|520kw|210.0kph|-|520kw|917MJ|305.63kph|150kph|1.08|25|+A2|66.67%|96|92.42%|
+|Lamborghini|SC63|LMDH|2:06.75|2:00.83|1067kg|520kw|210.0kph|-|520kw|902MJ|301.12kph|-|1.02|25|~A1|96.77%|419|95.35%|
 |Porsche|963|LMDH|2:06.75|2:01.29|1040kg|519kw|210.0kph|-4%|498kw|894MJ|303.59kph|-|1.02|25|~A1|96.81%|5438|100.00%|
 |Toyota|GR010 - Hybrid|LMHHU|2:06.74|2:01.02|1074kg|504kw|210.0kph|2%|514kw|901MJ|302.69kph|190kph|1.02|25|~A1|86.04%|1751|100.00%|
-
-### BoP Accuracy: 98.09%; Overall BoP Grade: A1
-![PACECHART](./IMG/AUTO.png)
-![STRAIGHTLINEPERFORMANCECHART](./IMG/AUTO_sp.png)
-![TYREPERFORMANCECHART](./IMG/AUTO_tw.png)
 
 ## Power below Threshhold
 |N/Nmax|ALP|BMW|CAD|FER|IF|LBG|POR|TOY|

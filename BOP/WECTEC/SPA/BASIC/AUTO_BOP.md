@@ -1,22 +1,36 @@
-|Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|Acura|ARX06|LMDH|2:06.73|2:01.41|1044kg|511kw|210.0kph|0%|511kw|905MJ|303.41kph|-|1.02|25|-C2|100.00%|995|72.91%|
-|Alpine|A424|LMDH|2:06.74|2:00.95|1030kg|510kw|210.0kph|0%|510kw|900MJ|304.95kph|-|1.03|25|~A1|81.46%|523|97.04%|
-|BMW|M Hybrid V8 LMDh|LMDH|2:06.74|2:00.92|1049kg|514kw|210.0kph|0%|514kw|898MJ|299.75kph|-|1.02|25|-B1|98.60%|1690|87.35%|
-|Cadillac|V-Series.R|LMDH|2:06.75|2:01.26|1043kg|509kw|210.0kph|0%|509kw|883MJ|303.70kph|-|1.02|25|-B1|98.38%|1765|88.87%|
-|Ferrari|499P|LMHHU|2:06.74|2:01.23|1068kg|503kw|210.0kph|0%|503kw|886MJ|304.25kph|190kph|1.02|25|-A2|92.24%|2247|91.36%|
-|Glickenhaus|007|LMHNH|2:07.87|2:03.00|1030kg|520kw|210.0kph|0%|520kw|913MJ|308.85kph|-|0.96|25|+E2|96.18%|554|54.30%|
-|Issotta Fraschini|Tipo6C|LMHHU|2:06.75|2:01.91|1030kg|520kw|210.0kph|0%|520kw|917MJ|305.63kph|150kph|1.08|25|+A2|66.67%|96|92.69%|
-|Lamborghini|SC63|LMDH|2:06.73|2:00.81|1066kg|520kw|210.0kph|0%|520kw|902MJ|301.19kph|-|1.02|25|-B1|96.77%|419|88.53%|
-|Peugeot|9X8|LMHHE|2:06.69|2:01.45|1030kg|520kw|210.0kph|0%|520kw|910MJ|305.47kph|100kph|1.04|25|-A2|87.65%|1795|91.48%|
-|Porsche|963|LMDH|2:06.74|2:01.29|1045kg|512kw|210.0kph|0%|512kw|895MJ|304.28kph|-|1.02|25|-B1|96.81%|5438|89.28%|
-|Toyota|GR010 - Hybrid|LMHHU|2:06.74|2:01.02|1074kg|508kw|210.0kph|0%|508kw|901MJ|302.24kph|190kph|1.02|25|-A2|86.04%|1751|94.80%|
-|Vanwall|Vanderwell 680|LMHNH|2:09.58|2:04.04|1030kg|520kw|210.0kph|0%|520kw|908MJ|300.09kph|-|1.02|25|+Ω1|91.42%|501|1.97%|
+|Manufacturer|Car|Weight|Power|PINC|E/Stint|FDS|
+|:-|:-|:-|:-|:-|:-|:-|
+|Acura|ARX06|1044kg|511kw|-|905MJ|-|
+|Alpine|A424|1030kg|510kw|-|900MJ|-|
+|BMW|M Hybrid V8 LMDh|1049kg|514kw|-|898MJ|-|
+|Cadillac|V-Series.R|1043kg|509kw|-|883MJ|-|
+|Ferrari|499P|1068kg|503kw|-|886MJ|190kph|
+|Glickenhaus|007|1030kg|520kw|-|913MJ|-|
+|Issotta Fraschini|Tipo6C|1030kg|520kw|-|917MJ|150kph|
+|Lamborghini|SC63|1066kg|520kw|-|902MJ|-|
+|Peugeot|9X8|1030kg|520kw|-|910MJ|100kph|
+|Porsche|963|1045kg|512kw|-|895MJ|-|
+|Toyota|GR010 - Hybrid|1074kg|508kw|-|901MJ|190kph|
+|Vanwall|Vanderwell 680|1030kg|520kw|-|908MJ|-|
 
 ### BoP Accuracy: 79.22%; Overall BoP Grade: C1
 ![PACECHART](./IMG/AUTO.png)
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/AUTO_sp.png)
 ![TYREPERFORMANCECHART](./IMG/AUTO_tw.png)
+|Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|Acura|ARX06|LMDH|2:06.73|2:01.41|1044kg|511kw|210.0kph|-|511kw|905MJ|303.41kph|-|1.02|25|-C2|100.00%|995|72.91%|
+|Alpine|A424|LMDH|2:06.74|2:00.95|1030kg|510kw|210.0kph|-|510kw|900MJ|304.95kph|-|1.03|25|~A1|81.46%|523|97.04%|
+|BMW|M Hybrid V8 LMDh|LMDH|2:06.74|2:00.92|1049kg|514kw|210.0kph|-|514kw|898MJ|299.75kph|-|1.02|25|-B1|98.60%|1690|87.35%|
+|Cadillac|V-Series.R|LMDH|2:06.75|2:01.26|1043kg|509kw|210.0kph|-|509kw|883MJ|303.70kph|-|1.02|25|-B1|98.38%|1765|88.87%|
+|Ferrari|499P|LMHHU|2:06.74|2:01.23|1068kg|503kw|210.0kph|-|503kw|886MJ|304.25kph|190kph|1.02|25|-A2|92.24%|2247|91.36%|
+|Glickenhaus|007|LMHNH|2:07.87|2:03.00|1030kg|520kw|210.0kph|-|520kw|913MJ|308.85kph|-|0.96|25|+E2|96.18%|554|54.30%|
+|Issotta Fraschini|Tipo6C|LMHHU|2:06.75|2:01.91|1030kg|520kw|210.0kph|-|520kw|917MJ|305.63kph|150kph|1.08|25|+A2|66.67%|96|92.69%|
+|Lamborghini|SC63|LMDH|2:06.73|2:00.81|1066kg|520kw|210.0kph|-|520kw|902MJ|301.19kph|-|1.02|25|-B1|96.77%|419|88.53%|
+|Peugeot|9X8|LMHHE|2:06.69|2:01.45|1030kg|520kw|210.0kph|-|520kw|910MJ|305.47kph|100kph|1.04|25|-A2|87.65%|1795|91.48%|
+|Porsche|963|LMDH|2:06.74|2:01.29|1045kg|512kw|210.0kph|-|512kw|895MJ|304.28kph|-|1.02|25|-B1|96.81%|5438|89.28%|
+|Toyota|GR010 - Hybrid|LMHHU|2:06.74|2:01.02|1074kg|508kw|210.0kph|-|508kw|901MJ|302.24kph|190kph|1.02|25|-A2|86.04%|1751|94.80%|
+|Vanwall|Vanderwell 680|LMHNH|2:09.58|2:04.04|1030kg|520kw|210.0kph|-|520kw|908MJ|300.09kph|-|1.02|25|+Ω1|91.42%|501|1.97%|
 
 ## Power below Threshhold
 |N/Nmax|ACU|ALP|BMW|CAD|FER|GLI|IF|LBG|PEU|POR|TOY|VAN|

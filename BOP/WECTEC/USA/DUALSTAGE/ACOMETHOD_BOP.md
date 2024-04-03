@@ -1,3 +1,22 @@
+|Manufacturer|Car|Weight|Power|PINC|E/Stint|FDS|
+|:-|:-|:-|:-|:-|:-|:-|
+|Acura|ARX06|1080kg|509kw|1%|909MJ|-|
+|Alpine|A424|1071kg|507kw|-1%|900MJ|-|
+|BMW|M Hybrid V8 LMDh|1068kg|503kw|1%|892MJ|-|
+|Cadillac|V-Series.R|1032kg|496kw|-1%|869MJ|-|
+|Ferrari|499P|1085kg|500kw|-1%|883MJ|190kph|
+|Glickenhaus|007|1039kg|517kw|-|911MJ|-|
+|Issotta Fraschini|Tipo6C|1081kg|520kw|-|923MJ|190kph|
+|Lamborghini|SC63|1041kg|503kw|-|884MJ|-|
+|Peugeot|9X8|1039kg|513kw|-|905MJ|150kph|
+|Porsche|963|1048kg|502kw|-1%|885MJ|-|
+|Toyota|GR010 - Hybrid|1099kg|507kw|1%|905MJ|190kph|
+|Vanwall|Vanderwell 680|1030kg|520kw|-|908MJ|-|
+
+### BoP Accuracy: 86.18%; Overall BoP Grade: B1
+![PACECHART](./IMG/ACOMETHOD.png)
+![STRAIGHTLINEPERFORMANCECHART](./IMG/ACOMETHOD_sp.png)
+![TYREPERFORMANCECHART](./IMG/ACOMETHOD_tw.png)
 |Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |Acura|ARX06|LMDH|1:51.39|1:47.74|1080kg|509kw|210.0kph|1%|514kw|909MJ|282.47kph|-|0.99|33|-E1|100.00%|995|58.39%|
@@ -5,18 +24,13 @@
 |BMW|M Hybrid V8 LMDh|LMDH|1:52.03|1:47.89|1068kg|503kw|210.0kph|1%|508kw|892MJ|278.95kph|-|1.01|33|~A1|98.60%|1690|100.00%|
 |Cadillac|V-Series.R|LMDH|1:52.23|1:48.39|1032kg|496kw|210.0kph|-1%|491kw|869MJ|283.35kph|-|1.03|33|+B2|98.38%|1765|84.21%|
 |Ferrari|499P|LMHHU|1:51.70|1:47.86|1085kg|500kw|210.0kph|-1%|495kw|883MJ|283.41kph|190kph|1.01|33|-A2|92.24%|2247|91.80%|
-|Glickenhaus|007|LMHNH|1:52.03|1:48.82|1039kg|517kw|210.0kph|0%|517kw|911MJ|288.66kph|-|0.94|33|+B1|96.18%|554|86.85%|
-|Issotta Fraschini|Tipo6C|LMHHU|1:52.03|1:48.78|1081kg|520kw|210.0kph|0%|520kw|923MJ|283.24kph|190kph|1.03|33|+A2|66.67%|96|92.97%|
-|Lamborghini|SC63|LMDH|1:52.03|1:47.80|1041kg|503kw|210.0kph|0%|503kw|884MJ|281.85kph|-|1.05|33|+A2|96.77%|419|92.67%|
-|Peugeot|9X8|LMHHE|1:52.03|1:48.41|1039kg|513kw|210.0kph|0%|513kw|905MJ|284.94kph|150kph|1.02|33|~A1|87.65%|1795|100.00%|
+|Glickenhaus|007|LMHNH|1:52.03|1:48.82|1039kg|517kw|210.0kph|-|517kw|911MJ|288.66kph|-|0.94|33|+B1|96.18%|554|86.85%|
+|Issotta Fraschini|Tipo6C|LMHHU|1:52.03|1:48.78|1081kg|520kw|210.0kph|-|520kw|923MJ|283.24kph|190kph|1.03|33|+A2|66.67%|96|92.97%|
+|Lamborghini|SC63|LMDH|1:52.03|1:47.80|1041kg|503kw|210.0kph|-|503kw|884MJ|281.85kph|-|1.05|33|+A2|96.77%|419|92.67%|
+|Peugeot|9X8|LMHHE|1:52.03|1:48.41|1039kg|513kw|210.0kph|-|513kw|905MJ|284.94kph|150kph|1.02|33|~A1|87.65%|1795|100.00%|
 |Porsche|963|LMDH|1:52.07|1:48.26|1048kg|502kw|210.0kph|-1%|497kw|885MJ|283.38kph|-|1.02|33|~A1|96.81%|5438|100.00%|
 |Toyota|GR010 - Hybrid|LMHHU|1:51.14|1:47.16|1099kg|507kw|210.0kph|1%|512kw|905MJ|282.29kph|190kph|1.00|33|-D1|86.04%|1751|65.21%|
-|Vanwall|Vanderwell 680|LMHNH|1:53.02|1:49.25|1030kg|520kw|210.0kph|0%|520kw|908MJ|281.48kph|-|1.01|33|+D2|91.42%|501|62.11%|
-
-### BoP Accuracy: 86.18%; Overall BoP Grade: B1
-![PACECHART](./IMG/ACOMETHOD.png)
-![STRAIGHTLINEPERFORMANCECHART](./IMG/ACOMETHOD_sp.png)
-![TYREPERFORMANCECHART](./IMG/ACOMETHOD_tw.png)
+|Vanwall|Vanderwell 680|LMHNH|1:53.02|1:49.25|1030kg|520kw|210.0kph|-|520kw|908MJ|281.48kph|-|1.01|33|+D2|91.42%|501|62.11%|
 
 ## Power below Threshhold
 |N/Nmax|ACU|ALP|BMW|CAD|FER|GLI|IF|LBG|PEU|POR|TOY|VAN|

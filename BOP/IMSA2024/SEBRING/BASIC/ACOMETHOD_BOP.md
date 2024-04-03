@@ -1,15 +1,22 @@
-|Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|Acura|ARX06|LMDH|1:52.69|1:49.11|1070kg|510kw|210.0kph|0%|510kw|907MJ|277.66kph|-|1.00|29|+B1|100.00%|995|86.05%|
-|BMW|M Hybrid V8 LMDh|LMDH|1:52.70|1:48.67|1058kg|507kw|210.0kph|0%|507kw|893MJ|274.60kph|-|1.02|29|~A1|98.60%|1690|100.00%|
-|Cadillac|V-Series.R|LMDH|1:52.68|1:48.95|1042kg|496kw|210.0kph|0%|496kw|872MJ|278.03kph|-|1.02|29|~A1|98.38%|1765|96.06%|
-|Lamborghini|SC63|LMDH|1:52.79|1:48.66|1041kg|502kw|210.0kph|0%|502kw|883MJ|276.67kph|-|1.05|29|+B1|96.77%|419|89.14%|
-|Porsche|963|LMDH|1:52.70|1:49.00|1050kg|502kw|210.0kph|0%|502kw|887MJ|278.59kph|-|1.02|29|~A1|96.81%|5438|100.00%|
+|Manufacturer|Car|Weight|Power|PINC|E/Stint|FDS|
+|:-|:-|:-|:-|:-|:-|:-|
+|Acura|ARX06|1070kg|510kw|-|907MJ|-|
+|BMW|M Hybrid V8 LMDh|1058kg|507kw|-|893MJ|-|
+|Cadillac|V-Series.R|1042kg|496kw|-|872MJ|-|
+|Lamborghini|SC63|1041kg|502kw|-|883MJ|-|
+|Porsche|963|1050kg|502kw|-|887MJ|-|
 
 ### BoP Accuracy: 94.25%; Overall BoP Grade: A2
 ![PACECHART](./IMG/ACOMETHOD.png)
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/ACOMETHOD_sp.png)
 ![TYREPERFORMANCECHART](./IMG/ACOMETHOD_tw.png)
+|Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|Acura|ARX06|LMDH|1:52.69|1:49.11|1070kg|510kw|210.0kph|-|510kw|907MJ|277.66kph|-|1.00|29|+B1|100.00%|995|86.05%|
+|BMW|M Hybrid V8 LMDh|LMDH|1:52.70|1:48.67|1058kg|507kw|210.0kph|-|507kw|893MJ|274.60kph|-|1.02|29|~A1|98.60%|1690|100.00%|
+|Cadillac|V-Series.R|LMDH|1:52.68|1:48.95|1042kg|496kw|210.0kph|-|496kw|872MJ|278.03kph|-|1.02|29|~A1|98.38%|1765|96.06%|
+|Lamborghini|SC63|LMDH|1:52.79|1:48.66|1041kg|502kw|210.0kph|-|502kw|883MJ|276.67kph|-|1.05|29|+B1|96.77%|419|89.14%|
+|Porsche|963|LMDH|1:52.70|1:49.00|1050kg|502kw|210.0kph|-|502kw|887MJ|278.59kph|-|1.02|29|~A1|96.81%|5438|100.00%|
 
 ## Power below Threshhold
 |N/Nmax|ACU|BMW|CAD|LBG|POR|

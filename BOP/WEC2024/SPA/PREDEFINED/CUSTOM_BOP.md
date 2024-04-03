@@ -1,18 +1,28 @@
-|Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|Alpine|A424|LMDH|2:07.59|2:01.74|1070kg|510kw|210.0kph|0%|510kw|905MJ|302.06kph|-|0.99|25|~A1|81.46%|523|100.00%|
-|BMW|M Hybrid V8 LMDh|LMDH|2:07.89|2:01.98|1060kg|506kw|210.0kph|0%|506kw|892MJ|297.80kph|-|1.01|25|~A1|98.60%|1690|99.18%|
-|Cadillac|V-Series.R|LMDH|2:07.69|2:02.14|1032kg|499kw|210.0kph|0%|499kw|873MJ|302.99kph|-|1.03|25|~A1|98.38%|1765|98.40%|
-|Ferrari|499P|LMHHU|2:06.88|2:01.36|1075kg|503kw|210.0kph|0%|503kw|887MJ|303.76kph|190kph|1.01|25|-D1|92.24%|2247|66.28%|
-|Issotta Fraschini|Tipo6C|LMHHU|2:09.17|2:04.17|1085kg|514kw|210.0kph|0%|514kw|918MJ|300.81kph|190kph|1.02|25|+Ω1|66.67%|96|28.05%|
-|Lamborghini|SC63|LMDH|2:08.32|2:02.27|1041kg|502kw|210.0kph|0%|502kw|883MJ|300.33kph|-|1.05|25|+C2|96.77%|419|70.76%|
-|Porsche|963|LMDH|2:07.61|2:02.09|1048kg|505kw|210.0kph|0%|505kw|889MJ|303.01kph|-|1.02|25|~A1|96.81%|5438|96.97%|
-|Toyota|GR010 - Hybrid|LMHHU|2:06.84|2:01.11|1089kg|510kw|210.0kph|0%|510kw|905MJ|301.49kph|190kph|1.01|25|-D1|86.04%|1751|66.68%|
+|Manufacturer|Car|Weight|Power|PINC|E/Stint|FDS|
+|:-|:-|:-|:-|:-|:-|:-|
+|Alpine|A424|1070kg|510kw|-|905MJ|-|
+|BMW|M Hybrid V8 LMDh|1060kg|506kw|-|892MJ|-|
+|Cadillac|V-Series.R|1032kg|499kw|-|873MJ|-|
+|Ferrari|499P|1075kg|503kw|-|887MJ|190kph|
+|Issotta Fraschini|Tipo6C|1085kg|514kw|-|918MJ|190kph|
+|Lamborghini|SC63|1041kg|502kw|-|883MJ|-|
+|Porsche|963|1048kg|505kw|-|889MJ|-|
+|Toyota|GR010 - Hybrid|1089kg|510kw|-|905MJ|190kph|
 
 ### BoP Accuracy: 78.29%; Overall BoP Grade: C1
 ![PACECHART](./IMG/CUSTOM.png)
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/CUSTOM_sp.png)
 ![TYREPERFORMANCECHART](./IMG/CUSTOM_tw.png)
+|Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|Alpine|A424|LMDH|2:07.59|2:01.74|1070kg|510kw|210.0kph|-|510kw|905MJ|302.06kph|-|0.99|25|~A1|81.46%|523|100.00%|
+|BMW|M Hybrid V8 LMDh|LMDH|2:07.89|2:01.98|1060kg|506kw|210.0kph|-|506kw|892MJ|297.80kph|-|1.01|25|~A1|98.60%|1690|99.18%|
+|Cadillac|V-Series.R|LMDH|2:07.69|2:02.14|1032kg|499kw|210.0kph|-|499kw|873MJ|302.99kph|-|1.03|25|~A1|98.38%|1765|98.40%|
+|Ferrari|499P|LMHHU|2:06.88|2:01.36|1075kg|503kw|210.0kph|-|503kw|887MJ|303.76kph|190kph|1.01|25|-D1|92.24%|2247|66.28%|
+|Issotta Fraschini|Tipo6C|LMHHU|2:09.17|2:04.17|1085kg|514kw|210.0kph|-|514kw|918MJ|300.81kph|190kph|1.02|25|+Ω1|66.67%|96|28.05%|
+|Lamborghini|SC63|LMDH|2:08.32|2:02.27|1041kg|502kw|210.0kph|-|502kw|883MJ|300.33kph|-|1.05|25|+C2|96.77%|419|70.76%|
+|Porsche|963|LMDH|2:07.61|2:02.09|1048kg|505kw|210.0kph|-|505kw|889MJ|303.01kph|-|1.02|25|~A1|96.81%|5438|96.97%|
+|Toyota|GR010 - Hybrid|LMHHU|2:06.84|2:01.11|1089kg|510kw|210.0kph|-|510kw|905MJ|301.49kph|190kph|1.01|25|-D1|86.04%|1751|66.68%|
 
 ## Power below Threshhold
 |N/Nmax|ALP|BMW|CAD|FER|IF|LBG|POR|TOY|
