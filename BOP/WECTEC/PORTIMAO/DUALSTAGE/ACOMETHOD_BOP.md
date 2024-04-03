@@ -13,10 +13,11 @@
 |Toyota|GR010 - Hybrid|1099kg|507kw|1%|905MJ|190kph|
 |Vanwall|Vanderwell 680|1030kg|520kw|-|908MJ|-|
 
-### BoP Accuracy: 86.81%; Overall BoP Grade: B1
 ![PACECHART](./IMG/ACOMETHOD.png)
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/ACOMETHOD_sp.png)
 ![TYREPERFORMANCECHART](./IMG/ACOMETHOD_tw.png)
+
+### BoP Accuracy: 86.81%; Overall BoP Grade: B1
 |Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |Acura|ARX06|LMDH|1:34.98|1:31.48|1080kg|509kw|210.0kph|1%|514kw|909MJ|298.40kph|-|0.99|40|-D2|100.00%|995|60.49%|

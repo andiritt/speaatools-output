@@ -8,10 +8,11 @@
 |Toyota|GR010 - Hybrid|1080kg|507kw|-|901MJ|190kph|
 |Vanwall|Vanderwell 680|1030kg|520kw|-|908MJ|-|
 
-### BoP Accuracy: 78.16%; Overall BoP Grade: C1
 ![PACECHART](./IMG/OFFICIAL.png)
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/OFFICIAL_sp.png)
 ![TYREPERFORMANCECHART](./IMG/OFFICIAL_tw.png)
+
+### BoP Accuracy: 78.16%; Overall BoP Grade: C1
 |Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |Cadillac|V-Series.R|LMDH|1:39.00|1:35.88|1032kg|498kw|210.0kph|-|498kw|872MJ|303.22kph|-|1.03|29|+A2|98.38%|1765|93.75%|

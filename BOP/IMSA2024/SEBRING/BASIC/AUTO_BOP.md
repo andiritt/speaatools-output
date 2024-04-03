@@ -6,10 +6,11 @@
 |Lamborghini|SC63|1057kg|520kw|-|901MJ|-|
 |Porsche|963|1030kg|504kw|-|886MJ|-|
 
-### BoP Accuracy: 94.71%; Overall BoP Grade: A2
 ![PACECHART](./IMG/AUTO.png)
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/AUTO_sp.png)
 ![TYREPERFORMANCECHART](./IMG/AUTO_tw.png)
+
+### BoP Accuracy: 94.71%; Overall BoP Grade: A2
 |Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |Acura|ARX06|LMDH|1:51.79|1:48.27|1030kg|503kw|210.0kph|-|503kw|897MJ|279.35kph|-|1.03|29|+B1|100.00%|995|86.06%|

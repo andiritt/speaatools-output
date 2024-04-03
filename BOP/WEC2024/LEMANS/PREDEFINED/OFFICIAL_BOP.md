@@ -5,10 +5,11 @@
 |Porsche|963|1048kg|516kw|-|899MJ|-|
 |Toyota|GR010 - Hybrid|1080kg|512kw|-|906MJ|190kph|
 
-### BoP Accuracy: 92.48%; Overall BoP Grade: A2
 ![PACECHART](./IMG/OFFICIAL.png)
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/OFFICIAL_sp.png)
 ![TYREPERFORMANCECHART](./IMG/OFFICIAL_tw.png)
+
+### BoP Accuracy: 92.48%; Overall BoP Grade: A2
 |Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |Cadillac|V-Series.R|LMDH|3:30.54|3:23.58|1046kg|513kw|0.0kph|-|513kw|887MJ|330.18kph|-|1.02|12|+B1|98.38%|1765|86.97%|

@@ -9,10 +9,11 @@
 |Porsche|963|1048kg|505kw|-|889MJ|-|
 |Toyota|GR010 - Hybrid|1089kg|510kw|-|905MJ|190kph|
 
-### BoP Accuracy: 78.68%; Overall BoP Grade: C1
 ![PACECHART](./IMG/CUSTOM.png)
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/CUSTOM_sp.png)
 ![TYREPERFORMANCECHART](./IMG/CUSTOM_tw.png)
+
+### BoP Accuracy: 78.68%; Overall BoP Grade: C1
 |Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |Alpine|A424|LMDH|1:51.45|1:47.39|1070kg|510kw|210.0kph|-|510kw|905MJ|283.34kph|-|1.00|33|~A1|81.46%|523|100.00%|
