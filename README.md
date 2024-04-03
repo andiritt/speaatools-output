@@ -38,7 +38,7 @@ By progressively releasing data and eventually the entire codebase, we hope to f
 ## Current Usage
 
 This software is used for BoP and race analysis posts on the following two forums:
- - [r/WEC](https://www.reddit.com/r/WEC/): 
+ - [r/WEC](https://www.reddit.com/r/WEC/)
  - [discuit.net/WEC](https://discuit.net/WEC)
 
 **Streamlining Communication Channels:**
