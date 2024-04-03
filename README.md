@@ -114,6 +114,7 @@ This section is your one-stop shop for race analysis! Dive into insightful race 
 |                | - Lower value: Less Downforce per KG                       |       |
 |                | - Value < 0.95: Too Low/Inefficient Downforce Setup        |       |
 |                | - Value > 1.05: Too High/Inefficient Downforce Setup       |       |
+
 **Additional Information:**
 
 - **Grading System:** A1 > A2 > B1 > B2 > C1 > C2 > D1 > D2 > E1 > E2 > Ω1 > Ω2
