@@ -68,6 +68,7 @@ This roadmap outlines the key milestones for the SPE&A-Tools project:
 **Ongoing Focus:**
 
 - **Enhanced Accuracy:** We're continuously working to improve the accuracy of our pace simulation models and the BoPs (Balance of Performance) they generate. This ensures the tools provide the most reliable insights for analyzing WEC data.
+- **(Optional)Additional Car Classes:** Reintroduction of lmp2s and addition of gt cars. 
 
 **Open-Source Progress:**
 
