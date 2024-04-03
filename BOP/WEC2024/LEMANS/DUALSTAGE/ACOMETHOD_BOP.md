@@ -10,7 +10,9 @@
 | Toyota            | GR010 - Hybrid   | LMHHU | 3:31.74 | 3:24.30 | 1099kg | 507kw  | 210.0kph   | 1%   | 512kw  | 904MJ   | 319.27kph-351.98kph | 190kph | 1.00 | 12      | -C2       | 86.04%        | 1751        | 73.95%  |
 
 ### BoP Accuracy: 87.78%; Overall BoP Grade: B1
-![](BOP/WEC2024/LEMANS/DUALSTAGE/IMG/ACOMETHOD.png)![](BOP/WEC2024/LEMANS/DUALSTAGE/IMG/ACOMETHOD_sp.png)![](BOP/WEC2024/LEMANS/DUALSTAGE/IMG/ACOMETHOD_tw.png)
+![](BOP/WEC2024/LEMANS/DUALSTAGE/IMG/ACOMETHOD.png)
+![](BOP/WEC2024/LEMANS/DUALSTAGE/IMG/ACOMETHOD_sp.png)
+![](BOP/WEC2024/LEMANS/DUALSTAGE/IMG/ACOMETHOD_tw.png)
 ## Power below Threshhold
 |N/Nmax|TOY|FER|CAD|POR|IF|BMW|ALP|LBG|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
