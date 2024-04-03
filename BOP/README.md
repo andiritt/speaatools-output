@@ -66,4 +66,4 @@ The SPEAA-Tools software utilizes a grading system and performance windows to ev
 
 **Accessing Reports:**
 
-For race analysis and previews that utilize the BoP data, please visit the Reports folder in this repository. ([Link to Reports folder])
+For race analysis and previews that utilize the BoP data, please visit the Reports folder in this repository. [[Link to Reports folder](https://github.com/andiritt/speaatools-output/tree/master/Reports)]

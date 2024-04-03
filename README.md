@@ -12,6 +12,17 @@
 
 ## Table of Contents
 
+- [Sportscar  Equalization and Analysis Tools (SPEAA-Tools)](#sportscar--equalization-and-analysis-tools-speaa-tools)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Current Usage](#current-usage)
+  - [SPEAA-Tools Development Roadmap](#speaa-tools-development-roadmap)
+  - [Folders](#folders)
+  - [Value Explanations](#value-explanations)
+  - [Plot Explanations](#plot-explanations)
+  - [End Section](#end-section)
+
+
 ## Introduction
 **Welcome to the SPEAA-Tools Data Repo!**
 
