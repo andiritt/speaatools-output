@@ -14,18 +14,18 @@
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/OFFICIAL_sp.png)
 ![TYREPERFORMANCECHART](./IMG/OFFICIAL_tw.png)
 
-### BoP Accuracy: 76.75%; Overall BoP Grade: C1
+### BoP Accuracy: 76.74%; Overall BoP Grade: C1
 |Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|Alpine|A480|LMP1|1:37.88|1:35.53|952kg|428kw|0.0kph|-|428kw|763MJ|300.65kph|-|0.97|27|-C2|67.92%|957|72.04%|
-|Cadillac|V-Series.R|LMDH|1:39.01|1:35.87|1032kg|498kw|210.0kph|-|498kw|887MJ|302.65kph|-|1.03|29|+C2|91.10%|1770|73.26%|
+|Alpine|A480|LMP1|1:37.88|1:35.53|952kg|428kw|0.0kph|-|428kw|763MJ|300.65kph|-|0.97|27|-C2|67.92%|957|71.95%|
+|Cadillac|V-Series.R|LMDH|1:39.01|1:35.87|1032kg|498kw|210.0kph|-|498kw|887MJ|302.65kph|-|1.03|29|+C2|91.10%|1770|73.27%|
 |Ferrari|499P|LMHHU|1:38.79|1:35.80|1069kg|497kw|210.0kph|-|497kw|890MJ|302.91kph|190kph|1.03|29|~A1|84.26%|2292|100.00%|
 |Glickenhaus|007|LMHNH|1:38.72|1:36.37|1030kg|520kw|210.0kph|-|520kw|910MJ|307.46kph|-|0.96|29|~A1|94.63%|1605|100.00%|
 |Peugeot|9X8|LMHHE|1:38.60|1:35.86|1046kg|520kw|210.0kph|-|520kw|906MJ|303.27kph|150kph|1.02|29|~A1|83.63%|2468|100.00%|
-|Porsche|963|LMDH|1:38.88|1:35.69|1049kg|506kw|210.0kph|-|506kw|893MJ|302.77kph|-|1.02|29|~A1|93.14%|5746|99.18%|
+|Porsche|963|LMDH|1:38.88|1:35.69|1049kg|506kw|210.0kph|-|506kw|893MJ|302.77kph|-|1.02|29|~A1|93.14%|5746|99.19%|
 |Toyota|GR010|LMHHU|1:38.33|1:35.37|1080kg|507kw|210.0kph|-|507kw|900MJ|303.65kph|190kph|1.01|29|-B1|87.37%|3154|86.90%|
 |Toyota|GR010OLD|LMHHE|1:37.63|1:34.60|1066kg|515kw|0.0kph|-|515kw|907MJ|307.26kph|150kph|1.02|29|-E2|89.81%|1393|50.05%|
-|Vanwall|Vanderwell 680|LMHNH|1:40.67|1:37.07|1030kg|520kw|210.0kph|-|520kw|903MJ|300.53kph|-|1.01|29|+Ω1|90.28%|604|9.28%|
+|Vanwall|Vanderwell 680|LMHNH|1:40.67|1:37.07|1030kg|520kw|210.0kph|-|520kw|903MJ|300.53kph|-|1.01|29|+Ω1|90.28%|604|9.27%|
 
 ## Power below Threshhold
 |N/Nmax|VSERIES.R|499P|007|9X8|963|GR010|GR010OLD|VANDERWELL680|​|RPM|A480|

@@ -2,7 +2,7 @@
 |:-|:-|:-|:-|:-|:-|:-|
 |Acura|ARX06|1034kg|516kw|-2%|907MJ|-|
 |Alpine|A424|1031kg|514kw|-1%|907MJ|-|
-|Alpine|A480|930kg|410kw|5%|753MJ|-|
+|Alpine|A480|931kg|410kw|5%|754MJ|-|
 |BMW|M Hybrid V8 LMDh|1044kg|510kw|2%|907MJ|-|
 |Cadillac|V-Series.R|1034kg|510kw|-|898MJ|-|
 |Ferrari|499P|1059kg|516kw|-4%|897MJ|190kph|
@@ -19,23 +19,23 @@
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/AUTO_sp.png)
 ![TYREPERFORMANCECHART](./IMG/AUTO_tw.png)
 
-### BoP Accuracy: 86.29%; Overall BoP Grade: B1
+### BoP Accuracy: 86.27%; Overall BoP Grade: B1
 |Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|Acura|ARX06|LMDH|1:52.28|1:46.23|1034kg|516kw|210.0kph|-2%|506kw|907MJ|280.37kph|-|1.03|35|-C1|100.00%|995|77.44%|
-|Alpine|A424|LMDH|1:52.26|1:48.54|1031kg|514kw|210.0kph|-1%|509kw|907MJ|280.34kph|-|1.03|34|~A1|81.15%|521|99.56%|
-|Alpine|A480|LMP1|1:52.26|1:47.68|930kg|410kw|210.0kph|5%|431kw|753MJ|278.37kph|-|1.00|32|~A1|67.92%|957|100.00%|
-|BMW|M Hybrid V8 LMDh|LMDH|1:52.27|1:47.15|1044kg|510kw|210.0kph|2%|520kw|907MJ|276.70kph|-|1.03|34|-A2|98.60%|1690|90.17%|
-|Cadillac|V-Series.R|LMDH|1:52.27|1:46.87|1034kg|510kw|210.0kph|-|510kw|898MJ|280.44kph|-|1.03|34|-A2|91.10%|1770|94.49%|
-|Ferrari|499P|LMHHU|1:52.28|1:47.03|1059kg|516kw|210.0kph|-4%|495kw|897MJ|280.38kph|190kph|1.03|35|~A1|84.26%|2292|98.67%|
-|Glickenhaus|007|LMHNH|1:52.85|1:48.30|1030kg|520kw|0.0kph|-|520kw|910MJ|283.35kph|-|0.96|34|~A1|94.63%|1605|96.96%|
-|Issotta Fraschini|Tipo6C|LMHHU|1:52.30|1:49.44|1030kg|520kw|0.0kph|-|520kw|916MJ|281.55kph|150kph|1.08|34|+B1|66.67%|96|86.42%|
-|Lamborghini|SC63|LMDH|1:52.28|1:49.62|1058kg|520kw|210.0kph|-|520kw|913MJ|277.56kph|-|1.03|34|+B1|96.77%|419|88.30%|
+|Acura|ARX06|LMDH|1:52.28|1:46.23|1034kg|516kw|210.0kph|-2%|506kw|907MJ|280.37kph|-|1.03|35|-C1|100.00%|995|77.38%|
+|Alpine|A424|LMDH|1:52.26|1:48.54|1031kg|514kw|210.0kph|-1%|509kw|907MJ|280.34kph|-|1.03|34|~A1|81.15%|521|99.57%|
+|Alpine|A480|LMP1|1:52.28|1:47.70|931kg|410kw|210.0kph|5%|431kw|754MJ|278.29kph|-|0.99|32|~A1|67.92%|957|100.00%|
+|BMW|M Hybrid V8 LMDh|LMDH|1:52.27|1:47.15|1044kg|510kw|210.0kph|2%|520kw|907MJ|276.70kph|-|1.03|34|-A2|98.60%|1690|90.11%|
+|Cadillac|V-Series.R|LMDH|1:52.27|1:46.87|1034kg|510kw|210.0kph|-|510kw|898MJ|280.44kph|-|1.03|34|-A2|91.10%|1770|94.43%|
+|Ferrari|499P|LMHHU|1:52.28|1:47.03|1059kg|516kw|210.0kph|-4%|495kw|897MJ|280.38kph|190kph|1.03|35|~A1|84.26%|2292|98.60%|
+|Glickenhaus|007|LMHNH|1:52.85|1:48.30|1030kg|520kw|0.0kph|-|520kw|910MJ|283.35kph|-|0.96|34|~A1|94.63%|1605|97.04%|
+|Issotta Fraschini|Tipo6C|LMHHU|1:52.30|1:49.44|1030kg|520kw|0.0kph|-|520kw|916MJ|281.55kph|150kph|1.08|34|+B1|66.67%|96|86.43%|
+|Lamborghini|SC63|LMDH|1:52.28|1:49.62|1058kg|520kw|210.0kph|-|520kw|913MJ|277.56kph|-|1.03|34|+B1|96.77%|419|88.31%|
 |Peugeot|9X8|LMHHE|1:52.31|1:47.34|1030kg|520kw|0.0kph|-|520kw|904MJ|280.57kph|140kph|1.03|34|~A1|83.63%|2468|100.00%|
-|Porsche|963|LMDH|1:52.26|1:46.81|1034kg|518kw|210.0kph|-2%|508kw|898MJ|280.72kph|-|1.03|35|-A2|93.14%|5746|93.24%|
-|Toyota|GR010|LMHHU|1:52.26|1:47.02|1057kg|518kw|210.0kph|-4%|497kw|898MJ|280.79kph|190kph|1.03|35|~A1|87.37%|3154|96.00%|
-|Toyota|GR010OLD|LMHHE|1:52.27|1:46.90|1054kg|518kw|210.0kph|-2%|508kw|904MJ|283.41kph|190kph|1.03|35|~A1|89.81%|1393|95.07%|
-|Vanwall|Vanderwell 680|LMHNH|1:55.09|1:49.08|1030kg|520kw|0.0kph|-|520kw|903MJ|276.96kph|-|1.01|34|+Ω2|90.28%|604|-8.22%|
+|Porsche|963|LMDH|1:52.26|1:46.81|1034kg|518kw|210.0kph|-2%|508kw|898MJ|280.72kph|-|1.03|35|-A2|93.14%|5746|93.17%|
+|Toyota|GR010|LMHHU|1:52.26|1:47.02|1057kg|518kw|210.0kph|-4%|497kw|898MJ|280.79kph|190kph|1.03|35|~A1|87.37%|3154|95.93%|
+|Toyota|GR010OLD|LMHHE|1:52.27|1:46.90|1054kg|518kw|210.0kph|-2%|508kw|904MJ|283.41kph|190kph|1.03|35|~A1|89.81%|1393|95.01%|
+|Vanwall|Vanderwell 680|LMHNH|1:55.09|1:49.08|1030kg|520kw|0.0kph|-|520kw|903MJ|276.96kph|-|1.01|34|+Ω2|90.28%|604|-8.16%|
 
 ## Power below Threshhold
 |N/Nmax|ARX06|A424|MHYBRIDV8LMDH|VSERIES.R|499P|007|TIPO6C|SC63|9X8|963|GR010|GR010OLD|VANDERWELL680|​|RPM|A480|

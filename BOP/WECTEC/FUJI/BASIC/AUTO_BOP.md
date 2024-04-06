@@ -2,7 +2,7 @@
 |:-|:-|:-|:-|:-|:-|:-|
 |Acura|ARX06|1037kg|510kw|-|906MJ|-|
 |Alpine|A424|1035kg|511kw|-|906MJ|-|
-|Alpine|A480|932kg|416kw|-|750MJ|-|
+|Alpine|A480|933kg|416kw|-|750MJ|-|
 |BMW|M Hybrid V8 LMDh|1045kg|514kw|-|907MJ|-|
 |Cadillac|V-Series.R|1033kg|508kw|-|896MJ|-|
 |Ferrari|499P|1058kg|504kw|-|895MJ|190kph|
@@ -19,23 +19,23 @@
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/AUTO_sp.png)
 ![TYREPERFORMANCECHART](./IMG/AUTO_tw.png)
 
-### BoP Accuracy: 86.93%; Overall BoP Grade: B1
+### BoP Accuracy: 86.91%; Overall BoP Grade: B1
 |Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|Acura|ARX06|LMDH|1:32.54|1:27.69|1037kg|510kw|0.0kph|-|510kw|906MJ|326.87kph|-|1.03|41|-C1|100.00%|995|77.95%|
-|Alpine|A424|LMDH|1:32.55|1:29.61|1035kg|511kw|0.0kph|-|511kw|906MJ|326.60kph|-|1.03|41|~A1|81.15%|521|99.59%|
-|Alpine|A480|LMP1|1:32.53|1:28.90|932kg|416kw|0.0kph|-|416kw|750MJ|322.52kph|-|1.00|38|~A1|67.92%|957|100.00%|
-|BMW|M Hybrid V8 LMDh|LMDH|1:32.55|1:28.45|1045kg|514kw|0.0kph|-|514kw|907MJ|321.97kph|-|1.03|41|-A2|98.60%|1690|91.05%|
-|Cadillac|V-Series.R|LMDH|1:32.54|1:28.23|1033kg|508kw|0.0kph|-|508kw|896MJ|326.79kph|-|1.03|41|+A2|91.10%|1770|94.58%|
-|Ferrari|499P|LMHHU|1:32.54|1:28.35|1058kg|504kw|0.0kph|-|504kw|895MJ|327.53kph|190kph|1.03|41|~A1|84.26%|2292|98.93%|
+|Acura|ARX06|LMDH|1:32.54|1:27.69|1037kg|510kw|0.0kph|-|510kw|906MJ|326.87kph|-|1.03|41|-C1|100.00%|995|77.88%|
+|Alpine|A424|LMDH|1:32.55|1:29.61|1035kg|511kw|0.0kph|-|511kw|906MJ|326.60kph|-|1.03|41|~A1|81.15%|521|99.60%|
+|Alpine|A480|LMP1|1:32.55|1:28.91|933kg|416kw|0.0kph|-|416kw|750MJ|322.43kph|-|0.99|38|~A1|67.92%|957|100.00%|
+|BMW|M Hybrid V8 LMDh|LMDH|1:32.55|1:28.45|1045kg|514kw|0.0kph|-|514kw|907MJ|321.97kph|-|1.03|41|-A2|98.60%|1690|90.99%|
+|Cadillac|V-Series.R|LMDH|1:32.54|1:28.23|1033kg|508kw|0.0kph|-|508kw|896MJ|326.79kph|-|1.03|41|+A2|91.10%|1770|94.59%|
+|Ferrari|499P|LMHHU|1:32.54|1:28.35|1058kg|504kw|0.0kph|-|504kw|895MJ|327.53kph|190kph|1.03|41|~A1|84.26%|2292|98.86%|
 |Glickenhaus|007|LMHNH|1:32.95|1:29.33|1030kg|520kw|0.0kph|-|520kw|910MJ|330.43kph|-|0.96|40|~A1|94.63%|1605|100.00%|
-|Issotta Fraschini|Tipo6C|LMHHU|1:32.59|1:30.36|1030kg|520kw|0.0kph|-|520kw|916MJ|328.33kph|160kph|1.08|40|+B1|66.67%|96|86.45%|
-|Lamborghini|SC63|LMDH|1:32.54|1:30.48|1060kg|520kw|0.0kph|-|520kw|913MJ|323.53kph|-|1.03|40|+B1|96.77%|419|88.30%|
-|Peugeot|9X8|LMHHE|1:32.50|1:28.54|1030kg|520kw|0.0kph|-|520kw|904MJ|327.19kph|140kph|1.04|40|~A1|83.63%|2468|97.33%|
-|Porsche|963|LMDH|1:32.55|1:28.18|1037kg|512kw|0.0kph|-|512kw|897MJ|327.29kph|-|1.03|41|-A2|93.14%|5746|94.74%|
-|Toyota|GR010|LMHHU|1:32.54|1:28.36|1061kg|507kw|0.0kph|-|507kw|898MJ|327.78kph|190kph|1.03|41|~A1|87.37%|3154|97.24%|
-|Toyota|GR010OLD|LMHHE|1:32.54|1:28.25|1060kg|513kw|0.0kph|-|513kw|905MJ|330.36kph|190kph|1.03|41|~A1|89.81%|1393|95.64%|
-|Vanwall|Vanderwell 680|LMHNH|1:34.79|1:29.98|1030kg|520kw|0.0kph|-|520kw|903MJ|322.98kph|-|1.02|40|+Ω2|90.28%|604|-4.72%|
+|Issotta Fraschini|Tipo6C|LMHHU|1:32.59|1:30.36|1030kg|520kw|0.0kph|-|520kw|916MJ|328.33kph|160kph|1.08|40|+B1|66.67%|96|86.47%|
+|Lamborghini|SC63|LMDH|1:32.54|1:30.48|1060kg|520kw|0.0kph|-|520kw|913MJ|323.53kph|-|1.03|40|+B1|96.77%|419|88.32%|
+|Peugeot|9X8|LMHHE|1:32.50|1:28.54|1030kg|520kw|0.0kph|-|520kw|904MJ|327.19kph|140kph|1.04|40|~A1|83.63%|2468|97.26%|
+|Porsche|963|LMDH|1:32.55|1:28.18|1037kg|512kw|0.0kph|-|512kw|897MJ|327.29kph|-|1.03|41|-A2|93.14%|5746|94.67%|
+|Toyota|GR010|LMHHU|1:32.54|1:28.36|1061kg|507kw|0.0kph|-|507kw|898MJ|327.78kph|190kph|1.03|41|~A1|87.37%|3154|97.17%|
+|Toyota|GR010OLD|LMHHE|1:32.54|1:28.25|1060kg|513kw|0.0kph|-|513kw|905MJ|330.36kph|190kph|1.03|41|~A1|89.81%|1393|95.57%|
+|Vanwall|Vanderwell 680|LMHNH|1:34.79|1:29.98|1030kg|520kw|0.0kph|-|520kw|903MJ|322.98kph|-|1.02|40|+Ω2|90.28%|604|-4.66%|
 
 ## Power below Threshhold
 |N/Nmax|ARX06|A424|MHYBRIDV8LMDH|VSERIES.R|499P|007|TIPO6C|SC63|9X8|963|GR010|GR010OLD|VANDERWELL680|​|RPM|A480|

@@ -19,18 +19,18 @@
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/AUTO_sp.png)
 ![TYREPERFORMANCECHART](./IMG/AUTO_tw.png)
 
-### BoP Accuracy: 91.19%; Overall BoP Grade: A2
+### BoP Accuracy: 91.20%; Overall BoP Grade: A2
 |Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|Acura|ARX06|LMDH|1:52.40|1:47.99|1052kg|503kw|210.0kph|1%|508kw|903MJ|278.43kph|-|1.02|29|+B2|100.00%|995|80.33%|
-|Alpine|A424|LMDH|1:52.41|1:50.37|1048kg|501kw|210.0kph|2%|511kw|902MJ|278.33kph|-|1.01|29|~A1|81.15%|521|99.69%|
-|Alpine|A480|LMP1|1:52.24|1:49.34|952kg|410kw|210.0kph|-|410kw|747MJ|273.66kph|-|0.98|27|~A1|67.92%|957|100.00%|
-|BMW|M Hybrid V8 LMDh|LMDH|1:52.39|1:48.92|1063kg|509kw|210.0kph|2%|519kw|908MJ|274.73kph|-|1.01|29|~A1|98.60%|1690|95.25%|
-|Cadillac|V-Series.R|LMDH|1:52.39|1:48.65|1053kg|500kw|210.0kph|2%|510kw|895MJ|278.30kph|-|1.01|29|+A2|91.10%|1770|94.67%|
+|Acura|ARX06|LMDH|1:52.40|1:47.99|1052kg|503kw|210.0kph|1%|508kw|903MJ|278.43kph|-|1.02|29|+B2|100.00%|995|80.35%|
+|Alpine|A424|LMDH|1:52.41|1:50.37|1048kg|501kw|210.0kph|2%|511kw|902MJ|278.33kph|-|1.01|29|~A1|81.15%|521|99.71%|
+|Alpine|A480|LMP1|1:52.23|1:49.34|952kg|410kw|210.0kph|-|410kw|747MJ|273.66kph|-|0.97|27|~A1|67.92%|957|100.00%|
+|BMW|M Hybrid V8 LMDh|LMDH|1:52.39|1:48.92|1063kg|509kw|210.0kph|2%|519kw|908MJ|274.73kph|-|1.01|29|~A1|98.60%|1690|95.26%|
+|Cadillac|V-Series.R|LMDH|1:52.39|1:48.65|1053kg|500kw|210.0kph|2%|510kw|895MJ|278.30kph|-|1.01|29|+A2|91.10%|1770|94.68%|
 |Ferrari|499P|LMHHU|1:52.40|1:48.81|1068kg|501kw|210.0kph|-1%|496kw|891MJ|278.90kph|190kph|1.02|29|~A1|84.26%|2292|100.00%|
-|Glickenhaus|007|LMHNH|1:52.40|1:49.56|1040kg|520kw|0.0kph|-|520kw|911MJ|282.20kph|-|0.95|29|~A1|94.63%|1605|98.81%|
-|Issotta Fraschini|Tipo6C|LMHHU|1:52.41|1:51.27|1044kg|520kw|0.0kph|-|520kw|918MJ|280.14kph|190kph|1.06|29|+B1|66.67%|96|86.51%|
-|Lamborghini|SC63|LMDH|1:52.42|1:51.48|1072kg|520kw|210.0kph|-|520kw|914MJ|276.20kph|-|1.02|29|+B1|96.77%|419|88.42%|
+|Glickenhaus|007|LMHNH|1:52.40|1:49.56|1040kg|520kw|0.0kph|-|520kw|911MJ|282.20kph|-|0.95|29|~A1|94.63%|1605|98.82%|
+|Issotta Fraschini|Tipo6C|LMHHU|1:52.41|1:51.27|1044kg|520kw|0.0kph|-|520kw|918MJ|280.14kph|190kph|1.06|29|+B1|66.67%|96|86.53%|
+|Lamborghini|SC63|LMDH|1:52.42|1:51.48|1072kg|520kw|210.0kph|-|520kw|914MJ|276.20kph|-|1.02|29|+B1|96.77%|419|88.43%|
 |Peugeot|9X8|LMHHE|1:52.41|1:49.11|1052kg|520kw|0.0kph|-|520kw|906MJ|278.63kph|150kph|1.01|29|~A1|83.63%|2468|100.00%|
 |Porsche|963|LMDH|1:52.42|1:48.61|1049kg|506kw|210.0kph|-|506kw|893MJ|278.57kph|-|1.02|29|~A1|93.14%|5746|100.00%|
 |Toyota|GR010|LMHHU|1:52.42|1:48.84|1066kg|505kw|210.0kph|-2%|495kw|893MJ|279.03kph|190kph|1.03|29|~A1|87.37%|3154|100.00%|
