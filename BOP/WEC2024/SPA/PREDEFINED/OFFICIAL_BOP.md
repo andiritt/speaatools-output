@@ -1,24 +1,24 @@
 |Manufacturer|Car|Weight|Power|PINC|E/Stint|FDS|
 |:-|:-|:-|:-|:-|:-|:-|
-|Cadillac|V-Series.R|1035kg|513kw|-|886MJ|-|
-|Ferrari|499P|1040kg|509kw|-|888MJ|190kph|
-|Porsche|963|1045kg|516kw|-|898MJ|-|
-|Toyota|GR010 - Hybrid|1043kg|512kw|-|902MJ|190kph|
+|Cadillac|V-Series.R|1035kg|513kw|-|901MJ|-|
+|Ferrari|499P|1040kg|509kw|-|897MJ|190kph|
+|Porsche|963|1045kg|516kw|-|902MJ|-|
+|Toyota|GR010|1043kg|512kw|-|900MJ|190kph|
 
 ![PACECHART](./IMG/OFFICIAL.png)
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/OFFICIAL_sp.png)
 ![TYREPERFORMANCECHART](./IMG/OFFICIAL_tw.png)
 
-### BoP Accuracy: 90.86%; Overall BoP Grade: A2
+### BoP Accuracy: 90.62%; Overall BoP Grade: A2
 |Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|Cadillac|V-Series.R|LMDH|2:06.13|2:00.69|1035kg|513kw|0.0kph|-|513kw|886MJ|304.88kph|-|1.03|25|+B2|98.38%|1765|82.20%|
-|Ferrari|499P|LMHHU|2:05.49|2:00.07|1040kg|509kw|0.0kph|-|509kw|888MJ|307.19kph|190kph|1.05|25|-B1|92.24%|2247|86.93%|
-|Porsche|963|LMDH|2:06.29|2:00.87|1045kg|516kw|0.0kph|-|516kw|898MJ|304.87kph|-|1.02|25|~A1|96.81%|5438|97.23%|
-|Toyota|GR010 - Hybrid|LMHHU|2:05.65|2:00.01|1043kg|512kw|0.0kph|-|512kw|902MJ|305.06kph|190kph|1.05|25|~A1|86.04%|1751|97.07%|
+|Cadillac|V-Series.R|LMDH|2:06.15|2:00.67|1035kg|513kw|0.0kph|-|513kw|901MJ|304.29kph|-|1.03|25|+B2|91.10%|1770|82.01%|
+|Ferrari|499P|LMHHU|2:05.62|2:00.35|1040kg|509kw|0.0kph|-|509kw|897MJ|306.44kph|190kph|1.05|25|~A1|84.26%|2292|95.09%|
+|Porsche|963|LMDH|2:06.41|2:00.84|1045kg|516kw|0.0kph|-|516kw|902MJ|304.16kph|-|1.02|25|+A2|93.14%|5746|91.76%|
+|Toyota|GR010|LMHHU|2:05.63|2:00.37|1043kg|512kw|0.0kph|-|512kw|900MJ|306.67kph|190kph|1.05|25|-A2|87.37%|3154|93.61%|
 
 ## Power below Threshhold
-|N/Nmax|CAD|FER|POR|TOY|
+|N/Nmax|VSERIES.R|499P|963|GR010|
 |:-|:-|:-|:-|:-|
 |0.550|253|251|254|252|
 |0.575|276|274|277|275|
@@ -42,7 +42,7 @@
 |1.025|438|435|441|437|
 
 ## Power above Threshhold
-|N/Nmax|CAD|FER|POR|TOY|
+|N/Nmax|VSERIES.R|499P|963|GR010|
 |:-|:-|:-|:-|:-|
 |0.550|253|251|254|252|
 |0.575|276|274|277|275|
