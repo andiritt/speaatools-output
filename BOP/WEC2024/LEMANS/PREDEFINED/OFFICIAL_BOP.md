@@ -1,24 +1,24 @@
-|Manufacturer|Car|Weight|Power|PINC|E/Stint|FDS|
-|:-|:-|:-|:-|:-|:-|:-|
-|Cadillac|V-Series.R|1046kg|513kw|-|902MJ|-|
-|Ferrari|499P|1064kg|509kw|-|900MJ|190kph|
-|Porsche|963|1048kg|516kw|-|902MJ|-|
-|Toyota|GR010|1080kg|512kw|-|904MJ|190kph|
+| Manufacturer | Car        | Weight | Power | PINC | E/Stint | FDS    |
+| :----------- | :--------- | :----- | :---- | :--- | :------ | :----- |
+| Cadillac     | V-Series.R | 1046kg | 513kw | -    | 902MJ   | -      |
+| Ferrari      | 499P       | 1064kg | 509kw | -    | 900MJ   | 190kph |
+| Porsche      | 963        | 1048kg | 516kw | -    | 902MJ   | -      |
+| Toyota       | GR010      | 1080kg | 512kw | -    | 904MJ   | 190kph |
 
 ![PACECHART](./IMG/OFFICIAL.png)
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/OFFICIAL_sp.png)
 ![TYREPERFORMANCECHART](./IMG/OFFICIAL_tw.png)
 
-### BoP Accuracy: 95.70%; Overall BoP Grade: A1
+### BoP Accuracy: 95.92%; Overall BoP Grade: A1
 |Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|Cadillac|V-Series.R|LMDH|3:30.57|3:23.54|1046kg|513kw|0.0kph|-|513kw|902MJ|329.55kph|-|1.02|12|+B1|91.10%|1770|86.65%|
-|Ferrari|499P|LMHHU|3:29.93|3:23.23|1064kg|509kw|0.0kph|-|509kw|900MJ|330.86kph|190kph|1.03|12|~A1|84.26%|2292|96.16%|
-|Porsche|963|LMDH|3:30.80|3:23.64|1048kg|516kw|0.0kph|-|516kw|902MJ|330.04kph|-|1.01|12|~A1|93.14%|5746|100.00%|
-|Toyota|GR010|LMHHU|3:30.45|3:23.73|1080kg|512kw|0.0kph|-|512kw|904MJ|330.11kph|190kph|1.01|12|~A1|87.37%|3154|100.00%|
+|Cadillac|V-Series.R|LMDH|3:28.74|3:21.57|1046kg|513kw|0.0kph|-|513kw|902MJ|330.69kph|-|1.01|12|+A2|88.58%|2033|92.08%|
+|Ferrari|499P|LMHHU|3:28.03|3:21.37|1064kg|509kw|0.0kph|-|509kw|900MJ|332.30kph|190kph|1.03|12|-A2|84.67%|2303|94.31%|
+|Porsche|963|LMDH|3:28.81|3:21.77|1048kg|516kw|0.0kph|-|516kw|902MJ|331.53kph|-|1.01|12|~A1|93.05%|5740|100.00%|
+|Toyota|GR010|LMHHU|3:28.72|3:21.93|1080kg|512kw|0.0kph|-|512kw|904MJ|331.40kph|190kph|1.01|12|~A1|90.17%|3255|97.27%|
 
 ## Power below Threshhold
-|N/Nmax|VSERIES.R|499P|963|GR010|
+|N/Nmax|CADILLAC|FERRARI|PORSCHE|TOYOTA|
 |:-|:-|:-|:-|:-|
 |0.550|253|251|254|252|
 |0.575|276|274|277|275|
@@ -42,7 +42,7 @@
 |1.025|438|435|441|437|
 
 ## Power above Threshhold
-|N/Nmax|VSERIES.R|499P|963|GR010|
+|N/Nmax|CADILLAC|FERRARI|PORSCHE|TOYOTA|
 |:-|:-|:-|:-|:-|
 |0.550|253|251|254|252|
 |0.575|276|274|277|275|

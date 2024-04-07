@@ -1,32 +1,32 @@
-|Manufacturer|Car|Weight|Power|PINC|E/Stint|FDS|
-|:-|:-|:-|:-|:-|:-|:-|
-|Alpine|A424|1062kg|513kw|-|911MJ|-|
-|BMW|M Hybrid V8 LMDh|1040kg|510kw|-|903MJ|-|
-|Cadillac|V-Series.R|1032kg|504kw|-|892MJ|-|
-|Ferrari|499P|1075kg|501kw|-|894MJ|190kph|
-|Issotta Fraschini|Tipo6C|1030kg|520kw|-|916MJ|190kph|
-|Lamborghini|SC63|1045kg|514kw|-|906MJ|-|
-|Porsche|963|1048kg|511kw|-|898MJ|-|
-|Toyota|GR010|1090kg|507kw|-|901MJ|190kph|
+| Manufacturer    | Car        | Weight | Power | PINC | E/Stint | FDS    |
+| :-------------- | :--------- | :----- | :---- | :--- | :------ | :----- |
+| Alpine          | A424       | 1062kg | 513kw | -    | 911MJ   | -      |
+| BMW             | M-Hybrid   | 1040kg | 510kw | -    | 903MJ   | -      |
+| Cadillac        | V-Series.R | 1032kg | 504kw | -    | 892MJ   | -      |
+| Ferrari         | 499P       | 1075kg | 501kw | -    | 894MJ   | 190kph |
+| IsottaFraschini | Tipo6C     | 1030kg | 520kw | -    | 916MJ   | 190kph |
+| Lamborghini     | SC63       | 1045kg | 514kw | -    | 906MJ   | -      |
+| Porsche         | 963        | 1048kg | 511kw | -    | 898MJ   | -      |
+| Toyota          | GR010      | 1090kg | 507kw | -    | 901MJ   | 190kph |
 
 ![PACECHART](./IMG/CUSTOM.png)
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/CUSTOM_sp.png)
 ![TYREPERFORMANCECHART](./IMG/CUSTOM_tw.png)
 
-### BoP Accuracy: 96.51%; Overall BoP Grade: A1
+### BoP Accuracy: 97.69%; Overall BoP Grade: A1
 |Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|Alpine|A424|LMDH|3:31.61|3:27.72|1062kg|513kw|210.0kph|-|513kw|911MJ|327.79kph|-|1.00|12|~A1|81.15%|521|100.00%|
-|BMW|M Hybrid V8 LMDh|LMDH|3:31.59|3:25.01|1040kg|510kw|210.0kph|-|510kw|903MJ|324.66kph|-|1.03|12|~A1|98.60%|1690|98.74%|
-|Cadillac|V-Series.R|LMDH|3:31.60|3:24.51|1032kg|504kw|210.0kph|-|504kw|892MJ|329.20kph|-|1.03|12|~A1|91.10%|1770|98.86%|
-|Ferrari|499P|LMHHU|3:31.57|3:24.77|1075kg|501kw|210.0kph|-|501kw|894MJ|328.71kph|190kph|1.02|12|~A1|84.26%|2292|100.00%|
-|Issotta Fraschini|Tipo6C|LMHHU|3:32.21|3:29.96|1030kg|520kw|210.0kph|-|520kw|916MJ|331.32kph|190kph|1.08|12|+B2|66.67%|96|82.37%|
-|Lamborghini|SC63|LMDH|3:31.66|3:29.80|1045kg|514kw|210.0kph|-|514kw|906MJ|326.70kph|-|1.05|12|+A2|96.77%|419|92.14%|
-|Porsche|963|LMDH|3:31.60|3:24.39|1048kg|511kw|210.0kph|-|511kw|898MJ|329.24kph|-|1.01|12|~A1|93.14%|5746|100.00%|
-|Toyota|GR010|LMHHU|3:31.57|3:24.79|1090kg|507kw|210.0kph|-|507kw|901MJ|328.55kph|190kph|1.00|12|~A1|87.37%|3154|100.00%|
+|Alpine|A424|LMDH|3:29.47|3:25.62|1062kg|513kw|210.0kph|-|513kw|911MJ|329.42kph|-|1.00|12|~A1|80.53%|517|100.00%|
+|BMW|M-Hybrid|LMDH|3:29.46|3:22.96|1040kg|510kw|210.0kph|-|510kw|903MJ|326.27kph|-|1.03|12|~A1|98.60%|1690|96.29%|
+|Cadillac|V-Series.R|LMDH|3:29.77|3:22.52|1032kg|504kw|210.0kph|-|504kw|892MJ|330.34kph|-|1.03|12|~A1|88.58%|2033|100.00%|
+|Ferrari|499P|LMHHU|3:29.64|3:22.88|1075kg|501kw|210.0kph|-|501kw|894MJ|330.14kph|190kph|1.02|12|~A1|84.67%|2303|100.00%|
+|IsottaFraschini|Tipo6C|LMHHU|3:29.89|3:27.75|1030kg|520kw|210.0kph|-|520kw|916MJ|332.96kph|190kph|1.08|12|+A2|66.67%|96|91.74%|
+|Lamborghini|SC63|LMDH|3:29.51|3:27.68|1045kg|514kw|210.0kph|-|514kw|906MJ|328.32kph|-|1.05|12|+A2|96.77%|419|93.51%|
+|Porsche|963|LMDH|3:29.59|3:22.50|1048kg|511kw|210.0kph|-|511kw|898MJ|330.73kph|-|1.01|12|~A1|93.05%|5740|100.00%|
+|Toyota|GR010|LMHHU|3:29.83|3:22.96|1090kg|507kw|210.0kph|-|507kw|901MJ|329.82kph|190kph|1.00|12|~A1|90.17%|3255|100.00%|
 
 ## Power below Threshhold
-|N/Nmax|A424|MHYBRIDV8LMDH|VSERIES.R|499P|TIPO6C|SC63|963|GR010|
+|N/Nmax|ALPINE|BMW|CADILLAC|FERRARI|ISOTTAFRASCHINI|LAMBORGHINI|PORSCHE|TOYOTA|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |0.550|253|251|248|247|256|253|252|250|
 |0.575|276|274|271|270|279|276|275|273|
@@ -50,7 +50,7 @@
 |1.025|438|436|430|428|444|439|436|433|
 
 ## Power above Threshhold
-|N/Nmax|A424|MHYBRIDV8LMDH|VSERIES.R|499P|TIPO6C|SC63|963|GR010|
+|N/Nmax|ALPINE|BMW|CADILLAC|FERRARI|ISOTTAFRASCHINI|LAMBORGHINI|PORSCHE|TOYOTA|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |0.550|253|251|248|247|256|253|252|250|
 |0.575|276|274|271|270|279|276|275|273|

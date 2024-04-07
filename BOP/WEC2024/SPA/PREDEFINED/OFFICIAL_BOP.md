@@ -9,16 +9,16 @@
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/OFFICIAL_sp.png)
 ![TYREPERFORMANCECHART](./IMG/OFFICIAL_tw.png)
 
-### BoP Accuracy: 90.62%; Overall BoP Grade: A2
+### BoP Accuracy: 93.57%; Overall BoP Grade: A2
 |Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|Cadillac|V-Series.R|LMDH|2:06.15|2:00.67|1035kg|513kw|0.0kph|-|513kw|901MJ|304.29kph|-|1.03|25|+B2|91.10%|1770|82.01%|
-|Ferrari|499P|LMHHU|2:05.62|2:00.35|1040kg|509kw|0.0kph|-|509kw|897MJ|306.44kph|190kph|1.05|25|~A1|84.26%|2292|95.09%|
-|Porsche|963|LMDH|2:06.41|2:00.84|1045kg|516kw|0.0kph|-|516kw|902MJ|304.16kph|-|1.02|25|+A2|93.14%|5746|91.76%|
-|Toyota|GR010|LMHHU|2:05.63|2:00.37|1043kg|512kw|0.0kph|-|512kw|900MJ|306.67kph|190kph|1.05|25|-A2|87.37%|3154|93.61%|
+|Cadillac|V-Series.R|LMDH|2:06.33|2:00.71|1035kg|513kw|0.0kph|-|513kw|901MJ|303.84kph|-|1.03|25|+B1|88.58%|2033|87.30%|
+|Ferrari|499P|LMHHU|2:05.75|2:00.47|1040kg|509kw|0.0kph|-|509kw|897MJ|306.26kph|190kph|1.05|25|-A2|84.67%|2303|93.34%|
+|Porsche|963|LMDH|2:06.48|2:00.94|1045kg|516kw|0.0kph|-|516kw|902MJ|304.03kph|-|1.02|25|~A1|93.05%|5740|98.11%|
+|Toyota|GR010|LMHHU|2:05.87|2:00.52|1043kg|512kw|0.0kph|-|512kw|900MJ|306.34kph|190kph|1.05|25|~A1|90.17%|3255|95.51%|
 
 ## Power below Threshhold
-|N/Nmax|VSERIES.R|499P|963|GR010|
+|N/Nmax|CADILLAC|FERRARI|PORSCHE|TOYOTA|
 |:-|:-|:-|:-|:-|
 |0.550|253|251|254|252|
 |0.575|276|274|277|275|
@@ -42,7 +42,7 @@
 |1.025|438|435|441|437|
 
 ## Power above Threshhold
-|N/Nmax|VSERIES.R|499P|963|GR010|
+|N/Nmax|CADILLAC|FERRARI|PORSCHE|TOYOTA|
 |:-|:-|:-|:-|:-|
 |0.550|253|251|254|252|
 |0.575|276|274|277|275|

@@ -1,7 +1,7 @@
 |Manufacturer|Car|Weight|Power|PINC|E/Stint|FDS|
 |:-|:-|:-|:-|:-|:-|:-|
 |Acura|ARX06|1070kg|513kw|-|912MJ|-|
-|BMW|M Hybrid V8 LMDh|1040kg|510kw|-|903MJ|-|
+|BMW|M-Hybrid|1040kg|510kw|-|903MJ|-|
 |Cadillac|V-Series.R|1032kg|504kw|-|892MJ|-|
 |Lamborghini|SC63|1045kg|514kw|-|906MJ|-|
 |Porsche|963|1048kg|511kw|-|898MJ|-|
@@ -10,17 +10,17 @@
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/CUSTOM_sp.png)
 ![TYREPERFORMANCECHART](./IMG/CUSTOM_tw.png)
 
-### BoP Accuracy: 90.96%; Overall BoP Grade: A2
+### BoP Accuracy: 92.50%; Overall BoP Grade: A2
 |Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|Acura|ARX06|LMDH|1:52.41|1:48.00|1070kg|513kw|210.0kph|-|513kw|912MJ|278.06kph|-|1.00|29|+C2|100.00%|995|74.28%|
-|BMW|M Hybrid V8 LMDh|LMDH|1:51.78|1:48.35|1040kg|510kw|210.0kph|-|510kw|903MJ|275.43kph|-|1.03|29|~A1|98.60%|1690|95.13%|
-|Cadillac|V-Series.R|LMDH|1:51.63|1:47.93|1032kg|504kw|210.0kph|-|504kw|892MJ|279.29kph|-|1.03|29|-A2|91.10%|1770|92.05%|
-|Lamborghini|SC63|LMDH|1:51.91|1:50.98|1045kg|514kw|210.0kph|-|514kw|906MJ|277.16kph|-|1.05|29|+A2|96.77%|419|93.36%|
-|Porsche|963|LMDH|1:51.95|1:48.18|1048kg|511kw|210.0kph|-|511kw|898MJ|279.32kph|-|1.02|29|~A1|93.14%|5746|100.00%|
+|Acura|ARX06|LMDH|1:52.41|1:48.00|1070kg|513kw|210.0kph|-|513kw|912MJ|278.06kph|-|0.99|29|+C1|100.00%|995|75.49%|
+|BMW|M-Hybrid|LMDH|1:51.78|1:48.35|1040kg|510kw|210.0kph|-|510kw|903MJ|275.43kph|-|1.03|29|-A2|98.60%|1690|93.34%|
+|Cadillac|V-Series.R|LMDH|1:51.78|1:47.97|1032kg|504kw|210.0kph|-|504kw|892MJ|278.87kph|-|1.03|29|~A1|88.58%|2033|99.40%|
+|Lamborghini|SC63|LMDH|1:51.90|1:50.97|1045kg|514kw|210.0kph|-|514kw|906MJ|277.16kph|-|1.05|29|+A2|96.77%|419|94.28%|
+|Porsche|963|LMDH|1:52.02|1:48.27|1048kg|511kw|210.0kph|-|511kw|898MJ|279.19kph|-|1.01|29|~A1|93.05%|5740|100.00%|
 
 ## Power below Threshhold
-|N/Nmax|ARX06|MHYBRIDV8LMDH|VSERIES.R|SC63|963|
+|N/Nmax|ACURA|BMW|CADILLAC|LAMBORGHINI|PORSCHE|
 |:-|:-|:-|:-|:-|:-|
 |0.550|253|251|248|253|252|
 |0.575|276|274|271|276|275|
@@ -44,7 +44,7 @@
 |1.025|438|436|430|439|436|
 
 ## Power above Threshhold
-|N/Nmax|ARX06|MHYBRIDV8LMDH|VSERIES.R|SC63|963|
+|N/Nmax|ACURA|BMW|CADILLAC|LAMBORGHINI|PORSCHE|
 |:-|:-|:-|:-|:-|:-|
 |0.550|253|251|248|253|252|
 |0.575|276|274|271|276|275|
