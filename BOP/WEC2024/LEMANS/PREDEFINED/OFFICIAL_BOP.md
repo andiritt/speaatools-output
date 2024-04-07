@@ -1,9 +1,9 @@
-| Manufacturer | Car        | Weight | Power | PINC | E/Stint | FDS    |
-| :----------- | :--------- | :----- | :---- | :--- | :------ | :----- |
-| Cadillac     | V-Series.R | 1046kg | 513kw | -    | 902MJ   | -      |
-| Ferrari      | 499P       | 1064kg | 509kw | -    | 900MJ   | 190kph |
-| Porsche      | 963        | 1048kg | 516kw | -    | 902MJ   | -      |
-| Toyota       | GR010      | 1080kg | 512kw | -    | 904MJ   | 190kph |
+|Manufacturer|Car|Weight|Power|PINC|E/Stint|FDS|
+|:-|:-|:-|:-|:-|:-|:-|
+|Cadillac|V-Series.R|1046kg|513kw|-|902MJ|-|
+|Ferrari|499P|1064kg|509kw|-|900MJ|190kph|
+|Porsche|963|1048kg|516kw|-|902MJ|-|
+|Toyota|GR010|1080kg|512kw|-|904MJ|190kph|
 
 ![PACECHART](./IMG/OFFICIAL.png)
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/OFFICIAL_sp.png)
