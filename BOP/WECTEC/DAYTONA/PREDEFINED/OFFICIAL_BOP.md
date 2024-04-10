@@ -10,14 +10,14 @@
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/OFFICIAL_sp.png)
 ![TYREPERFORMANCECHART](./IMG/OFFICIAL_tw.png)
 
-### BoP Accuracy: 92.51%; Overall BoP Grade: A2
+### BoP Accuracy: 94.00%; Overall BoP Grade: A2
 |Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|Acura|ARX06|LMDH|1:37.38|1:32.08|1072kg|520kw|0.0kph|-|520kw|919MJ|314.29kph|-|0.99|30|-B2|100.00%|995|83.60%|
-|BMW|M-Hybrid|LMDH|1:37.43|1:32.92|1031kg|514kw|0.0kph|-|514kw|905MJ|311.69kph|-|1.04|30|~A1|98.60%|1690|100.00%|
-|Cadillac|V-Series.R|LMDH|1:37.55|1:32.71|1030kg|510kw|0.0kph|-|510kw|897MJ|315.37kph|-|1.04|30|~A1|88.58%|2033|98.58%|
-|Lamborghini|SC63|LMDH|1:37.68|1:35.30|1042kg|516kw|0.0kph|-|516kw|908MJ|312.88kph|-|1.05|30|+B2|96.77%|419|80.48%|
-|Porsche|963|LMDH|1:37.36|1:32.60|1051kg|519kw|0.0kph|-|519kw|905MJ|315.64kph|-|1.01|30|~A1|93.05%|5740|99.89%|
+|Acura|ARX06|LMDH|1:37.07|1:31.74|1072kg|520kw|0.0kph|-|520kw|919MJ|314.28kph|-|0.99|30|-B1|100.00%|995|87.49%|
+|BMW|M-Hybrid|LMDH|1:37.22|1:32.81|1031kg|514kw|0.0kph|-|514kw|905MJ|311.69kph|-|1.04|30|~A1|96.62%|1656|98.22%|
+|Cadillac|V-Series.R|LMDH|1:37.43|1:32.68|1030kg|510kw|0.0kph|-|510kw|897MJ|315.36kph|-|1.04|30|+A2|90.68%|2081|90.77%|
+|Lamborghini|SC63|LMDH|1:37.25|1:35.10|1042kg|516kw|0.0kph|-|516kw|908MJ|312.88kph|-|1.05|30|+A2|92.15%|399|93.52%|
+|Porsche|963|LMDH|1:37.22|1:32.57|1051kg|519kw|0.0kph|-|519kw|905MJ|315.64kph|-|1.01|30|~A1|95.67%|5902|100.00%|
 
 ## Power below Threshhold
 |N/Nmax|ACURA|BMW|CADILLAC|LAMBORGHINI|PORSCHE|

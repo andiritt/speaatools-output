@@ -14,18 +14,18 @@
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/OFFICIAL_sp.png)
 ![TYREPERFORMANCECHART](./IMG/OFFICIAL_tw.png)
 
-### BoP Accuracy: 68.04%; Overall BoP Grade: D1
+### BoP Accuracy: 69.48%; Overall BoP Grade: D1
 |Manufacturer|Car|Type|RP|QP|Weight|Power¹|Threshhold|PINC|Power²|E/Stint|AVG Vmax|FDS|RDLC|L/Stint|BOP-Grade|ModelAccuracy|ModelPoints|Match%|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|Alpine|A480|LMP1|1:53.97|1:49.36|952kg|403kw|0.0kph|-|403kw|740MJ|272.43kph|-|0.97|32|+B2|59.62%|840|83.52%|
-|Cadillac|V-Series.R|LMDH|1:53.21|1:47.63|1037kg|504kw|0.0kph|-|504kw|893MJ|278.99kph|-|1.02|35|+B2|88.58%|2033|81.68%|
-|Ferrari|499P|LMHHU|1:52.37|1:47.11|1075kg|509kw|0.0kph|-|509kw|901MJ|280.27kph|190kph|1.02|35|-B2|84.67%|2303|81.02%|
-|Glickenhaus|007|LMHNH|1:53.52|1:48.57|1030kg|520kw|0.0kph|-|520kw|910MJ|282.56kph|-|0.96|35|+B2|96.64%|1639|83.05%|
-|Peugeot|9X8|LMHHE|1:52.61|1:47.59|1041kg|520kw|0.0kph|-|520kw|905MJ|279.60kph|135kph|1.02|35|-A2|87.16%|2572|91.12%|
-|Porsche|963|LMDH|1:52.61|1:47.15|1053kg|514kw|0.0kph|-|514kw|901MJ|279.73kph|-|1.00|35|-B1|93.05%|5740|88.05%|
-|Toyota|GR010|LMHHU|1:52.25|1:46.95|1080kg|514kw|0.0kph|-|514kw|906MJ|280.49kph|190kph|1.01|35|-C2|90.17%|3255|73.71%|
-|Toyota|GR010OLD|LMHHE|1:50.99|1:45.66|1040kg|520kw|0.0kph|-|520kw|909MJ|285.34kph|150kph|1.05|35|-Ω1|85.24%|1322|18.54%|
-|Vanwall|Vanderwell680|LMHNH|1:55.19|1:49.21|1030kg|520kw|0.0kph|-|520kw|903MJ|276.77kph|-|1.01|35|+Ω1|91.33%|611|11.65%|
+|Alpine|A480|LMP1|1:53.80|1:49.42|952kg|403kw|0.0kph|-|403kw|740MJ|272.42kph|-|0.97|32|+B1|56.35%|794|88.56%|
+|Cadillac|V-Series.R|LMDH|1:53.07|1:47.60|1037kg|504kw|0.0kph|-|504kw|893MJ|278.99kph|-|1.02|35|+B1|90.68%|2081|87.04%|
+|Ferrari|499P|LMHHU|1:52.45|1:47.15|1075kg|509kw|0.0kph|-|509kw|901MJ|280.27kph|190kph|1.02|35|-B1|94.63%|2574|85.02%|
+|Glickenhaus|007|LMHNH|1:53.46|1:48.63|1030kg|520kw|0.0kph|-|520kw|910MJ|282.56kph|-|0.96|35|+B2|94.93%|1610|82.44%|
+|Peugeot|9X8|LMHHE|1:52.45|1:47.65|1041kg|520kw|0.0kph|-|520kw|905MJ|279.60kph|135kph|1.02|35|-A2|83.80%|2473|90.44%|
+|Porsche|963|LMDH|1:52.44|1:47.12|1053kg|514kw|0.0kph|-|514kw|901MJ|279.73kph|-|1.00|35|-B2|95.67%|5902|84.02%|
+|Toyota|GR010|LMHHU|1:52.13|1:46.97|1080kg|514kw|0.0kph|-|514kw|906MJ|280.49kph|190kph|1.01|35|-C2|91.69%|3310|72.67%|
+|Toyota|GR010OLD|LMHHE|1:50.99|1:45.81|1040kg|520kw|0.0kph|-|520kw|909MJ|285.34kph|150kph|1.05|35|-Ω1|85.24%|1322|24.04%|
+|Vanwall|Vanderwell680|LMHNH|1:55.00|1:49.23|1030kg|520kw|0.0kph|-|520kw|903MJ|276.76kph|-|1.01|35|+Ω1|93.72%|627|11.06%|
 
 ## Power below Threshhold
 |N/Nmax|CADILLAC|FERRARI|GLICKENHAUS|PEUGEOT|PORSCHE|TOYOTA|TOYOTA|VANWALL|​|RPM|A480|
