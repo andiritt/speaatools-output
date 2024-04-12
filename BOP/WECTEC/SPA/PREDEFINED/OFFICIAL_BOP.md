@@ -17,15 +17,15 @@
 ### BoP Accuracy: 51.77%; Overall BoP Grade: E2
 | Manufacturer | Car            | Type  | RP      | QP      | Weight | Power¹ | Threshhold | PINC    | Power² | E/Stint | AVG Vmax  | FDS     | RDLC | L/Stint | BOP-Grade | Model Accuracy | Model Points | Match% |
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-| Alpine       | A480           | LMP1  | 2:11.19 | 2:06.89 |  952kg | 410kw  | 0.0kph     |    -    | 410kw  |  747MJ  | 296.51kph |    -    | 0.97 | 23      | +Ω2       | 60.26%         | 849          | -8.18% |
-| Cadillac     | V-Series.R     | LMDH  | 2:07.03 | 2:01.41 | 1035kg | 513kw  | 0.0kph     |    -    | 513kw  |  901MJ  | 303.84kph |    -    | 1.03 | 25      | -D2       | 98.95%         | 2271         | 61.99% |
-| Ferrari      | 499P           | LMHHU | 2:07.01 | 2:01.36 | 1040kg | 509kw  | 0.0kph     |    -    | 509kw  |  897MJ  | 306.26kph | 190kph  | 1.05 | 25      | -E1       | 99.93%         | 2718         | 58.91% |
+| Alpine       | A480           | LMP1  | 2:11.19 | 2:06.89 |  952kg | 410kw  | 0.0kph     |    -    | 410kw  |  747MJ  | 292.36kph |    -    | 0.97 | 23      | +Ω2       | 60.26%         | 849          | -8.18% |
+| Cadillac     | V-Series.R     | LMDH  | 2:07.03 | 2:01.41 | 1035kg | 513kw  | 0.0kph     |    -    | 513kw  |  901MJ  | 303.21kph |    -    | 1.03 | 25      | -D2       | 98.95%         | 2271         | 61.99% |
+| Ferrari      | 499P           | LMHHU | 2:07.01 | 2:01.36 | 1040kg | 509kw  | 0.0kph     |    -    | 509kw  |  897MJ  | 305.19kph | 190kph  | 1.05 | 25      | -E1       | 99.93%         | 2718         | 58.91% |
 | Glickenhaus  | 007            | LMHNH | 2:07.67 | 2:02.92 | 1030kg | 520kw  | 0.0kph     |    -    | 520kw  |  910MJ  | 306.22kph |    -    | 0.95 | 25      | -B1       | 96.34%         | 1634         | 86.98% |
-| Peugeot      | 9X8            | LMHHE | 2:08.56 | 2:03.52 | 1042kg | 516kw  | 0.0kph     |    -    | 516kw  |  902MJ  | 302.35kph | 150kph  | 1.03 | 25      | +B2       | 88.68%         | 2617         | 83.34% |
-| Porsche      | 963            | LMDH  | 2:07.96 | 2:02.21 | 1045kg | 516kw  | 0.0kph     |    -    | 516kw  |  902MJ  | 304.03kph |    -    | 1.02 | 25      | -A2       | 99.98%         | 6168         | 94.82% |
-| Toyota       | GR010          | LMHHU | 2:06.93 | 2:01.29 | 1043kg | 512kw  | 0.0kph     |    -    | 512kw  |  900MJ  | 306.34kph | 190kph  | 1.05 | 25      | -E1       | 98.53%         | 3557         | 58.46% |
-| Toyota       | GR010OLD       | LMHHE | 2:05.93 | 2:00.56 | 1040kg | 520kw  | 0.0kph     |    -    | 520kw  |  909MJ  | 309.23kph | 150kph  | 1.05 | 25      | -Ω1       | 92.01%         | 1427         | 22.74% |
-| Vanwall      | Vanderwell 680 | LMHNH | 2:10.50 | 2:04.50 | 1030kg | 512kw  | 0.0kph     |    -    | 512kw  |  896MJ  | 298.78kph |    -    | 1.01 | 25      | +Ω1       | 94.62%         | 633          | 6.82%  |
+| Peugeot      | 9X8            | LMHHE | 2:08.56 | 2:03.52 | 1042kg | 516kw  | 0.0kph     |    -    | 516kw  |  902MJ  | 301.70kph | 150kph  | 1.03 | 25      | +B2       | 88.68%         | 2617         | 83.34% |
+| Porsche      | 963            | LMDH  | 2:07.96 | 2:02.21 | 1045kg | 516kw  | 0.0kph     |    -    | 516kw  |  902MJ  | 303.27kph |    -    | 1.02 | 25      | -A2       | 99.98%         | 6168         | 94.82% |
+| Toyota       | GR010          | LMHHU | 2:06.93 | 2:01.29 | 1043kg | 512kw  | 0.0kph     |    -    | 512kw  |  900MJ  | 305.38kph | 190kph  | 1.05 | 25      | -E1       | 98.53%         | 3557         | 58.46% |
+| Toyota       | GR010OLD       | LMHHE | 2:05.93 | 2:00.56 | 1040kg | 520kw  | 0.0kph     |    -    | 520kw  |  909MJ  | 308.90kph | 150kph  | 1.05 | 25      | -Ω1       | 92.01%         | 1427         | 22.74% |
+| Vanwall      | Vanderwell 680 | LMHNH | 2:10.50 | 2:04.50 | 1030kg | 512kw  | 0.0kph     |    -    | 512kw  |  896MJ  | 298.26kph |    -    | 1.01 | 25      | +Ω1       | 94.62%         | 633          | 6.82%  |
 
 ## Power below Threshhold
 | N/Nmax    | V-SERIES.R | 499P    | 007     | 9X8     | 963     | GR010   | GR010OLD | VANDERWELL 680 | ​     | RPM      | A480    |

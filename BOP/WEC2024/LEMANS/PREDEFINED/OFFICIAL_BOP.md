@@ -12,10 +12,10 @@
 ### BoP Accuracy: 96.39%; Overall BoP Grade: A1
 | Manufacturer | Car        | Type  | RP      | QP      | Weight | Power¹ | Threshhold | PINC    | Power² | E/Stint | AVG Vmax  | FDS     | RDLC | L/Stint | BOP-Grade | Model Accuracy | Model Points | Match%  |
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-| Cadillac     | V-Series.R | LMDH  | 3:30.25 | 3:23.09 | 1046kg | 513kw  | 0.0kph     |    -    | 513kw  |  902MJ  | 330.69kph |    -    | 1.01 | 12      | +B1       | 98.95%         | 2271         | 89.75%  |
-| Ferrari      | 499P       | LMHHU | 3:29.99 | 3:22.78 | 1064kg | 509kw  | 0.0kph     |    -    | 509kw  |  900MJ  | 332.30kph | 190kph  | 1.03 | 12      | ~A1       | 99.93%         | 2718         | 96.29%  |
-| Porsche      | 963        | LMDH  | 3:30.08 | 3:22.83 | 1048kg | 516kw  | 0.0kph     |    -    | 516kw  |  902MJ  | 331.53kph |    -    | 1.01 | 12      | ~A1       | 99.98%         | 6168         | 99.54%  |
-| Toyota       | GR010      | LMHHU | 3:30.06 | 3:22.85 | 1080kg | 512kw  | 0.0kph     |    -    | 512kw  |  904MJ  | 331.39kph | 190kph  | 1.01 | 12      | ~A1       | 98.53%         | 3557         | 100.00% |
+| Cadillac     | V-Series.R | LMDH  | 3:30.25 | 3:23.09 | 1046kg | 513kw  | 0.0kph     |    -    | 513kw  |  902MJ  | 329.62kph |    -    | 1.01 | 12      | +B1       | 98.95%         | 2271         | 89.75%  |
+| Ferrari      | 499P       | LMHHU | 3:29.99 | 3:22.78 | 1064kg | 509kw  | 0.0kph     |    -    | 509kw  |  900MJ  | 330.30kph | 190kph  | 1.03 | 12      | ~A1       | 99.93%         | 2718         | 96.29%  |
+| Porsche      | 963        | LMDH  | 3:30.08 | 3:22.83 | 1048kg | 516kw  | 0.0kph     |    -    | 516kw  |  902MJ  | 330.60kph |    -    | 1.01 | 12      | ~A1       | 99.98%         | 6168         | 99.54%  |
+| Toyota       | GR010      | LMHHU | 3:30.06 | 3:22.85 | 1080kg | 512kw  | 0.0kph     |    -    | 512kw  |  904MJ  | 329.06kph | 190kph  | 1.01 | 12      | ~A1       | 98.53%         | 3557         | 100.00% |
 
 ## Power below Threshhold
 | N/Nmax    | V-SERIES.R | 499P    | 963     | GR010   |
