@@ -12,11 +12,11 @@
 
 ## Table of Contents
 
-- [Sportscar  Equalization and Analysis Tools (SPE&A-Tools)](#sportscar--equalization-and-analysis-tools-speaa-tools)
+- [Sportscar  Equalization and Analysis Tools (SPE\&A-Tools)](#sportscar--equalization-and-analysis-tools-spea-tools)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Current Usage](#current-usage)
-  - [SPE&A-Tools Development Roadmap](#speaa-tools-development-roadmap)
+  - [SPE\&A-Tools Development Roadmap](#spea-tools-development-roadmap)
   - [Folders](#folders)
   - [Value Explanations](#value-explanations)
   - [Plot Explanations](#plot-explanations)
@@ -49,6 +49,9 @@ While previous forums served as a platform for both development updates and data
 - Upon software release, a **separate code repository** will take center stage for discussions and collaboration on the software itself.
 - In **The Forums** we will now focus on high quality analysis posts relevant to those.
 - **More Frequent Low Effort Analysis Reports** will be posted in the reports folder of this repository.
+
+Also there is a discord server for contacting us directly:
+[Discord](https://discord.gg/CCFctTKWnE)
 
 **Benefits:**
 
