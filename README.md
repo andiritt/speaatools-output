@@ -92,32 +92,32 @@ This section is your one-stop shop for race analysis! Dive into insightful race 
 
 ## Value Explanations
 
-| Field          | Description                                                | Units |
-| -------------- | ---------------------------------------------------------- | ----- |
-| Manufacturer   | Make of the Car                                            | -     |
-| Car            | Car Model                                                  | -     |
-| Type           | Car Type                                                   | -     |
-| - LMHHU        | LMH Front Axle Hybrid, Tyre Spec 1                         |       |
-| - LMHHE        | LMH Front Axle Hybrid, Tyre Spec 2                         |       |
-| - LMDH         | LMDh Rear Axle Hybrid, Tyre Spec 1                         |       |
-| - (See Note 3) | Currently unused and deprecated car types                  |       |
-| RP             | Race Pace, Filtered Average Theoretical Optimum            | -     |
-| QP             | Qualifying Pace, Theoretical Optimum                       | -     |
-| Weight         | Car Minimum Weight                                         | kg    |
-| Power          | Peak Power Output (Appendix 4b, LMH Tech. Regs;            | kW    |
-|                | Article 5.1.2, LMDh Tech. Regs)                            |       |
-| Power¹         | Power below BoP-speed-threshhold                           | kW    |
-| Threshhold     | BoP-speed-threshhold                                       | km/h  |
-| PINC           | Power increase above threshhold (%, negative for decrease) | %     |
-| Power²         | Power above BoP-speed-threshhold                           | kW    |
-| E/Stint        | Maximum Energy Output per Stint                            | kJ    |
-| AVG Vmax       | Topspeed, Filtered Average                                 | km/h  |
-| FDS            | Front Axle Hybrid Deployment Speed                         | km/h  |
-| RDLC           | Relative Downforce Level Coefficient                       | -     |
-|                | - Higher value: More Downforce per KG                      |       |
-|                | - Lower value: Less Downforce per KG                       |       |
-|                | - Value < 0.95: Too Low/Inefficient Downforce Setup        |       |
-|                | - Value > 1.05: Too High/Inefficient Downforce Setup       |       |
+- Manufacturer: Make of the Car
+- Car Model: Specific model of the car
+- Car Type:
+    - LMH Front Axle Hybrid, Tyre Spec 1: "**LMHHU**"
+    - LMH Front Axle Hybrid, Tyre Spec 2: "**LMHHE**"
+    - LMDh Rear Axle Hybrid, Tyre Spec 1: "**LMDH**"
+    - LMH Non Hybrid, Tyre Spec 1: "**LMHNH**"
+    - LMH 'Modified Roadgoing Hypercar' Rear Axle Hybrid, Tyre Spec 1: "**LMHRRH**"
+    - LMH 'Modified Roadgoing Hypercar' Front Axle Hybrid, Tyre Spec 1: "**LMHRFH**"
+    - LMP1 Grandfathered Le Mans Prototype 1 2022, Tyre Spec P1/22
+- Race Pace (RP): Filtered Average Theoretical Optimum Race Pace
+- Qualifying Pace (QP): Theoretical Optimum Qualifying Pace
+- Weight: Car Minimum Weight (kg)
+- Peak Power: Maximum Power Output (See Appendix 4b, LMH Tech. Regs; Article 5.1.2, LMDh Tech. Regs) (kW)
+- Power<sup>1</sup>: Power below BoP-speed-threshhold (kW)
+- Speed Threshold: BoP-speed-threshhold (km/h)
+- PINC: Increase above BoP threshold (%, negative for decrease)
+- Power above: Calculated based on BoP Power and Power Increase (kW)
+- Max Stint Energy (E/Stint): Maximum Energy Output per Stint (kJ)
+- Avg Top Speed: Topspeed, Filtered Average (km/h)
+- FDS: Front Axle Hybrid Deployment Speed (km/h)
+- Relative Downforce Level Coefficient:
+    - Higher value: More Downforce per KG
+    - Lower value: Less Downforce per KG
+    - Value < 0.95: Inefficient Downforce Setup
+    - Value > 1.05: Inefficient Downforce Setup
 
 **Additional Information:**
 
@@ -135,25 +135,24 @@ This section is your one-stop shop for race analysis! Dive into insightful race 
   
 **Notes:**
 
-* <sup>1</sup> Tyre Specification 1:
+* Tyre Specification 1:
     - Mandatory for all 2WD cars
     - Possible for 4WD cars homologated before 2023
     - Mandatory for 4WD cars homologated after 2022
     - Tyre Dimensions:
         - Front: 29/71-18; 13.5
         - Rear: 34/71-18; 15.0
-* <sup>2</sup> Tyre Specification 2:
+* Tyre Specification 2:
     - Possible for 4WD cars homologated before 2023
     - Tyre Dimensions:
         - Front: 31/71-18; 14.0
         - Rear: 31/71-18; 14.0
-* <sup>3</sup> Unused Types:
-    - LMHNH (LMH Non Hybrid, Tyre Spec 1)
-    - LMHRRH (LMH 'Modified Roadgoing Hypercar' Rear Axle Hybrid, Tyre Spec 1)
-    - LMHRFH (LMH 'Modified Roadgoing Hypercar' Front Axle Hybrid, Tyre Spec 1)
-* <sup>3</sup> Deprecated Types:
-    - LMP1 (Grandfathered Le Mans Prototype 1 2022)
-
+* Tyre Specification P1/22
+    - Depreciated
+    - In use for Grandfathered LMP1 cars
+    - Tyre Dimensions:
+        - Front: 31/71-18; 13.0
+        - Rear: 31/71-18; 14.0
 
 ## Plot Explanations
 
