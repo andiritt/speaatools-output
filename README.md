@@ -101,7 +101,7 @@ This section is your one-stop shop for race analysis! Dive into insightful race 
     - LMH Non Hybrid, Tyre Spec 1: "**LMHNH**"
     - LMH 'Modified Roadgoing Hypercar' Rear Axle Hybrid, Tyre Spec 1: "**LMHRRH**"
     - LMH 'Modified Roadgoing Hypercar' Front Axle Hybrid, Tyre Spec 1: "**LMHRFH**"
-    - LMP1 Grandfathered Le Mans Prototype 1 2022, Tyre Spec P1/22
+    - Grandfathered Le Mans Prototype 1 2022, Tyre Spec P1/22: "**LMP1**"
 - Race Pace (RP): Filtered Average Theoretical Optimum Race Pace
 - Qualifying Pace (QP): Theoretical Optimum Qualifying Pace
 - Weight: Car Minimum Weight (kg)
