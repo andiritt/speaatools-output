@@ -9,13 +9,13 @@
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/OFFICIAL_sp.png)
 ![TYREPERFORMANCECHART](./IMG/OFFICIAL_tw.png)
 
-### BoP Accuracy: 87.62%; Overall BoP Grade: B1
-| Manufacturer | Car        | Type  | RP      | QP      | Weight | Power¹ | Threshhold | PINC    | Power² | E/Stint | AVG Vmax  | FDS     | RDLC | L/Stint | BOP-Grade | Model Accuracy | Model Points | Match% |
-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-| Cadillac     | V-Series.R | LMDH  | 1:53.43 | 1:47.88 | 1037kg | 504kw  | 0.0kph     |    -    | 504kw  |  893MJ  | 277.80kph |    -    | 1.02 | 35      | +C1       | 98.95%         | 2271         | 75.55% |
-| Ferrari      | 499P       | LMHHU | 1:53.14 | 1:47.57 | 1075kg | 509kw  | 0.0kph     |    -    | 509kw  |  901MJ  | 278.25kph | 190kph  | 1.02 | 35      | ~A1       | 99.93%         | 2718         | 97.30% |
-| Porsche      | 963        | LMDH  | 1:52.83 | 1:47.27 | 1053kg | 514kw  | 0.0kph     |    -    | 514kw  |  901MJ  | 278.67kph |    -    | 1.00 | 35      | -A2       | 99.98%         | 6168         | 92.81% |
-| Toyota       | GR010      | LMHHU | 1:52.60 | 1:47.08 | 1080kg | 514kw  | 0.0kph     |    -    | 514kw  |  906MJ  | 278.64kph | 190kph  | 1.01 | 35      | -B2       | 98.53%         | 3557         | 84.84% |
+### BoP Accuracy: 89.98%; Overall BoP Grade: B1
+| Manufacturer | Car        | Type  | RP      | QP      | Weight | Power¹ | Threshhold | PINC    | Power² | E/Stint | AVG Vmax  | FDS     | RDLC | L/Stint | BOP-Grade | Model Accuracy | Model Points | Match%  | SimDiff |
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+| Cadillac     | V-Series.R | LMDH  | 1:54.00 | 1:48.65 | 1037kg | 504kw  | 0.0kph     |    -    | 504kw  |  893MJ  | 286.02kph |    -    | 1.03 | 35      | +C2       | 83.12%         | 1921         | 72.41%  | ±0.33s  |
+| Ferrari      | 499P       | LMHHU | 1:53.55 | 1:48.08 | 1075kg | 509kw  | 0.0kph     |    -    | 509kw  |  901MJ  | 288.96kph | 190kph  | 1.02 | 35      | ~A1       | 69.49%         | 1950         | 100.00% | ±0.42s  |
+| Porsche      | 963        | LMDH  | 1:53.00 | 1:47.52 | 1053kg | 514kw  | 0.0kph     |    -    | 514kw  |  901MJ  | 289.28kph |    -    | 1.00 | 34      | -A2       | 81.02%         | 5243         | 93.71%  | ±0.01s  |
+| Toyota       | GR010      | LMHHU | 1:52.92 | 1:47.66 | 1080kg | 514kw  | 0.0kph     |    -    | 514kw  |  906MJ  | 288.30kph | 190kph  | 1.00 | 35      | -A2       | 73.70%         | 2701         | 93.82%  | ±0.33s  |
 
 ## Power below Threshhold
 | N/Nmax    | V-SERIES.R | 499P    | 963     | GR010   |

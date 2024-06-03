@@ -1,14 +1,14 @@
-| Manufacturer     | Car        | Weight | Power | PINC | E/Stint | FDS    |
-| :--------------- | :--------- | :----- | :---- | :--- | :------ | :----- |
-| Alpine           | A424       | 1042kg | 514kw | -    | 909MJ   | -      |
-| BMW              | M-Hybrid   | 1035kg | 511kw | -    | 903MJ   | -      |
-| Cadillac         | V-Series.R | 1030kg | 517kw | -    | 904MJ   | -      |
-| Ferrari          | 499P       | 1041kg | 510kw | -    | 898MJ   | 190kph |
-| Isotta Fraschini | Tipo6C     | 1058kg | 520kw | -    | 917MJ   | 190kph |
-| Lamborghini      | SC63       | 1034kg | 516kw | -    | 907MJ   | -      |
-| Peugeot          | 9X8Evo     | 1061kg | 510kw | -    | 906MJ   | 190kph |
-| Porsche          | 963        | 1033kg | 508kw | -    | 893MJ   | -      |
-| Toyota           | GR010      | 1060kg | 516kw | -    | 906MJ   | 190kph |
+| Manufacturer     | Car        | Weight | Power | PINC    | E/Stint | FDS     |
+|:-|:-|:-|:-|:-|:-|:-|
+| Alpine           | A424       | 1042kg | 514kw |    -    | 909MJ   |    -    |
+| BMW              | M-Hybrid   | 1035kg | 511kw |    -    | 903MJ   |    -    |
+| Cadillac         | V-Series.R | 1030kg | 517kw |    -    | 904MJ   |    -    |
+| Ferrari          | 499P       | 1041kg | 510kw |    -    | 898MJ   | 190kph  |
+| Isotta Fraschini | Tipo6C     | 1058kg | 520kw |    -    | 917MJ   | 190kph  |
+| Lamborghini      | SC63       | 1034kg | 516kw |    -    | 907MJ   |    -    |
+| Peugeot          | 9X8Evo     | 1061kg | 510kw |    -    | 906MJ   | 190kph  |
+| Porsche          | 963        | 1033kg | 508kw |    -    | 893MJ   |    -    |
+| Toyota           | GR010      | 1060kg | 516kw |    -    | 906MJ   | 190kph  |
 
 ![PACECHART](./IMG/OFFICIAL.png)
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/OFFICIAL_sp.png)

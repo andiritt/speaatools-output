@@ -132,6 +132,9 @@ This section is your one-stop shop for race analysis! Dive into insightful race 
 - **Model Points:** Number of unique data points used for simulation.
 - **Model Accuracy:** Percentage of simulation matches with actual data.
 - **Match%:** How well the simulated performance window matches the intended window.
+
+**SimDiff**
+Expected Variance from Simulated Laptime
   
 **Notes:**
 
