@@ -12,10 +12,10 @@
 ### BoP Accuracy: 89.98%; Overall BoP Grade: B1
 | Manufacturer | Car        | Type  | RP      | QP      | Weight | Power¹  | Threshhold | PINC    | Power²   | E/Stint | AVG Vmax  | FDS     | RDLC | L/Stint | BOP-Grade | Model Accuracy | Model Points | Match%  | SimDiff |
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-| Cadillac     | V-Series.R | LMDH  | 1:54.00 | 1:48.65 | 1037kg | 504.0kw | 0.0kph     |    -    | 504.00kw |  893MJ  | 286.02kph |    -    | 1.03 | 35      | +C2       | 83.12%         | 1921         | 72.41%  | ±0.48s  |
-| Ferrari      | 499P       | LMHHU | 1:53.55 | 1:48.08 | 1075kg | 509.0kw | 0.0kph     |    -    | 509.00kw |  901MJ  | 288.96kph | 190kph  | 1.02 | 35      | ~A1       | 69.49%         | 1950         | 100.00% | ±0.57s  |
-| Porsche      | 963        | LMDH  | 1:53.00 | 1:47.52 | 1053kg | 514.0kw | 0.0kph     |    -    | 514.00kw |  901MJ  | 289.28kph |    -    | 1.00 | 34      | -A2       | 81.02%         | 5243         | 93.71%  | ±0.03s  |
-| Toyota       | GR010      | LMHHU | 1:52.92 | 1:47.66 | 1080kg | 514.0kw | 0.0kph     |    -    | 514.00kw |  906MJ  | 288.30kph | 190kph  | 1.00 | 35      | -A2       | 73.70%         | 2701         | 93.82%  | ±0.65s  |
+| Cadillac     | V-Series.R | LMDH  | 1:54.00 | 1:48.65 | 1037kg | 504.0kw | 0.0kph     |    -    | 504.00kw |  893MJ  | 286.02kph |    -    | 1.03 | 35      | +C2       | 83.12%         | 1921         | 72.41%  | ±0.33s  |
+| Ferrari      | 499P       | LMHHU | 1:53.55 | 1:48.08 | 1075kg | 509.0kw | 0.0kph     |    -    | 509.00kw |  901MJ  | 288.96kph | 190kph  | 1.02 | 35      | ~A1       | 69.49%         | 1950         | 100.00% | ±0.42s  |
+| Porsche      | 963        | LMDH  | 1:53.00 | 1:47.52 | 1053kg | 514.0kw | 0.0kph     |    -    | 514.00kw |  901MJ  | 289.28kph |    -    | 1.00 | 34      | -A2       | 81.02%         | 5243         | 93.71%  | ±0.01s  |
+| Toyota       | GR010      | LMHHU | 1:52.92 | 1:47.66 | 1080kg | 514.0kw | 0.0kph     |    -    | 514.00kw |  906MJ  | 288.30kph | 190kph  | 1.00 | 35      | -A2       | 73.70%         | 2701         | 93.82%  | ±0.33s  |
 
 ## Power below Threshhold
 | N/Nmax    | V-SERIES.R | 499P    | 963     | GR010   |
