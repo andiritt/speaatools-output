@@ -1,43 +1,43 @@
 | Manufacturer     | Car            | Weight | Power   | PINC    | E/Stint | FDS     |
 |:-|:-|:-|:-|:-|:-|:-|
 | Acura            | ARX06          | 1072kg | 511.0kw |    -    | 911MJ   |    -    |
-| Alpine           | A424           | 1047kg | 520.0kw |    -    | 913MJ   |    -    |
+| Alpine           | A424           | 1047kg | 520.0kw |    -    | 915MJ   |    -    |
 | Alpine           | A480           | 952kg  | 432.0kw |    -    | 766MJ   |    -    |
-| BMW              | M-Hybrid       | 1041kg | 512.0kw |    -    | 905MJ   |    -    |
-| Cadillac         | V-Series.R     | 1034kg | 510.0kw |    -    | 898MJ   |    -    |
-| Ferrari          | 499P           | 1063kg | 508.0kw |    -    | 895MJ   | 190kph  |
+| BMW              | M-Hybrid       | 1041kg | 512.0kw |    -    | 907MJ   |    -    |
+| Cadillac         | V-Series.R     | 1034kg | 510.0kw |    -    | 902MJ   |    -    |
+| Ferrari          | 499P           | 1063kg | 508.0kw |    -    | 905MJ   | 190kph  |
 | Glickenhaus      | 007            | 1030kg | 520.0kw |    -    | 910MJ   |    -    |
-| Isotta Fraschini | Tipo6C         | 1059kg | 520.0kw |    -    | 919MJ   | 190kph  |
-| Lamborghini      | SC63           | 1042kg | 519.0kw |    -    | 908MJ   |    -    |
-| Peugeot          | 9X8Evo         | 1050kg | 510.0kw |    -    | 899MJ   | 190kph  |
+| Isotta Fraschini | Tipo6C         | 1059kg | 520.0kw |    -    | 920MJ   | 190kph  |
+| Lamborghini      | SC63           | 1042kg | 519.0kw |    -    | 912MJ   |    -    |
+| Peugeot          | 9X8Evo         | 1050kg | 510.0kw |    -    | 905MJ   | 190kph  |
 | Peugeot          | 9X8            | 1030kg | 520.0kw |    -    | 904MJ   | 150kph  |
-| Porsche          | 963            | 1047kg | 516.0kw |    -    | 902MJ   |    -    |
-| Toyota           | GR010          | 1080kg | 512.0kw |    -    | 904MJ   | 190kph  |
-| Toyota           | GR010OLD       | 1065kg | 513.0kw |    -    | 906MJ   | 190kph  |
-| Vanwall          | Vanderwell 680 | 1030kg | 520.0kw |    -    | 903MJ   |    -    |
+| Porsche          | 963            | 1047kg | 516.0kw |    -    | 910MJ   |    -    |
+| Toyota           | GR010          | 1080kg | 512.0kw |    -    | 915MJ   | 190kph  |
+| Toyota           | GR010OLD       | 1065kg | 513.0kw |    -    | 906MJ   | 150kph  |
+| Vanwall          | Vanderwell 680 | 1030kg | 520.0kw |    -    | 908MJ   |    -    |
 
 ![PACECHART](./IMG/CUSTOM.png)
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/CUSTOM_sp.png)
 ![TYREPERFORMANCECHART](./IMG/CUSTOM_tw.png)
 
-### BoP Accuracy: 74.09%; Overall BoP Grade: C2
+### BoP Accuracy: 78.12%; Overall BoP Grade: C1
 | Manufacturer     | Car            | Type  | RP      | QP      | Weight | Power¹  | Threshhold | PINC    | Power²   | E/Stint | AVG Vmax  | FDS     | RDLC | L/Stint | BOP-Grade | Model Accuracy | Model Points | Match%  | SimDiff |
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-| Acura            | ARX06          | LMDH  | 1:34.35 | 1:29.63 | 1072kg | 511.0kw | 210.0kph   |    -    | 511.00kw |  911MJ  | 299.66kph |    -    | 1.00 | 36      | +A2       | 100.00%        | 995          | 90.50%  | #       |
-| Alpine           | A424           | LMDH  | 1:34.08 | 1:30.45 | 1047kg | 520.0kw | 210.0kph   |    -    | 520.00kw |  913MJ  | 315.45kph |    -    | 1.01 | 37      | -B2       | 100.00%        | 635          | 84.60%  | #       |
-| Alpine           | A480           | LMP1  | 1:33.74 | 1:30.37 |  952kg | 432.0kw | 210.0kph   |    -    | 432.00kw |  766MJ  | 302.05kph |    -    | 0.97 | 34      | -D1       | 94.90%         | 707          | 68.82%  | #       |
-| BMW              | M-Hybrid       | LMDH  | 1:34.06 | 1:29.85 | 1041kg | 512.0kw | 210.0kph   |    -    | 512.00kw |  905MJ  | 312.20kph |    -    | 1.02 | 36      | -B2       | 100.00%        | 1696         | 82.47%  | #       |
-| Cadillac         | V-Series.R     | LMDH  | 1:33.68 | 1:29.67 | 1034kg | 510.0kw | 210.0kph   |    -    | 510.00kw |  898MJ  | 308.40kph |    -    | 1.03 | 36      | -D1       | 88.64%         | 2076         | 68.08%  | #       |
-| Ferrari          | 499P           | LMHHU | 1:33.93 | 1:29.73 | 1063kg | 508.0kw | 210.0kph   |    -    | 508.00kw |  895MJ  | 310.96kph | 190kph  | 1.02 | 37      | -B2       | 91.94%         | 2476         | 81.52%  | #       |
-| Glickenhaus      | 007            | LMHNH | 1:34.30 | 1:30.85 | 1030kg | 520.0kw | 210.0kph   |    -    | 520.00kw |  910MJ  | 310.11kph |    -    | 0.96 | 36      | ~A1       | 95.63%         | 1510         | 100.00% | #       |
-| Isotta Fraschini | Tipo6C         | LMHHU | 1:34.99 | 1:32.67 | 1059kg | 520.0kw | 210.0kph   |    -    | 520.00kw |  919MJ  | 311.45kph | 190kph  | 1.04 | 37      | +Ω1       | 100.00%        | 66           | 23.36%  | #       |
-| Lamborghini      | SC63           | LMDH  | 1:34.21 | 1:31.68 | 1042kg | 519.0kw | 210.0kph   |    -    | 519.00kw |  908MJ  | 313.33kph |    -    | 1.04 | 36      | -A2       | 100.00%        | 504          | 90.25%  | #       |
-| Peugeot          | 9X8Evo         | LMHHU | 1:34.04 | 1:30.83 | 1050kg | 510.0kw | 210.0kph   |    -    | 510.00kw |  899MJ  | 313.93kph | 190kph  | 1.00 | 37      | -C1       | 100.00%        | 249          | 77.03%  | ±0.16s  |
-| Peugeot          | 9X8            | LMHHE | 1:34.50 | 1:30.58 | 1030kg | 520.0kw | 210.0kph   |    -    | 520.00kw |  904MJ  | 310.04kph | 150kph  | 1.03 | 37      | ~A1       | 98.33%         | 2173         | 100.00% | #       |
-| Porsche          | 963            | LMDH  | 1:34.03 | 1:29.56 | 1047kg | 516.0kw | 210.0kph   |    -    | 516.00kw |  902MJ  | 311.14kph |    -    | 1.01 | 36      | -B1       | 90.40%         | 5633         | 88.09%  | #       |
-| Toyota           | GR010          | LMHHU | 1:34.16 | 1:30.07 | 1080kg | 512.0kw | 210.0kph   |    -    | 512.00kw |  904MJ  | 308.88kph | 190kph  | 1.01 | 37      | ~A1       | 90.11%         | 3235         | 96.25%  | #       |
-| Toyota           | GR010OLD       | LMHHE | 1:34.30 | 1:29.98 | 1065kg | 513.0kw | 210.0kph   |    -    | 513.00kw |  906MJ  | 306.97kph | 190kph  | 1.03 | 37      | ~A1       | 99.03%         | 1536         | 99.72%  | #       |
-| Vanwall          | Vanderwell 680 | LMHNH | 1:37.09 | 1:32.27 | 1030kg | 520.0kw | 210.0kph   |    -    | 520.00kw |  903MJ  | 300.97kph |    -    | 1.01 | 36      | +Ω2       | 97.68%         | 632          | -39.40% | #       |
+| Acura            | ARX06          | LMDH  | 1:34.52 | 1:29.92 | 1072kg | 511.0kw | 210.0kph   |    -    | 511.00kw |  911MJ  | 299.66kph |    -    | 1.00 | 37      | +D1       | 100.00%        | 995          | 69.38%  | #       |
+| Alpine           | A424           | LMDH  | 1:34.37 | 1:30.56 | 1047kg | 520.0kw | 210.0kph   |    -    | 520.00kw |  915MJ  | 315.45kph |    -    | 1.01 | 37      | +A2       | 100.00%        | 635          | 93.90%  | #       |
+| Alpine           | A480           | LMP1  | 1:33.77 | 1:30.26 |  952kg | 432.0kw | 210.0kph   |    -    | 432.00kw |  766MJ  | 302.77kph |    -    | 0.97 | 34      | -C1       | 98.32%         | 818          | 75.40%  | #       |
+| BMW              | M-Hybrid       | LMDH  | 1:34.38 | 1:30.12 | 1041kg | 512.0kw | 210.0kph   |    -    | 512.00kw |  907MJ  | 312.20kph |    -    | 1.02 | 37      | ~A1       | 100.00%        | 1696         | 100.00% | #       |
+| Cadillac         | V-Series.R     | LMDH  | 1:33.95 | 1:29.97 | 1034kg | 510.0kw | 210.0kph   |    -    | 510.00kw |  902MJ  | 309.73kph |    -    | 1.03 | 36      | -B1       | 98.34%         | 1841         | 85.50%  | #       |
+| Ferrari          | 499P           | LMHHU | 1:34.12 | 1:30.01 | 1063kg | 508.0kw | 210.0kph   |    -    | 508.00kw |  905MJ  | 311.83kph | 190kph  | 1.02 | 37      | -A2       | 100.00%        | 1773         | 91.57%  | #       |
+| Glickenhaus      | 007            | LMHNH | 1:34.28 | 1:30.93 | 1030kg | 520.0kw | 210.0kph   |    -    | 520.00kw |  910MJ  | 310.14kph |    -    | 0.96 | 36      | ~A1       | 98.48%         | 1488         | 100.00% | #       |
+| Isotta Fraschini | Tipo6C         | LMHHU | 1:35.03 | 1:32.69 | 1059kg | 520.0kw | 210.0kph   |    -    | 520.00kw |  920MJ  | 311.45kph | 190kph  | 1.04 | 37      | +Ω1       | 100.00%        | 66           | 16.35%  | #       |
+| Lamborghini      | SC63           | LMDH  | 1:34.40 | 1:31.81 | 1042kg | 519.0kw | 210.0kph   |    -    | 519.00kw |  912MJ  | 313.33kph |    -    | 1.04 | 36      | ~A1       | 100.00%        | 504          | 100.00% | #       |
+| Peugeot          | 9X8Evo         | LMHHU | 1:34.10 | 1:30.96 | 1050kg | 510.0kw | 210.0kph   |    -    | 510.00kw |  905MJ  | 313.93kph | 190kph  | 1.00 | 37      | +C1       | 100.00%        | 249          | 76.37%  | ±0.11s  |
+| Peugeot          | 9X8            | LMHHE | 1:33.76 | 1:30.18 | 1030kg | 520.0kw | 210.0kph   |    -    | 520.00kw |  904MJ  | 311.19kph | 150kph  | 1.03 | 37      | -C2       | 100.00%        | 1199         | 73.97%  | #       |
+| Porsche          | 963            | LMDH  | 1:33.94 | 1:29.59 | 1047kg | 516.0kw | 210.0kph   |    -    | 516.00kw |  910MJ  | 312.75kph |    -    | 1.01 | 37      | -B2       | 99.96%         | 4880         | 83.63%  | #       |
+| Toyota           | GR010          | LMHHU | 1:34.29 | 1:30.46 | 1080kg | 512.0kw | 210.0kph   |    -    | 512.00kw |  915MJ  | 309.82kph | 190kph  | 1.01 | 37      | ~A1       | 99.96%         | 2429         | 100.00% | #       |
+| Toyota           | GR010OLD       | LMHHE | 1:33.82 | 1:29.92 | 1065kg | 513.0kw | 210.0kph   |    -    | 513.00kw |  906MJ  | 309.19kph | 150kph  | 1.03 | 37      | -C1       | 100.00%        | 1183         | 75.76%  | #       |
+| Vanwall          | Vanderwell 680 | LMHNH | 1:35.84 | 1:31.88 | 1030kg | 520.0kw | 210.0kph   |    -    | 520.00kw |  908MJ  | 307.83kph |    -    | 1.00 | 36      | +Ω1       | 98.84%         | 170          | 29.96%  | #       |
 
 ## Power below Threshhold
 | N/Nmax    | ARX06   | A424    | M-HYBRID | V-SERIES.R | 499P    | 007     | TIPO6C  | SC63    | 9X8EVO  | 9X8     | 963     | GR010   | GR010OLD | VANDERWELL 680 | ​     | RPM      | A480    |

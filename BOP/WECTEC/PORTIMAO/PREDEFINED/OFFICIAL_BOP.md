@@ -1,31 +1,31 @@
 | Manufacturer | Car            | Weight | Power   | PINC    | E/Stint | FDS     |
 |:-|:-|:-|:-|:-|:-|:-|
-| Alpine       | A480           | 952kg  | 450.0kw |    -    | 782MJ   |    -    |
-| Cadillac     | V-Series.R     | 1035kg | 513.0kw |    -    | 901MJ   |    -    |
-| Ferrari      | 499P           | 1040kg | 509.0kw |    -    | 893MJ   | 190kph  |
-| Glickenhaus  | 007            | 1030kg | 520.0kw |    -    | 910MJ   |    -    |
-| Peugeot      | 9X8            | 1042kg | 516.0kw |    -    | 902MJ   | 150kph  |
-| Porsche      | 963            | 1045kg | 516.0kw |    -    | 902MJ   |    -    |
-| Toyota       | GR010          | 1043kg | 512.0kw |    -    | 900MJ   | 190kph  |
-| Toyota       | GR010OLD       | 1066kg | 515.0kw |    -    | 907MJ   | 150kph  |
-| Vanwall      | Vanderwell 680 | 1030kg | 512.0kw |    -    | 896MJ   |    -    |
+| Alpine       | A480           | 952kg  | 450.0kw |    -    | 918MJ   |    -    |
+| Cadillac     | V-Series.R     | 1035kg | 513.0kw |    -    | 903MJ   |    -    |
+| Ferrari      | 499P           | 1040kg | 509.0kw |    -    | 899MJ   | 190kph  |
+| Glickenhaus  | 007            | 1030kg | 520.0kw |    -    | 911MJ   |    -    |
+| Peugeot      | 9X8            | 1042kg | 516.0kw |    -    | 908MJ   | 150kph  |
+| Porsche      | 963            | 1045kg | 516.0kw |    -    | 910MJ   |    -    |
+| Toyota       | GR010          | 1043kg | 512.0kw |    -    | 904MJ   | 190kph  |
+| Toyota       | GR010OLD       | 1066kg | 515.0kw |    -    | 962MJ   | 150kph  |
+| Vanwall      | Vanderwell 680 | 1030kg | 512.0kw |    -    | 901MJ   |    -    |
 
 ![PACECHART](./IMG/OFFICIAL.png)
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/OFFICIAL_sp.png)
 ![TYREPERFORMANCECHART](./IMG/OFFICIAL_tw.png)
 
-### BoP Accuracy: 57.52%; Overall BoP Grade: E1
-| Manufacturer | Car            | Type  | RP      | QP      | Weight | Power¹  | Threshhold | PINC    | Power²   | E/Stint | AVG Vmax  | FDS     | RDLC | L/Stint | BOP-Grade | Model Accuracy | Model Points | Match%  | SimDiff |
+### BoP Accuracy: 69.38%; Overall BoP Grade: D1
+| Manufacturer | Car            | Type  | RP      | QP      | Weight | Power¹  | Threshhold | PINC    | Power²   | E/Stint | AVG Vmax  | FDS     | RDLC | L/Stint | BOP-Grade | Model Accuracy | Model Points | Match% | SimDiff |
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-| Alpine       | A480           | LMP1  | 1:32.26 | 1:30.43 |  952kg | 450.0kw | 0.0kph     |    -    | 450.00kw |  782MJ  | 301.83kph |    -    | 0.98 | 37      | -Ω1       | 94.90%         | 707          | 42.11%  | #       |
-| Cadillac     | V-Series.R     | LMDH  | 1:32.92 | 1:30.41 | 1035kg | 513.0kw | 0.0kph     |    -    | 513.00kw |  901MJ  | 304.20kph |    -    | 1.03 | 39      | -B2       | 88.64%         | 2076         | 81.54%  | #       |
-| Ferrari      | 499P           | LMHHU | 1:32.96 | 1:30.27 | 1040kg | 509.0kw | 0.0kph     |    -    | 509.00kw |  893MJ  | 308.83kph | 190kph  | 1.04 | 40      | -B2       | 91.94%         | 2476         | 82.03%  | #       |
-| Glickenhaus  | 007            | LMHNH | 1:33.15 | 1:31.24 | 1030kg | 520.0kw | 0.0kph     |    -    | 520.00kw |  910MJ  | 305.34kph |    -    | 0.97 | 39      | -A2       | 95.63%         | 1510         | 91.27%  | ±2.59s  |
-| Peugeot      | 9X8            | LMHHE | 1:33.95 | 1:31.54 | 1042kg | 516.0kw | 0.0kph     |    -    | 516.00kw |  902MJ  | 303.14kph | 150kph  | 1.02 | 39      | +C2       | 98.33%         | 2173         | 72.34%  | #       |
-| Porsche      | 963            | LMDH  | 1:32.94 | 1:30.00 | 1045kg | 516.0kw | 0.0kph     |    -    | 516.00kw |  902MJ  | 306.57kph |    -    | 1.01 | 39      | -B2       | 90.40%         | 5633         | 82.00%  | #       |
-| Toyota       | GR010          | LMHHU | 1:32.65 | 1:30.11 | 1043kg | 512.0kw | 0.0kph     |    -    | 512.00kw |  900MJ  | 308.00kph | 190kph  | 1.04 | 39      | -D1       | 90.11%         | 3235         | 65.61%  | #       |
-| Toyota       | GR010OLD       | LMHHE | 1:32.71 | 1:29.95 | 1066kg | 515.0kw | 0.0kph     |    -    | 515.00kw |  907MJ  | 302.57kph | 150kph  | 1.03 | 39      | -D1       | 99.03%         | 1536         | 65.82%  | #       |
-| Vanwall      | Vanderwell 680 | LMHNH | 1:36.63 | 1:33.33 | 1030kg | 512.0kw | 0.0kph     |    -    | 512.00kw |  896MJ  | 294.68kph |    -    | 1.02 | 39      | +Ω2       | 97.68%         | 632          | -65.06% | #       |
+| Alpine       | A480           | LMP1  | 1:31.71 | 1:29.77 |  952kg | 450.0kw | 0.0kph     |    -    | 450.00kw |  918MJ  | 302.55kph |    -    | 0.98 | 37      | -Ω1       | 98.32%         | 818          | 37.10% | #       |
+| Cadillac     | V-Series.R     | LMDH  | 1:32.65 | 1:30.21 | 1035kg | 513.0kw | 0.0kph     |    -    | 513.00kw |  903MJ  | 305.51kph |    -    | 1.03 | 39      | +B1       | 98.34%         | 1841         | 87.10% | #       |
+| Ferrari      | 499P           | LMHHU | 1:32.47 | 1:29.92 | 1040kg | 509.0kw | 0.0kph     |    -    | 509.00kw |  899MJ  | 309.70kph | 190kph  | 1.04 | 39      | -C2       | 100.00%        | 1773         | 74.67% | #       |
+| Glickenhaus  | 007            | LMHNH | 1:33.14 | 1:31.32 | 1030kg | 520.0kw | 0.0kph     |    -    | 520.00kw |  911MJ  | 305.37kph |    -    | 0.97 | 39      | +A2       | 98.48%         | 1488         | 93.82% | ±2.61s  |
+| Peugeot      | 9X8            | LMHHE | 1:33.24 | 1:31.16 | 1042kg | 516.0kw | 0.0kph     |    -    | 516.00kw |  908MJ  | 304.27kph | 150kph  | 1.02 | 39      | +B2       | 100.00%        | 1199         | 81.12% | #       |
+| Porsche      | 963            | LMDH  | 1:32.79 | 1:29.97 | 1045kg | 516.0kw | 0.0kph     |    -    | 516.00kw |  910MJ  | 308.16kph |    -    | 1.01 | 39      | -A2       | 99.96%         | 4880         | 93.53% | #       |
+| Toyota       | GR010          | LMHHU | 1:32.42 | 1:30.16 | 1043kg | 512.0kw | 0.0kph     |    -    | 512.00kw |  904MJ  | 308.93kph | 190kph  | 1.04 | 39      | -C2       | 99.96%         | 2429         | 74.18% | #       |
+| Toyota       | GR010OLD       | LMHHE | 1:32.82 | 1:30.44 | 1066kg | 515.0kw | 0.0kph     |    -    | 515.00kw |  962MJ  | 304.76kph | 150kph  | 1.02 | 39      | +B2       | 100.00%        | 1183         | 83.04% | #       |
+| Vanwall      | Vanderwell 680 | LMHNH | 1:35.03 | 1:32.61 | 1030kg | 512.0kw | 0.0kph     |    -    | 512.00kw |  901MJ  | 301.40kph |    -    | 1.01 | 39      | +Ω2       | 98.84%         | 170          | -0.17% | #       |
 
 ## Power below Threshhold
 | N/Nmax    | V-SERIES.R | 499P    | 007     | 9X8     | 963     | GR010   | GR010OLD | VANDERWELL 680 | ​     | RPM      | A480    |
