@@ -14,10 +14,10 @@
 | Manufacturer | Car        | Type | RP      | QP      | Weight | Power¹  | Threshhold | PINC    | Power²   | E/Stint | AVG Vmax  | FDS     | RDLC | L/Stint | BOP-Grade | Model Accuracy | Model Points | Match%  | SimDiff |
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 | Acura        | ARX06      | LMDH | 1:37.46 | 1:32.11 | 1072kg | 520.0kw | 0.0kph     |    -    | 520.00kw |  920MJ  | 309.36kph |    -    | 1.00 | 30      | +C1       | 100.00%        | 996          | 78.97%  | ±0.14s  |
-| BMW          | M-Hybrid   | LMDH | 1:37.31 | 1:32.03 | 1031kg | 514.0kw | 0.0kph     |    -    | 514.00kw |  908MJ  | 320.92kph |    -    | 1.03 | 30      | -A2       | 100.00%        | 1826         | 94.04%  | #       |
-| Cadillac     | V-Series.R | LMDH | 1:37.06 | 1:32.22 | 1030kg | 510.0kw | 0.0kph     |    -    | 510.00kw |  902MJ  | 317.21kph |    -    | 1.03 | 30      | -B1       | 99.00%         | 3184         | 85.79%  | #       |
+| BMW          | M-Hybrid   | LMDH | 1:37.31 | 1:32.03 | 1031kg | 514.0kw | 0.0kph     |    -    | 514.00kw |  908MJ  | 320.92kph |    -    | 1.03 | 30      | -A2       | 100.00%        | 1826         | 94.04%  | ±0.29s  |
+| Cadillac     | V-Series.R | LMDH | 1:37.06 | 1:32.22 | 1030kg | 510.0kw | 0.0kph     |    -    | 510.00kw |  902MJ  | 317.21kph |    -    | 1.03 | 30      | -B1       | 99.00%         | 3184         | 85.79%  | ±0.16s  |
 | Lamborghini  | SC63       | LMDH | 1:37.91 | 1:33.46 | 1042kg | 516.0kw | 0.0kph     |    -    | 516.00kw |  905MJ  | 319.18kph |    -    | 1.04 | 30      | +C2       | 100.00%        | 529          | 70.35%  | #       |
-| Porsche      | 963        | LMDH | 1:37.38 | 1:32.03 | 1051kg | 519.0kw | 0.0kph     |    -    | 519.00kw |  905MJ  | 319.21kph |    -    | 1.01 | 30      | ~A1       | 99.96%         | 10176        | 100.00% | #       |
+| Porsche      | 963        | LMDH | 1:37.38 | 1:32.03 | 1051kg | 519.0kw | 0.0kph     |    -    | 519.00kw |  905MJ  | 319.21kph |    -    | 1.01 | 30      | ~A1       | 99.96%         | 10176        | 100.00% | ±0.14s  |
 
 ## Power below Threshhold
 | N/Nmax    | ARX06   | M-HYBRID | V-SERIES.R | SC63    | 963     |
