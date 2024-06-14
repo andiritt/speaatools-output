@@ -9,13 +9,13 @@
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/OFFICIAL_sp.png)
 ![TYREPERFORMANCECHART](./IMG/OFFICIAL_tw.png)
 
-### BoP Accuracy: 82.93%; Overall BoP Grade: B2
+### BoP Accuracy: 88.53%; Overall BoP Grade: B1
 | Manufacturer | Car        | Type  | RP      | QP      | Weight | Power¹  | Threshhold | PINC    | Power²   | E/Stint | AVG Vmax  | FDS     | RDLC | L/Stint | BOP-Grade | Model Accuracy | Model Points | Match%  | SimDiff |
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-| Cadillac     | V-Series.R | LMDH  | 1:51.33 | 1:46.76 | 1037kg | 504.0kw | 0.0kph     |    -    | 504.00kw |  895MJ  | 286.66kph |    -    | 1.02 | 34      | +D1       | 99.00%         | 3184         | 65.29%  | ±1.07s  |
-| Ferrari      | 499P       | LMHHU | 1:50.31 | 1:45.51 | 1075kg | 509.0kw | 0.0kph     |    -    | 509.00kw |  901MJ  | 288.69kph | 190kph  | 1.02 | 34      | -B2       | 98.07%         | 3550         | 82.92%  | ±1.56s  |
-| Porsche      | 963        | LMDH  | 1:50.88 | 1:45.79 | 1053kg | 514.0kw | 0.0kph     |    -    | 514.00kw |  909MJ  | 289.20kph |    -    | 1.00 | 34      | ~A1       | 99.96%         | 10176        | 100.00% | ±0.88s  |
-| Toyota       | GR010      | LMHHU | 1:50.34 | 1:45.56 | 1080kg | 514.0kw | 0.0kph     |    -    | 514.00kw |  912MJ  | 288.79kph | 190kph  | 1.00 | 34      | -B2       | 99.95%         | 5509         | 83.51%  | ±1.01s  |
+| Cadillac     | V-Series.R | LMDH  | 1:51.59 | 1:46.51 | 1037kg | 504.0kw | 0.0kph     |    -    | 504.00kw |  895MJ  | 285.53kph |    -    | 1.03 | 34      | +C1       | 98.03%         | 3773         | 75.73%  | ±0.81s  |
+| Ferrari      | 499P       | LMHHU | 1:51.13 | 1:45.97 | 1075kg | 509.0kw | 0.0kph     |    -    | 509.00kw |  901MJ  | 288.30kph | 190kph  | 1.02 | 34      | -A2       | 100.00%        | 4212         | 92.07%  | ±0.74s  |
+| Porsche      | 963        | LMDH  | 1:51.38 | 1:46.14 | 1053kg | 514.0kw | 0.0kph     |    -    | 514.00kw |  909MJ  | 288.82kph |    -    | 1.01 | 34      | ~A1       | 99.21%         | 10753        | 100.00% | ±0.38s  |
+| Toyota       | GR010      | LMHHU | 1:50.93 | 1:45.63 | 1080kg | 514.0kw | 0.0kph     |    -    | 514.00kw |  912MJ  | 288.14kph | 190kph  | 1.00 | 34      | -B1       | 99.54%         | 3271         | 86.33%  | ±0.42s  |
 
 ## Power below Threshhold
 | N/Nmax    | V-SERIES.R | 499P    | 963     | GR010   |
