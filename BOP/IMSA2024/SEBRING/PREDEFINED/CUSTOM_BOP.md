@@ -14,10 +14,10 @@
 | Manufacturer | Car        | Type | RP      | QP      | Weight | Power¹  | Threshhold | PINC    | Power²   | E/Stint | AVG Vmax  | FDS     | RDLC | L/Stint | BOP-Grade | Model Accuracy | Model Points | Match%  | SimDiff |
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 | Acura        | ARX06      | LMDH | 1:52.20 | 1:47.30 | 1072kg | 511.0kw | 210.0kph   |    -    | 511.00kw |  911MJ  | 279.02kph |    -    | 1.00 | 29      | +B2       | 100.00%        | 996          | 80.06%  | #       |
-| BMW          | M-Hybrid   | LMDH | 1:51.81 | 1:47.02 | 1041kg | 512.0kw | 210.0kph   |    -    | 512.00kw |  905MJ  | 277.93kph |    -    | 1.04 | 29      | ~A1       | 99.97%         | 2912         | 100.00% | -0.42   |
-| Cadillac     | V-Series.R | LMDH | 1:51.66 | 1:47.05 | 1034kg | 510.0kw | 210.0kph   |    -    | 510.00kw |  906MJ  | 281.80kph |    -    | 1.04 | 29      | -A2       | 99.49%         | 5225         | 94.62%  | +1.27   |
-| Lamborghini  | SC63       | LMDH | 1:52.16 | 1:48.42 | 1042kg | 519.0kw | 210.0kph   |    -    | 519.00kw |  913MJ  | 277.85kph |    -    | 1.06 | 29      | +B1       | 100.00%        | 784          | 86.89%  | #       |
-| Porsche      | 963        | LMDH | 1:51.45 | 1:46.58 | 1047kg | 516.0kw | 210.0kph   |    -    | 516.00kw |  911MJ  | 279.42kph |    -    | 1.03 | 29      | -B2       | 99.92%         | 14207        | 82.71%  | +0.78   |
+| BMW          | M-Hybrid   | LMDH | 1:51.81 | 1:47.02 | 1041kg | 512.0kw | 210.0kph   |    -    | 512.00kw |  905MJ  | 278.20kph |    -    | 1.04 | 29      | ~A1       | 99.97%         | 2912         | 100.00% | -0.42   |
+| Cadillac     | V-Series.R | LMDH | 1:51.66 | 1:47.05 | 1034kg | 510.0kw | 210.0kph   |    -    | 510.00kw |  906MJ  | 281.56kph |    -    | 1.04 | 29      | -A2       | 99.49%         | 5225         | 94.62%  | +1.27   |
+| Lamborghini  | SC63       | LMDH | 1:52.16 | 1:48.42 | 1042kg | 519.0kw | 210.0kph   |    -    | 519.00kw |  913MJ  | 277.97kph |    -    | 1.06 | 29      | +B1       | 100.00%        | 784          | 86.89%  | #       |
+| Porsche      | 963        | LMDH | 1:51.45 | 1:46.58 | 1047kg | 516.0kw | 210.0kph   |    -    | 516.00kw |  911MJ  | 279.55kph |    -    | 1.03 | 29      | -B2       | 99.92%         | 14207        | 82.71%  | +0.78   |
 
 ## Power below Threshhold
 | N/Nmax    | ARX06   | M-HYBRID | V-SERIES.R | SC63    | 963     |
