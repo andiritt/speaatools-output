@@ -13,17 +13,17 @@
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/CUSTOM_sp.png)
 ![TYREPERFORMANCECHART](./IMG/CUSTOM_tw.png)
 
-### BoP Accuracy: 82.08%; Overall BoP Grade: B2
+### BoP Accuracy: 81.44%; Overall BoP Grade: B2
 | Manufacturer | Car        | Type  | RP      | QP      | Weight | Power¹  | Threshhold | PINC    | Power²   | E/Stint | AVG Vmax  | FDS     | RDLC | L/Stint | BOP-Grade | Model Accuracy | Model Points | Match%  | SimDiff |
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-| Alpine       | A424       | LMDH  | 3:28.96 | 3:23.50 | 1047kg | 520.0kw | 210.0kph   |    -    | 520.00kw |  914MJ  | 326.35kph |    -    | 1.02 | 12      | -C2       | 99.58%         | 1429         | 74.69%  | -0.01   |
-| Aston Martin | Valkyrie   | LMHNH | 3:32.13 | 3:26.31 | 1042kg | 504.0kw | 250.0kph   | 0.40%   | 506.00kw |  899MJ  | 308.35kph |    -    | 1.05 | 12      | +Ω1       | 100.00%        | 247          | 30.30%  | #       |
-| BMW          | M-Hybrid   | LMDH  | 3:30.00 | 3:24.24 | 1041kg | 512.0kw | 210.0kph   |    -    | 512.00kw |  906MJ  | 319.91kph |    -    | 1.04 | 12      | ~A1       | 99.97%         | 2912         | 100.00% | -0.11   |
-| Cadillac     | V-Series.R | LMDH  | 3:29.54 | 3:24.14 | 1034kg | 510.0kw | 210.0kph   |    -    | 510.00kw |  901MJ  | 323.77kph |    -    | 1.04 | 12      | -B1       | 99.49%         | 5225         | 89.76%  | +0.26   |
-| Ferrari      | 499P       | LMHHU | 3:29.79 | 3:23.75 | 1063kg | 508.0kw | 210.0kph   |    -    | 508.00kw |  894MJ  | 327.92kph | 190kph  | 1.04 | 12      | -A2       | 100.00%        | 5378         | 91.44%  | +0.67   |
-| Peugeot      | 9X8Evo     | LMHHU | 3:30.41 | 3:24.97 | 1050kg | 510.0kw | 210.0kph   |    -    | 510.00kw |  898MJ  | 330.26kph | 190kph  | 1.01 | 12      | +A2       | 100.00%        | 1459         | 91.77%  | +0.31   |
-| Porsche      | 963        | LMDH  | 3:29.46 | 3:23.53 | 1047kg | 516.0kw | 210.0kph   |    -    | 516.00kw |  909MJ  | 321.46kph |    -    | 1.03 | 12      | -B1       | 99.92%         | 14207        | 85.49%  | +0.34   |
-| Toyota       | GR010      | LMHHU | 3:30.35 | 3:24.02 | 1080kg | 512.0kw | 210.0kph   |    -    | 512.00kw |  911MJ  | 325.23kph | 190kph  | 1.01 | 12      | +A2       | 99.86%         | 4280         | 93.18%  | +0.33   |
+| Alpine       | A424       | LMDH  | 3:28.51 | 3:23.50 | 1047kg | 520.0kw | 210.0kph   |    -    | 520.00kw |  914MJ  | 321.21kph |    -    | 1.03 | 12      | -D1       | 98.45%         | 2220         | 69.25%  | +0.05   |
+| Aston Martin | Valkyrie   | LMHNH | 3:31.96 | 3:25.63 | 1042kg | 504.0kw | 250.0kph   | 0.40%   | 506.00kw |  899MJ  | 317.90kph |    -    | 1.04 | 12      | +Ω1       | 100.00%        | 466          | 28.76%  | #       |
+| BMW          | M-Hybrid   | LMDH  | 3:29.59 | 3:23.87 | 1041kg | 512.0kw | 210.0kph   |    -    | 512.00kw |  906MJ  | 322.07kph |    -    | 1.03 | 12      | ~A1       | 100.00%        | 3339         | 95.77%  | +0.16   |
+| Cadillac     | V-Series.R | LMDH  | 3:29.65 | 3:23.79 | 1034kg | 510.0kw | 210.0kph   |    -    | 510.00kw |  901MJ  | 324.01kph |    -    | 1.04 | 12      | ~A1       | 99.03%         | 6041         | 98.98%  | +0.09   |
+| Ferrari      | 499P       | LMHHU | 3:29.64 | 3:23.59 | 1063kg | 508.0kw | 210.0kph   |    -    | 508.00kw |  894MJ  | 321.70kph | 190kph  | 1.05 | 12      | ~A1       | 99.97%         | 7286         | 98.30%  | +0.41   |
+| Peugeot      | 9X8Evo     | LMHHU | 3:30.23 | 3:24.75 | 1050kg | 510.0kw | 210.0kph   |    -    | 510.00kw |  898MJ  | 330.72kph | 190kph  | 1.01 | 12      | +B2       | 100.00%        | 1890         | 80.09%  | +0.32   |
+| Porsche      | 963        | LMDH  | 3:28.99 | 3:23.25 | 1047kg | 516.0kw | 210.0kph   |    -    | 516.00kw |  909MJ  | 322.21kph |    -    | 1.03 | 12      | -B2       | 99.89%         | 15174        | 80.34%  | +0.60   |
+| Toyota       | GR010      | LMHHU | 3:29.95 | 3:24.08 | 1080kg | 512.0kw | 210.0kph   |    -    | 512.00kw |  911MJ  | 319.72kph | 190kph  | 1.02 | 12      | ~A1       | 99.82%         | 5457         | 100.00% | +0.22   |
 
 ## Power below Threshhold
 | N/Nmax    | A424    | VALKYRIE | M-HYBRID | V-SERIES.R | 499P    | 9X8EVO  | 963     | GR010   |
