@@ -1,23 +1,23 @@
 | Manufacturer | Car        | Weight | Power   | PINC    | E/Stint | FDS     |
 |:-|:-|:-|:-|:-|:-|:-|
-| Acura        | ARX06      | 1072kg | 520.0kw |    -    | 920MJ   |    -    |
-| BMW          | M-Hybrid   | 1031kg | 514.0kw |    -    | 908MJ   |    -    |
 | Cadillac     | V-Series.R | 1030kg | 510.0kw |    -    | 902MJ   |    -    |
-| Lamborghini  | SC63       | 1042kg | 516.0kw |    -    | 905MJ   |    -    |
 | Porsche      | 963        | 1051kg | 519.0kw |    -    | 905MJ   |    -    |
+| BMW          | M-Hybrid   | 1031kg | 514.0kw |    -    | 908MJ   |    -    |
+| Lamborghini  | SC63       | 1042kg | 516.0kw |    -    | 905MJ   |    -    |
+| Acura        | ARX06      | 1072kg | 520.0kw |    -    | 920MJ   |    -    |
 
 ![PACECHART](./IMG/OFFICIAL.png)
 ![STRAIGHTLINEPERFORMANCECHART](./IMG/OFFICIAL_sp.png)
 ![TYREPERFORMANCECHART](./IMG/OFFICIAL_tw.png)
 
-### BoP Accuracy: 84.75%; Overall BoP Grade: B2
+### BoP Accuracy: 83.51%; Overall BoP Grade: B2
 | Manufacturer | Car        | Type | RP      | QP      | Weight | Power¹  | Threshhold | PINC    | Power²   | E/Stint | AVG Vmax  | FDS     | RDLC | L/Stint | BOP-Grade | Model Accuracy | Model Points | Match% | SimDiff |
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-| Acura        | ARX06      | LMDH | 1:37.31 | 1:32.02 | 1072kg | 520.0kw | 0.0kph     |    -    | 520.00kw |  920MJ  | 309.36kph |    -    | 1.00 | 29      | +B1       | 100.00%        | 996          | 89.18% | +0.24   |
-| BMW          | M-Hybrid   | LMDH | 1:37.03 | 1:31.82 | 1031kg | 514.0kw | 0.0kph     |    -    | 514.00kw |  908MJ  | 312.40kph |    -    | 1.04 | 30      | -B1       | 100.00%        | 3339         | 88.45% | #       |
-| Cadillac     | V-Series.R | LMDH | 1:37.18 | 1:31.87 | 1030kg | 510.0kw | 0.0kph     |    -    | 510.00kw |  902MJ  | 312.25kph |    -    | 1.04 | 29      | ~A1       | 99.00%         | 6039         | 97.47% | #       |
-| Lamborghini  | SC63       | LMDH | 1:37.99 | 1:33.72 | 1042kg | 516.0kw | 0.0kph     |    -    | 516.00kw |  905MJ  | 305.54kph |    -    | 1.06 | 30      | +D2       | 100.00%        | 784          | 63.43% | #       |
-| Porsche      | 963        | LMDH | 1:37.04 | 1:31.67 | 1051kg | 519.0kw | 0.0kph     |    -    | 519.00kw |  905MJ  | 309.53kph |    -    | 1.02 | 30      | -B1       | 100.00%        | 14574        | 85.22% | #       |
+| Acura        | ARX06      | LMDH | 1:37.41 | 1:32.04 | 1072kg | 520.0kw | 0.0kph     |    -    | 520.00kw |  920MJ  | 309.36kph |    -    | 1.00 | 30      | +B2       | 100.00%        | 996          | 81.08% | +0.15   |
+| BMW          | M-Hybrid   | LMDH | 1:37.04 | 1:31.69 | 1031kg | 514.0kw | 0.0kph     |    -    | 514.00kw |  908MJ  | 310.05kph |    -    | 1.04 | 30      | -B2       | 100.00%        | 3339         | 83.10% | #       |
+| Cadillac     | V-Series.R | LMDH | 1:37.20 | 1:31.95 | 1030kg | 510.0kw | 0.0kph     |    -    | 510.00kw |  902MJ  | 311.05kph |    -    | 1.04 | 29      | -A2       | 99.56%         | 5841         | 94.13% | #       |
+| Lamborghini  | SC63       | LMDH | 1:38.05 | 1:33.64 | 1042kg | 516.0kw | 0.0kph     |    -    | 516.00kw |  905MJ  | 305.61kph |    -    | 1.06 | 30      | +D2       | 100.00%        | 784          | 62.78% | #       |
+| Porsche      | 963        | LMDH | 1:37.23 | 1:31.74 | 1051kg | 519.0kw | 0.0kph     |    -    | 519.00kw |  905MJ  | 309.11kph |    -    | 1.02 | 30      | ~A1       | 98.39%         | 16118        | 96.45% | #       |
 
 ## Power below Threshhold
 | N/Nmax    | ARX06   | M-HYBRID | V-SERIES.R | SC63    | 963     |
