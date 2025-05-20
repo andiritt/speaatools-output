@@ -2,7 +2,7 @@
 {
     "carName": "A480",
     "manufacturer": "Alpine",
-    "ballast": 0,
+    "weight": 930,
     "powerSetting": {
         "power": 454.00,
         "powerIncrease": 0.00,
@@ -27,9 +27,9 @@
     }
 },
 {
-    "carName": "GR010OLD",
+    "carName": "GR010-2021",
     "manufacturer": "Toyota",
-    "ballast": 10,
+    "weight": 1040,
     "powerSetting": {
         "power": 520.00,
         "powerIncrease": 0.00,

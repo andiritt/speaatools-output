@@ -8,18 +8,18 @@
 - Threshhold: 0.0kph
 
 ## BoP Table
-| Manufacturer   | Car      | Weight   | Power   | PINC   | E/Stint   | FDS    |
-|:---------------|:---------|:---------|:--------|:-------|:----------|:-------|
-| Alpine         | A480     | 1052kg   | 450.0kw | -      | 918MJ     | -      |
-| Glickenhaus    | 007      | 1030kg   | 520.0kw | -      | 965MJ     | -      |
-| Toyota         | GR010OLD | 1066kg   | 515.0kw | -      | 962MJ     | 150kph |
+| Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS    | RDP    | QDP    | TDP    |
+|:---------------|:-----------|:---------|:--------|:-------|:----------|:-------|:-------|:-------|:-------|
+| Alpine         | A480       | 952kg    | 450.0kw | -      | 918MJ     | -      | 54.90% | 66.67% | 43.98% |
+| Glickenhaus    | 007        | 1030kg   | 520.0kw | -      | 965MJ     | -      | 53.79% | 33.33% | 9.35%  |
+| Toyota         | GR010-2021 | 1066kg   | 515.0kw | -      | 962MJ     | 150kph | 54.79% | 50.00% | 13.05% |
 
 ## Performance Table
-| Manufacturer   | Car      | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
-|:---------------|:---------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Alpine         | A480     | 1:38.37 | 1:36.37 | 302.14kph |   1.02 | +B1         | 87.50%  |
-| Glickenhaus    | 007      | 1:38.36 | 1:36.80 | 306.25kph |   1.02 | +B1         | 85.26%  |
-| Toyota         | GR010OLD | 1:37.82 | 1:36.02 | 304.09kph |   1.02 | -A2         | 95.00%  |
+| Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
+|:---------------|:-----------|:--------|:--------|:----------|-------:|:------------|:--------|
+| Alpine         | A480       | 1:38.37 | 1:36.37 | 302.14kph |   1.02 | +B1         | 87.50%  |
+| Glickenhaus    | 007        | 1:38.36 | 1:36.80 | 306.25kph |   1.02 | +B1         | 85.26%  |
+| Toyota         | GR010-2021 | 1:37.82 | 1:36.02 | 304.09kph |   1.02 | -A2         | 95.00%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

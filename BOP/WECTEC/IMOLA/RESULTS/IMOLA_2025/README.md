@@ -8,16 +8,16 @@
 - Threshhold: 250.0kph
 
 ## BoP Table
-| Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS    |
-|:---------------|:-----------|:---------|:--------|:-------|:----------|:-------|
-| Alpine         | A424       | 1042kg   | 519.0kw | -5.40% | 907MJ     | -      |
-| Aston Martin   | Valkyrie   | 1051kg   | 505.0kw | -      | 900MJ     | -      |
-| BMW            | M-Hybrid   | 1042kg   | 513.0kw | -1.60% | 907MJ     | -      |
-| Cadillac       | V-Series.R | 1041kg   | 510.0kw | +2.00% | 907MJ     | -      |
-| Ferrari        | 499P       | 1045kg   | 508.0kw | -1.80% | 900MJ     | 190kph |
-| Peugeot        | 9X8Evo     | 1030kg   | 520.0kw | -5.40% | 903MJ     | 190kph |
-| Porsche        | 963        | 1053kg   | 503.0kw | +1.20% | 904MJ     | -      |
-| Toyota         | GR010      | 1065kg   | 500.0kw | +3.60% | 907MJ     | 190kph |
+| Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS    | RDP    | QDP    | TDP    |
+|:---------------|:-----------|:---------|:--------|:-------|:----------|:-------|:-------|:-------|:-------|
+| Alpine         | A424       | 1042kg   | 519.0kw | -5.40% | 907MJ     | -      | 50.24% | 66.67% | 11.49% |
+| Aston Martin   | Valkyrie   | 1051kg   | 505.0kw | -      | 900MJ     | -      | 53.85% | 66.67% | 18.16% |
+| BMW            | M-Hybrid   | 1042kg   | 513.0kw | -1.60% | 907MJ     | -      | 50.24% | 18.18% | 45.69% |
+| Cadillac       | V-Series.R | 1041kg   | 510.0kw | +2.00% | 907MJ     | -      | 48.82% | 25.00% | 34.93% |
+| Ferrari        | 499P       | 1045kg   | 508.0kw | -1.80% | 900MJ     | 190kph | 47.24% | 60.00% | 6.77%  |
+| Peugeot        | 9X8Evo     | 1030kg   | 520.0kw | -5.40% | 903MJ     | 190kph | 50.94% | 40.00% | 10.63% |
+| Porsche        | 963        | 1053kg   | 503.0kw | +1.20% | 904MJ     | -      | 51.26% | 50.00% | 19.00% |
+| Toyota         | GR010      | 1065kg   | 500.0kw | +3.60% | 907MJ     | 190kph | 50.00% | 42.86% | 4.49%  |
 
 ## Performance Table
 | Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |

@@ -2,7 +2,7 @@
 {
     "carName": "V-Series.R",
     "manufacturer": "Cadillac",
-    "ballast": 7,
+    "weight": 1037,
     "powerSetting": {
         "power": 504.00,
         "powerIncrease": 0.00,
@@ -29,7 +29,7 @@
 {
     "carName": "499P",
     "manufacturer": "Ferrari",
-    "ballast": 45,
+    "weight": 1075,
     "powerSetting": {
         "power": 509.00,
         "powerIncrease": 0.00,
@@ -56,7 +56,7 @@
 {
     "carName": "963",
     "manufacturer": "Porsche",
-    "ballast": 23,
+    "weight": 1053,
     "powerSetting": {
         "power": 514.00,
         "powerIncrease": 0.00,
@@ -83,7 +83,7 @@
 {
     "carName": "GR010",
     "manufacturer": "Toyota",
-    "ballast": 50,
+    "weight": 1080,
     "powerSetting": {
         "power": 514.00,
         "powerIncrease": 0.00,

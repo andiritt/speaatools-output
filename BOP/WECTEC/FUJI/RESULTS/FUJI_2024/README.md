@@ -8,16 +8,16 @@
 - Threshhold: 250.0kph
 
 ## BoP Table
-| Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS    |
-|:---------------|:-----------|:---------|:--------|:-------|:----------|:-------|
-| Alpine         | A424       | 1042kg   | 518.0kw | -3.70% | 907MJ     | -      |
-| BMW            | M-Hybrid   | 1037kg   | 515.0kw | -1.20% | 907MJ     | -      |
-| Cadillac       | V-Series.R | 1036kg   | 520.0kw | -0.80% | 909MJ     | -      |
-| Ferrari        | 499P       | 1055kg   | 500.0kw | +1.30% | 901MJ     | 190kph |
-| Lamborghini    | SC63       | 1030kg   | 520.0kw | -0.10% | 910MJ     | -      |
-| Peugeot        | 9X8Evo     | 1030kg   | 503.0kw | -1.90% | 903MJ     | 190kph |
-| Porsche        | 963        | 1049kg   | 512.0kw | +0.20% | 908MJ     | -      |
-| Toyota         | GR010      | 1070kg   | 493.0kw | +5.40% | 908MJ     | 190kph |
+| Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS    | RDP    | QDP    | TDP   |
+|:---------------|:-----------|:---------|:--------|:-------|:----------|:-------|:-------|:-------|:------|
+| Alpine         | A424       | 1042kg   | 518.0kw | -3.70% | 907MJ     | -      | 49.77% | 25.00% | 9.44% |
+| BMW            | M-Hybrid   | 1037kg   | 515.0kw | -1.20% | 907MJ     | -      | 49.88% | 60.00% | 6.84% |
+| Cadillac       | V-Series.R | 1036kg   | 520.0kw | -0.80% | 909MJ     | -      | 46.63% | 75.00% | 3.70% |
+| Ferrari        | 499P       | 1055kg   | 500.0kw | +1.30% | 901MJ     | 190kph | 53.04% | 11.11% | 7.86% |
+| Lamborghini    | SC63       | 1030kg   | 520.0kw | -0.10% | 910MJ     | -      | 50.68% | 75.00% | 4.68% |
+| Peugeot        | 9X8Evo     | 1030kg   | 503.0kw | -1.90% | 903MJ     | 190kph | 51.88% | 40.00% | 2.90% |
+| Porsche        | 963        | 1049kg   | 512.0kw | +0.20% | 908MJ     | -      | 48.03% | 20.00% | 5.44% |
+| Toyota         | GR010      | 1070kg   | 493.0kw | +5.40% | 908MJ     | 190kph | 49.73% | 33.33% | 7.04% |
 
 ## Performance Table
 | Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |

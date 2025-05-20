@@ -66,13 +66,17 @@ def process_json(json_path):
         bop_table.append([
             car.get("manufacturer", "-"),
             car.get("carName", "-"),
-            f"{1030 + car.get('ballast', 0)}kg",
+            f"{car.get('weight', 1030)}kg",
             f"{car['powerSetting']['power']:.1f}kw",
             f"{car['powerSetting']['powerIncrease']:+.2f}%" if car['powerSetting']['powerIncrease'] != 0 else "-",
             f"{car.get('stintEnergy', '-'):.0f}MJ" if car.get('stintEnergy') else "-",
-            f"{car['hybridActivationLimit']}kph" if car.get('hybridActivationLimit', 0) > 0 else "-"
+            f"{car['hybridActivationLimit']}kph" if car.get('hybridActivationLimit', 0) > 0 else "-",
+            f"{car['paceDataPointPercentage']*100:.2f}%" if car.get('paceDataPointPercentage') else "-",
+            f"{car['qualiDataPointPercentage']*100:.2f}%" if car.get('qualiDataPointPercentage') else "-",
+            f"{car['topSpeedDataPointPercentage']*100:.2f}%" if car.get('topSpeedDataPointPercentage') else "-",
+
         ])
-    bop_df = pd.DataFrame(bop_table, columns=["Manufacturer", "Car", "Weight", "Power", "PINC", "E/Stint", "FDS"])
+    bop_df = pd.DataFrame(bop_table, columns=["Manufacturer", "Car", "Weight", "Power", "PINC", "E/Stint", "FDS", "RDP", "QDP", "TDP"])
 
     # Table 2
     laptime_bounds = [(min(car['laptimes']), max(car['laptimes'])) for car in data]
@@ -116,6 +120,7 @@ def process_json(json_path):
     fig_race_violin = go.Figure()
     for i, laps in enumerate(laptimes):
         fig_race_violin.add_trace(go.Violin(y=laps, name=car_names[i], line_color=colors[i], box_visible=True, points=False))
+    fig_race_violin.update_layout(xaxis_showticklabels=False, xaxis_title=None)
     fig_race_violin.write_html(base + "_RACE_VIOLIN.html", full_html=False, include_plotlyjs='cdn')
     race_violin_html = fig_race_violin.to_html(full_html=False, include_plotlyjs='cdn')
 
@@ -123,6 +128,7 @@ def process_json(json_path):
     fig_quali_violin = go.Figure()
     for i, laps in enumerate(qualilaptimes):
         fig_quali_violin.add_trace(go.Violin(y=laps, name=car_names[i], line_color=colors[i], box_visible=True, points=False))
+    fig_quali_violin.update_layout(xaxis_showticklabels=False, xaxis_title=None)
     fig_quali_violin.write_html(base + "_QUALI_VIOLIN.html", full_html=False, include_plotlyjs='cdn')
     quali_violin_html = fig_quali_violin.to_html(full_html=False, include_plotlyjs='cdn')
 
@@ -130,6 +136,7 @@ def process_json(json_path):
     fig_topspeed_violin = go.Figure()
     for i, car in enumerate(data):
         fig_topspeed_violin.add_trace(go.Violin(y=car['topspeeds'], name=car_names[i], line_color=colors[i], box_visible=True, points=False))
+    fig_topspeed_violin.update_layout(xaxis_showticklabels=False, xaxis_title=None)
     fig_topspeed_violin.write_html(base + "_TOPSPEED_VIOLIN.html", full_html=False, include_plotlyjs='cdn')
     topspeed_violin_html = fig_topspeed_violin.to_html(full_html=False, include_plotlyjs='cdn')
 

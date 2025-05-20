@@ -8,12 +8,12 @@
 - Threshhold: 0.0kph
 
 ## BoP Table
-| Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS    |
-|:---------------|:-----------|:---------|:--------|:-------|:----------|:-------|
-| Cadillac       | V-Series.R | 1046kg   | 513.0kw | -      | 905MJ     | -      |
-| Ferrari        | 499P       | 1064kg   | 509.0kw | -      | 901MJ     | 190kph |
-| Porsche        | 963        | 1048kg   | 516.0kw | -      | 910MJ     | -      |
-| Toyota         | GR010      | 1080kg   | 512.0kw | -      | 908MJ     | 190kph |
+| Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS    | RDP    | QDP    | TDP    |
+|:---------------|:-----------|:---------|:--------|:-------|:----------|:-------|:-------|:-------|:-------|
+| Cadillac       | V-Series.R | 1046kg   | 513.0kw | -      | 905MJ     | -      | 38.01% | 28.57% | 13.28% |
+| Ferrari        | 499P       | 1064kg   | 509.0kw | -      | 901MJ     | 190kph | 38.44% | 16.67% | 5.59%  |
+| Porsche        | 963        | 1048kg   | 516.0kw | -      | 910MJ     | -      | 35.21% | 25.00% | 3.20%  |
+| Toyota         | GR010      | 1080kg   | 512.0kw | -      | 908MJ     | 190kph | 37.75% | 40.00% | 2.44%  |
 
 ## Performance Table
 | Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |

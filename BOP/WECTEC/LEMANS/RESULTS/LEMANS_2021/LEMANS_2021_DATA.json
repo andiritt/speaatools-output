@@ -2,7 +2,7 @@
 {
     "carName": "A480",
     "manufacturer": "Alpine",
-    "ballast": 22,
+    "weight": 952,
     "powerSetting": {
         "power": 450.00,
         "powerIncrease": 0.00,
@@ -29,7 +29,7 @@
 {
     "carName": "007",
     "manufacturer": "Glickenhaus",
-    "ballast": 0,
+    "weight": 1030,
     "powerSetting": {
         "power": 520.00,
         "powerIncrease": 0.00,
@@ -54,9 +54,9 @@
     }
 },
 {
-    "carName": "GR010OLD",
+    "carName": "GR010-2021",
     "manufacturer": "Toyota",
-    "ballast": 36,
+    "weight": 1066,
     "powerSetting": {
         "power": 515.00,
         "powerIncrease": 0.00,

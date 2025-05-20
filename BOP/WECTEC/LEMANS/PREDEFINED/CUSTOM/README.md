@@ -2,48 +2,50 @@
 
 ## Metadata
 
-- BoP Accuracy: 93.58%
+- BoP Accuracy: 90.65%
 - Overall BoP Grade: A2
 - Track: LEMANS
 - Threshhold: 210.0kph
 
 ## BoP Table
-| Manufacturer     | Car            | Weight   | Power   | PINC   | E/Stint   | FDS    |
-|:-----------------|:---------------|:---------|:--------|:-------|:----------|:-------|
-| Alpine           | A424           | 1047kg   | 520.0kw | -      | 914MJ     | -      |
-| Alpine           | A480           | 1052kg   | 432.0kw | -      | 766MJ     | -      |
-| Aston Martin     | Valkyrie       | 1042kg   | 504.0kw | +0.40% | 899MJ     | -      |
-| BMW              | M-Hybrid       | 1041kg   | 512.0kw | -      | 906MJ     | -      |
-| Cadillac         | V-Series.R     | 1034kg   | 510.0kw | -      | 901MJ     | -      |
-| Ferrari          | 499P           | 1063kg   | 508.0kw | -      | 894MJ     | 190kph |
-| Glickenhaus      | 007            | 1030kg   | 520.0kw | -      | 913MJ     | -      |
-| Isotta Fraschini | Tipo6C         | 1059kg   | 520.0kw | -      | 919MJ     | 190kph |
-| Lamborghini      | SC63           | 1042kg   | 519.0kw | -      | 907MJ     | -      |
-| Peugeot          | 9X8Evo         | 1050kg   | 510.0kw | -      | 898MJ     | 190kph |
-| Peugeot          | 9X8            | 1030kg   | 520.0kw | -      | 910MJ     | 150kph |
-| Porsche          | 963            | 1047kg   | 516.0kw | -      | 909MJ     | -      |
-| Toyota           | GR010          | 1080kg   | 512.0kw | -      | 911MJ     | 190kph |
-| Toyota           | GR010OLD       | 1065kg   | 513.0kw | -      | 960MJ     | 150kph |
-| Vanwall          | Vanderwell 680 | 1030kg   | 520.0kw | -      | 908MJ     | -      |
+| Manufacturer     | Car            | Weight   | Power   | PINC   | E/Stint   | FDS    | RDP    | QDP    | TDP    |
+|:-----------------|:---------------|:---------|:--------|:-------|:----------|:-------|:-------|:-------|:-------|
+| Alpine           | A424           | 1047kg   | 520.0kw | -      | 914MJ     | -      | 52.35% | 61.85% | 27.84% |
+| Alpine           | A480           | 952kg    | 432.0kw | -      | 766MJ     | -      | 54.51% | 76.19% | 54.04% |
+| Aston Martin     | Valkyrie       | 1042kg   | 504.0kw | +0.40% | 899MJ     | -      | 53.59% | 53.33% | 21.51% |
+| BMW              | M-Hybrid       | 1041kg   | 512.0kw | -      | 906MJ     | -      | 53.26% | 57.23% | 34.54% |
+| Cadillac         | V-Series.R     | 1034kg   | 510.0kw | -      | 901MJ     | -      | 47.80% | 56.73% | 19.63% |
+| Ferrari          | 499P           | 1063kg   | 508.0kw | -      | 894MJ     | 190kph | 53.02% | 42.32% | 9.88%  |
+| Glickenhaus      | 007            | 1030kg   | 520.0kw | -      | 913MJ     | -      | 46.49% | 46.07% | 47.78% |
+| Isotta Fraschini | Tipo6C         | 1059kg   | 520.0kw | -      | 919MJ     | 190kph | 43.95% | 47.22% | 31.53% |
+| Lamborghini      | SC63           | 1042kg   | 519.0kw | -      | 907MJ     | -      | 46.33% | 59.50% | 29.33% |
+| Peugeot          | 9X8Evo         | 1050kg   | 510.0kw | -      | 898MJ     | 190kph | 48.47% | 51.26% | 16.02% |
+| Peugeot          | 9X8            | 1030kg   | 520.0kw | -      | 910MJ     | 150kph | 54.07% | 57.08% | 10.80% |
+| Porsche          | 963            | 1047kg   | 516.0kw | -      | 909MJ     | -      | 50.87% | 45.25% | 30.77% |
+| Toyota           | GR010          | 1080kg   | 512.0kw | -      | 911MJ     | 190kph | 52.43% | 57.12% | 12.82% |
+| Toyota           | GR010-2021     | 1065kg   | 513.0kw | -      | 960MJ     | 150kph | 54.09% | 52.67% | 26.37% |
+| Toyota           | GR010-2022     | 1080kg   | 512.0kw | -      | 904MJ     | 190kph | 53.48% | 69.44% | 7.86%  |
+| Vanwall          | Vanderwell 680 | 1030kg   | 520.0kw | -      | 908MJ     | -      | 53.41% | 56.28% | 29.85% |
 
 ## Performance Table
 | Manufacturer     | Car            | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:-----------------|:---------------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Alpine           | A424           | 3:28.33 | 3:23.72 | 335.90kph |   1.02 | ~A1         | 98.20%  |
-| Alpine           | A480           | 3:30.65 | 3:28.08 | 323.49kph |   1.01 | -A2         | 93.96%  |
-| Aston Martin     | Valkyrie       | 3:32.06 | 3:25.79 | 331.91kph |   1.03 | +A2         | 94.36%  |
-| BMW              | M-Hybrid       | 3:29.28 | 3:23.95 | 333.52kph |   1.03 | ~A1         | 99.61%  |
-| Cadillac         | V-Series.R     | 3:29.80 | 3:24.62 | 330.15kph |   1.03 | ~A1         | 99.96%  |
-| Ferrari          | 499P           | 3:29.26 | 3:23.77 | 334.13kph |   1.03 | ~A1         | 99.49%  |
-| Glickenhaus      | 007            | 3:30.05 | 3:26.90 | 332.27kph |   1.02 | ~A1         | 97.81%  |
-| Isotta Fraschini | Tipo6C         | 3:32.17 | 3:30.96 | 332.03kph |   1.01 | +B1         | 86.57%  |
-| Lamborghini      | SC63           | 3:30.75 | 3:27.06 | 333.77kph |   1.02 | ~A1         | 98.19%  |
-| Peugeot          | 9X8Evo         | 3:30.04 | 3:24.72 | 335.30kph |   1.03 | ~A1         | 99.37%  |
-| Peugeot          | 9X8            | 3:29.10 | 3:24.56 | 328.05kph |   1.02 | ~A1         | 99.74%  |
-| Porsche          | 963            | 3:29.00 | 3:23.83 | 333.96kph |   1.03 | ~A1         | 99.72%  |
-| Toyota           | GR010          | 3:29.88 | 3:24.16 | 333.73kph |   1.03 | ~A1         | 99.97%  |
-| Toyota           | GR010OLD       | 3:27.89 | 3:24.78 | 329.37kph |   1.02 | ~A1         | 96.14%  |
-| Vanwall          | Vanderwell 680 | 3:34.07 | 3:28.09 | 325.73kph |   1.03 | +Ω1         | 40.62%  |
+| Alpine           | A424           | 3:28.07 | 3:23.20 | 335.67kph |   1.02 | ~A1         | 99.72%  |
+| Alpine           | A480           | 3:26.13 | 3:23.21 | 325.42kph |   1.01 | -B2         | 80.75%  |
+| Aston Martin     | Valkyrie       | 3:31.10 | 3:24.86 | 331.91kph |   1.03 | +A2         | 92.95%  |
+| BMW              | M-Hybrid       | 3:28.82 | 3:23.19 | 333.46kph |   1.03 | ~A1         | 100.00% |
+| Cadillac         | V-Series.R     | 3:29.36 | 3:23.76 | 329.89kph |   1.03 | ~A1         | 99.66%  |
+| Ferrari          | 499P           | 3:27.29 | 3:20.82 | 334.05kph |   1.03 | ~A1         | 96.53%  |
+| Glickenhaus      | 007            | 3:30.05 | 3:26.91 | 332.27kph |   1.02 | +A2         | 90.15%  |
+| Isotta Fraschini | Tipo6C         | 3:31.17 | 3:30.17 | 332.03kph |   1    | +B2         | 80.60%  |
+| Lamborghini      | SC63           | 3:30.60 | 3:26.79 | 333.77kph |   1.02 | +A2         | 92.76%  |
+| Peugeot          | 9X8Evo         | 3:28.95 | 3:23.65 | 335.30kph |   1.03 | ~A1         | 99.79%  |
+| Peugeot          | 9X8            | 3:28.12 | 3:22.95 | 326.48kph |   1.03 | ~A1         | 99.21%  |
+| Porsche          | 963            | 3:28.56 | 3:23.06 | 334.36kph |   1.03 | ~A1         | 99.78%  |
+| Toyota           | GR010          | 3:27.24 | 3:20.57 | 334.21kph |   1.03 | ~A1         | 96.96%  |
+| Toyota           | GR010-2021     | 3:27.68 | 3:22.91 | 325.59kph |   1.02 | ~A1         | 98.82%  |
+| Toyota           | GR010-2022     | 3:27.45 | 3:24.20 | 331.71kph |   1.02 | ~A1         | 99.71%  |
+| Vanwall          | Vanderwell 680 | 3:33.99 | 3:28.09 | 325.73kph |   1.03 | +Ω1         | 23.07%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

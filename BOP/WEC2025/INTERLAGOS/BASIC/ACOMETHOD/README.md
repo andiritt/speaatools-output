@@ -2,34 +2,34 @@
 
 ## Metadata
 
-- BoP Accuracy: 95.37%
+- BoP Accuracy: 99.70%
 - Overall BoP Grade: A1
 - Track: INTERLAGOS
-- Threshhold: 210.0kph
+- Threshhold: 250.0kph
 
 ## BoP Table
-| Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS    |
-|:---------------|:-----------|:---------|:--------|:-------|:----------|:-------|
-| Alpine         | A424       | 1067kg   | 520.0kw | -1.00% | 917MJ     | -      |
-| Aston Martin   | Valkyrie   | 1040kg   | 506.0kw | +0.40% | 900MJ     | -      |
-| BMW            | M-Hybrid   | 1061kg   | 512.0kw | +1.00% | 912MJ     | -      |
-| Cadillac       | V-Series.R | 1054kg   | 510.0kw | +1.00% | 906MJ     | -      |
-| Ferrari        | 499P       | 1083kg   | 508.0kw | -1.00% | 905MJ     | 190kph |
-| Peugeot        | 9X8Evo     | 1066kg   | 510.0kw | -1.00% | 909MJ     | 190kph |
-| Porsche        | 963        | 1067kg   | 516.0kw | -1.00% | 911MJ     | -      |
-| Toyota         | GR010      | 1100kg   | 512.0kw | +1.00% | 917MJ     | 190kph |
+| Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS    | RDP    | QDP    | TDP    |
+|:---------------|:-----------|:---------|:--------|:-------|:----------|:-------|:-------|:-------|:-------|
+| Alpine         | A424       | 1067kg   | 520.0kw | -0.10% | 919MJ     | -      | 52.35% | 61.85% | 27.84% |
+| Aston Martin   | Valkyrie   | 1040kg   | 505.0kw | +0.40% | 900MJ     | -      | 53.59% | 53.33% | 21.51% |
+| BMW            | M-Hybrid   | 1061kg   | 512.0kw | +0.10% | 910MJ     | -      | 53.26% | 57.23% | 34.54% |
+| Cadillac       | V-Series.R | 1054kg   | 510.0kw | +0.10% | 905MJ     | -      | 47.80% | 56.73% | 19.63% |
+| Ferrari        | 499P       | 1083kg   | 508.0kw | -0.10% | 907MJ     | 190kph | 53.02% | 42.32% | 9.88%  |
+| Peugeot        | 9X8Evo     | 1057kg   | 510.0kw | -0.10% | 909MJ     | 190kph | 48.47% | 51.26% | 16.02% |
+| Porsche        | 963        | 1067kg   | 516.0kw | -0.10% | 913MJ     | -      | 50.87% | 45.25% | 30.77% |
+| Toyota         | GR010      | 1100kg   | 512.0kw | -0.10% | 914MJ     | 190kph | 52.43% | 57.12% | 12.82% |
 
 ## Performance Table
 | Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:-----------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Alpine         | A424       | 1:26.09 | 1:22.97 | 278.84kph |   1.04 | ~A1         | 97.39%  |
-| Aston Martin   | Valkyrie   | 1:28.01 | 1:24.16 | 278.78kph |   1.05 | +C1         | 79.00%  |
-| BMW            | M-Hybrid   | 1:26.52 | 1:23.11 | 278.32kph |   1.04 | ~A1         | 99.49%  |
-| Cadillac       | V-Series.R | 1:27.02 | 1:23.64 | 275.50kph |   1.04 | ~A1         | 99.66%  |
-| Ferrari        | 499P       | 1:27.04 | 1:23.52 | 277.40kph |   1.04 | ~A1         | 99.98%  |
-| Peugeot        | 9X8Evo     | 1:27.55 | 1:24.08 | 278.73kph |   1.04 | +A2         | 90.04%  |
-| Porsche        | 963        | 1:26.56 | 1:23.20 | 277.23kph |   1.04 | ~A1         | 99.81%  |
-| Toyota         | GR010      | 1:26.16 | 1:22.62 | 278.57kph |   1.04 | ~A1         | 97.58%  |
+| Alpine         | A424       | 1:26.81 | 1:23.53 | 279.32kph |   1.04 | ~A1         | 99.61%  |
+| Aston Martin   | Valkyrie   | 1:27.58 | 1:23.75 | 278.60kph |   1.05 | ~A1         | 100.00% |
+| BMW            | M-Hybrid   | 1:27.14 | 1:23.54 | 277.62kph |   1.04 | ~A1         | 100.00% |
+| Cadillac       | V-Series.R | 1:27.33 | 1:23.74 | 274.64kph |   1.04 | ~A1         | 99.96%  |
+| Ferrari        | 499P       | 1:27.27 | 1:23.27 | 277.99kph |   1.05 | ~A1         | 99.83%  |
+| Peugeot        | 9X8Evo     | 1:27.53 | 1:24.04 | 280.25kph |   1.04 | ~A1         | 98.62%  |
+| Porsche        | 963        | 1:27.06 | 1:23.52 | 278.22kph |   1.04 | ~A1         | 99.81%  |
+| Toyota         | GR010      | 1:27.35 | 1:23.26 | 278.16kph |   1.05 | ~A1         | 99.76%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

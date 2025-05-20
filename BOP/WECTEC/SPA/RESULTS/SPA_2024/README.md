@@ -8,17 +8,17 @@
 - Threshhold: 210.0kph
 
 ## BoP Table
-| Manufacturer     | Car        | Weight   | Power   | PINC   | E/Stint   | FDS    |
-|:-----------------|:-----------|:---------|:--------|:-------|:----------|:-------|
-| Alpine           | A424       | 1045kg   | 513.0kw | -      | 913MJ     | -      |
-| BMW              | M-Hybrid   | 1038kg   | 510.0kw | -      | 907MJ     | -      |
-| Cadillac         | V-Series.R | 1030kg   | 516.0kw | -      | 909MJ     | -      |
-| Ferrari          | 499P       | 1053kg   | 508.0kw | -      | 902MJ     | 190kph |
-| Isotta Fraschini | Tipo6C     | 1059kg   | 520.0kw | -      | 917MJ     | 190kph |
-| Lamborghini      | SC63       | 1035kg   | 514.0kw | -      | 908MJ     | -      |
-| Peugeot          | 9X8Evo     | 1065kg   | 508.0kw | -      | 910MJ     | 190kph |
-| Porsche          | 963        | 1037kg   | 507.0kw | -      | 904MJ     | -      |
-| Toyota           | GR010      | 1064kg   | 515.0kw | -      | 917MJ     | 190kph |
+| Manufacturer     | Car        | Weight   | Power   | PINC   | E/Stint   | FDS    | RDP    | QDP    | TDP    |
+|:-----------------|:-----------|:---------|:--------|:-------|:----------|:-------|:-------|:-------|:-------|
+| Alpine           | A424       | 1045kg   | 513.0kw | -      | 913MJ     | -      | 46.98% | 33.33% | 11.90% |
+| BMW              | M-Hybrid   | 1038kg   | 510.0kw | -      | 907MJ     | -      | 46.79% | 16.67% | 5.10%  |
+| Cadillac         | V-Series.R | 1030kg   | 516.0kw | -      | 909MJ     | -      | 44.21% | 33.33% | 13.45% |
+| Ferrari          | 499P       | 1053kg   | 508.0kw | -      | 902MJ     | 190kph | 45.63% | 33.33% | 11.42% |
+| Isotta Fraschini | Tipo6C     | 1059kg   | 520.0kw | -      | 917MJ     | 190kph | 60.00% | 50.00% | 16.13% |
+| Lamborghini      | SC63       | 1035kg   | 514.0kw | -      | 908MJ     | -      | 47.46% | 50.00% | 5.63%  |
+| Peugeot          | 9X8Evo     | 1065kg   | 508.0kw | -      | 910MJ     | 190kph | 47.67% | 50.00% | 13.86% |
+| Porsche          | 963        | 1037kg   | 507.0kw | -      | 904MJ     | -      | 46.37% | 75.00% | 11.50% |
+| Toyota           | GR010      | 1064kg   | 515.0kw | -      | 917MJ     | 190kph | 47.52% | 16.67% | 3.83%  |
 
 ## Performance Table
 | Manufacturer     | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |

@@ -8,14 +8,14 @@
 - Threshhold: 0.0kph
 
 ## BoP Table
-| Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS    |
-|:---------------|:-----------|:---------|:--------|:-------|:----------|:-------|
-| Alpine         | A424       | 1070kg   | 510.0kw | -      | 909MJ     | -      |
-| BMW            | M-Hybrid   | 1060kg   | 506.0kw | -      | 904MJ     | -      |
-| Cadillac       | V-Series.R | 1032kg   | 499.0kw | -      | 890MJ     | -      |
-| Ferrari        | 499P       | 1075kg   | 503.0kw | -      | 902MJ     | 190kph |
-| Porsche        | 963        | 1048kg   | 505.0kw | -      | 900MJ     | -      |
-| Toyota         | GR010      | 1089kg   | 510.0kw | -      | 914MJ     | 190kph |
+| Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS    | RDP    | QDP     | TDP    |
+|:---------------|:-----------|:---------|:--------|:-------|:----------|:-------|:-------|:--------|:-------|
+| Alpine         | A424       | 1070kg   | 510.0kw | -      | 909MJ     | -      | 60.15% | 75.00%  | 8.48%  |
+| BMW            | M-Hybrid   | 1060kg   | 506.0kw | -      | 904MJ     | -      | 59.18% | 100.00% | 45.81% |
+| Cadillac       | V-Series.R | 1032kg   | 499.0kw | -      | 890MJ     | -      | 58.08% | 80.00%  | 6.60%  |
+| Ferrari        | 499P       | 1075kg   | 503.0kw | -      | 902MJ     | 190kph | 58.66% | 40.00%  | 7.62%  |
+| Porsche        | 963        | 1048kg   | 505.0kw | -      | 900MJ     | -      | 53.25% | 100.00% | 7.76%  |
+| Toyota         | GR010      | 1089kg   | 510.0kw | -      | 914MJ     | 190kph | 59.22% | 66.67%  | 14.83% |
 
 ## Performance Table
 | Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |

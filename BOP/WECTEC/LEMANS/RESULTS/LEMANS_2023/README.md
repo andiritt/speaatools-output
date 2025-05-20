@@ -8,15 +8,15 @@
 - Threshhold: 0.0kph
 
 ## BoP Table
-| Manufacturer   | Car            | Weight   | Power   | PINC   | E/Stint   | FDS    |
-|:---------------|:---------------|:---------|:--------|:-------|:----------|:-------|
-| Cadillac       | V-Series.R     | 1046kg   | 513.0kw | -      | 905MJ     | -      |
-| Ferrari        | 499P           | 1064kg   | 509.0kw | -      | 901MJ     | 190kph |
-| Glickenhaus    | 007            | 1030kg   | 520.0kw | -      | 913MJ     | -      |
-| Peugeot        | 9X8            | 1042kg   | 516.0kw | -      | 908MJ     | 150kph |
-| Porsche        | 963            | 1048kg   | 516.0kw | -      | 910MJ     | -      |
-| Toyota         | GR010          | 1080kg   | 512.0kw | -      | 908MJ     | 190kph |
-| Vanwall        | Vanderwell 680 | 1030kg   | 512.0kw | -      | 901MJ     | -      |
+| Manufacturer   | Car            | Weight   | Power   | PINC   | E/Stint   | FDS    | RDP    | QDP    | TDP    |
+|:---------------|:---------------|:---------|:--------|:-------|:----------|:-------|:-------|:-------|:-------|
+| Cadillac       | V-Series.R     | 1046kg   | 513.0kw | -      | 905MJ     | -      | 38.01% | 28.57% | 13.28% |
+| Ferrari        | 499P           | 1064kg   | 509.0kw | -      | 901MJ     | 190kph | 38.44% | 16.67% | 5.59%  |
+| Glickenhaus    | 007            | 1030kg   | 520.0kw | -      | 913MJ     | -      | 36.08% | 57.14% | 16.80% |
+| Peugeot        | 9X8            | 1042kg   | 516.0kw | -      | 908MJ     | 150kph | 37.23% | 50.00% | 14.95% |
+| Porsche        | 963            | 1048kg   | 516.0kw | -      | 910MJ     | -      | 35.21% | 25.00% | 3.20%  |
+| Toyota         | GR010          | 1080kg   | 512.0kw | -      | 908MJ     | 190kph | 37.75% | 40.00% | 2.44%  |
+| Vanwall        | Vanderwell 680 | 1030kg   | 512.0kw | -      | 901MJ     | -      | 25.45% | 75.00% | 20.21% |
 
 ## Performance Table
 | Manufacturer   | Car            | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |

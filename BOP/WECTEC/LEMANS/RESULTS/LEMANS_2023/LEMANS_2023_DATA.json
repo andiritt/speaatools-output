@@ -2,7 +2,7 @@
 {
     "carName": "V-Series.R",
     "manufacturer": "Cadillac",
-    "ballast": 16,
+    "weight": 1046,
     "powerSetting": {
         "power": 513.00,
         "powerIncrease": 0.00,
@@ -29,7 +29,7 @@
 {
     "carName": "499P",
     "manufacturer": "Ferrari",
-    "ballast": 34,
+    "weight": 1064,
     "powerSetting": {
         "power": 509.00,
         "powerIncrease": 0.00,
@@ -56,7 +56,7 @@
 {
     "carName": "007",
     "manufacturer": "Glickenhaus",
-    "ballast": 0,
+    "weight": 1030,
     "powerSetting": {
         "power": 520.00,
         "powerIncrease": 0.00,
@@ -83,7 +83,7 @@
 {
     "carName": "9X8",
     "manufacturer": "Peugeot",
-    "ballast": 12,
+    "weight": 1042,
     "powerSetting": {
         "power": 516.00,
         "powerIncrease": 0.00,
@@ -110,7 +110,7 @@
 {
     "carName": "963",
     "manufacturer": "Porsche",
-    "ballast": 18,
+    "weight": 1048,
     "powerSetting": {
         "power": 516.00,
         "powerIncrease": 0.00,
@@ -137,7 +137,7 @@
 {
     "carName": "GR010",
     "manufacturer": "Toyota",
-    "ballast": 50,
+    "weight": 1080,
     "powerSetting": {
         "power": 512.00,
         "powerIncrease": 0.00,
@@ -164,7 +164,7 @@
 {
     "carName": "Vanderwell 680",
     "manufacturer": "Vanwall",
-    "ballast": 0,
+    "weight": 1030,
     "powerSetting": {
         "power": 512.00,
         "powerIncrease": 0.00,

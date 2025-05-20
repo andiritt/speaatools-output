@@ -2,7 +2,7 @@
 {
     "carName": "A424",
     "manufacturer": "Alpine",
-    "ballast": 11,
+    "weight": 1041,
     "powerSetting": {
         "power": 515.00,
         "powerIncrease": -1.90,
@@ -29,7 +29,7 @@
 {
     "carName": "M-Hybrid",
     "manufacturer": "BMW",
-    "ballast": 7,
+    "weight": 1037,
     "powerSetting": {
         "power": 513.00,
         "powerIncrease": -0.90,
@@ -56,7 +56,7 @@
 {
     "carName": "V-Series.R",
     "manufacturer": "Cadillac",
-    "ballast": 7,
+    "weight": 1037,
     "powerSetting": {
         "power": 518.00,
         "powerIncrease": -0.60,
@@ -83,7 +83,7 @@
 {
     "carName": "499P",
     "manufacturer": "Ferrari",
-    "ballast": 25,
+    "weight": 1055,
     "powerSetting": {
         "power": 500.00,
         "powerIncrease": 1.90,
@@ -110,7 +110,7 @@
 {
     "carName": "SC63",
     "manufacturer": "Lamborghini",
-    "ballast": 0,
+    "weight": 1030,
     "powerSetting": {
         "power": 520.00,
         "powerIncrease": 0.00,
@@ -137,7 +137,7 @@
 {
     "carName": "9X8Evo",
     "manufacturer": "Peugeot",
-    "ballast": 7,
+    "weight": 1037,
     "powerSetting": {
         "power": 509.00,
         "powerIncrease": -1.20,
@@ -164,7 +164,7 @@
 {
     "carName": "963",
     "manufacturer": "Porsche",
-    "ballast": 23,
+    "weight": 1053,
     "powerSetting": {
         "power": 509.00,
         "powerIncrease": 0.70,
@@ -191,7 +191,7 @@
 {
     "carName": "GR010",
     "manufacturer": "Toyota",
-    "ballast": 35,
+    "weight": 1065,
     "powerSetting": {
         "power": 497.00,
         "powerIncrease": 4.60,

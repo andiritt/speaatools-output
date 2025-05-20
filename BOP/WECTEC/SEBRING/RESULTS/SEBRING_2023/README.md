@@ -8,14 +8,14 @@
 - Threshhold: 210.0kph
 
 ## BoP Table
-| Manufacturer   | Car            | Weight   | Power   | PINC   | E/Stint   | FDS    |
-|:---------------|:---------------|:---------|:--------|:-------|:----------|:-------|
-| Cadillac       | V-Series.R     | 1038kg   | 513.0kw | -      | 905MJ     | -      |
-| Ferrari        | 499P           | 1057kg   | 515.0kw | -      | 908MJ     | 190kph |
-| Peugeot        | 9X8            | 1049kg   | 518.0kw | -      | 909MJ     | 150kph |
-| Porsche        | 963            | 1048kg   | 517.0kw | -      | 912MJ     | -      |
-| Toyota         | GR010          | 1062kg   | 517.0kw | -      | 913MJ     | 190kph |
-| Vanwall        | Vanderwell 680 | 1030kg   | 511.0kw | -      | 900MJ     | -      |
+| Manufacturer   | Car            | Weight   | Power   | PINC   | E/Stint   | FDS    | RDP    | QDP    | TDP    |
+|:---------------|:---------------|:---------|:--------|:-------|:----------|:-------|:-------|:-------|:-------|
+| Cadillac       | V-Series.R     | 1038kg   | 513.0kw | -      | 905MJ     | -      | 60.57% | 33.33% | 10.98% |
+| Ferrari        | 499P           | 1057kg   | 515.0kw | -      | 908MJ     | 190kph | 57.14% | 33.33% | 1.36%  |
+| Peugeot        | 9X8            | 1049kg   | 518.0kw | -      | 909MJ     | 150kph | 58.70% | 25.00% | 7.66%  |
+| Porsche        | 963            | 1048kg   | 517.0kw | -      | 912MJ     | -      | 55.60% | 40.00% | 0.77%  |
+| Toyota         | GR010          | 1062kg   | 517.0kw | -      | 913MJ     | 190kph | 49.40% | 25.00% | 0.99%  |
+| Vanwall        | Vanderwell 680 | 1030kg   | 511.0kw | -      | 900MJ     | -      | 55.76% | 50.00% | 1.74%  |
 
 ## Performance Table
 | Manufacturer   | Car            | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
