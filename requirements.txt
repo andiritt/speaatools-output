@@ -1,4 +1,4 @@
-plotly
+plotly~=6.0.1
 pandas
-kaleido
+kaleido~=0.2.1
 tabulate

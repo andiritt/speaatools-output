@@ -147,8 +147,21 @@ def process_json(json_path):
     fig_laptime_line.write_html(base + "_LAPTIME_LINE.html", full_html=False, include_plotlyjs='cdn')
     laptime_line_html = fig_laptime_line.to_html(full_html=False, include_plotlyjs='cdn')
 
+    # Save plot images for README.md
+    image_dir = os.path.join(os.path.dirname(json_path), "images")
+    ensure_dir(image_dir)
+    # Save static images (png) for each plot
+    race_violin_img = os.path.join(image_dir, "race_violin.png")
+    quali_violin_img = os.path.join(image_dir, "quali_violin.png")
+    topspeed_violin_img = os.path.join(image_dir, "topspeed_violin.png")
+    laptime_line_img = os.path.join(image_dir, "laptime_line.png")
+    fig_race_violin.write_image(race_violin_img)
+    fig_quali_violin.write_image(quali_violin_img)
+    fig_topspeed_violin.write_image(topspeed_violin_img)
+    fig_laptime_line.write_image(laptime_line_img)
+
     # Combine all plots into a markdown file in the requested order
-    md_path = os.path.join(os.path.dirname(json_path), "README.md")
+    md_path = os.path.join(os.path.dirname(json_path), "offline.md")
     with open(md_path, "w") as mdfile:
         mdfile.write("# Combined Plots\n\n## Metadata\n\n")
         mdfile.write(f"- BoP Accuracy: {bop_accuracy:.2f}%\n- Overall BoP Grade: {bop_grade_total}\n")
@@ -159,6 +172,19 @@ def process_json(json_path):
         mdfile.write("## Quali Laptimes\n" + quali_violin_html + "\n\n")
         mdfile.write("## Topspeeds\n" + topspeed_violin_html + "\n\n")
         mdfile.write("## Laptimes Lineplot\n" + laptime_line_html + "\n\n")
+
+    # Create README.md with images instead of HTML
+    readme_path = os.path.join(os.path.dirname(json_path), "README.md")
+    with open(readme_path, "w") as mdfile:
+        mdfile.write("# Combined Plots\n\n## Metadata\n\n")
+        mdfile.write(f"- BoP Accuracy: {bop_accuracy:.2f}%\n- Overall BoP Grade: {bop_grade_total}\n")
+        mdfile.write(f"- Track: {data[0]['track']}\n- Threshhold: {data[0]['powerSetting']['increaseThreshhold']}kph\n\n")
+        mdfile.write("## BoP Table\n" + bop_table_md + "\n\n")
+        mdfile.write("## Performance Table\n" + perf_table_md + "\n\n")
+        mdfile.write("## Race Laptimes\n![Race Laptimes](images/race_violin.png)\n\n")
+        mdfile.write("## Quali Laptimes\n![Quali Laptimes](images/quali_violin.png)\n\n")
+        mdfile.write("## Topspeeds\n![Topspeeds](images/topspeed_violin.png)\n\n")
+        mdfile.write("## Laptimes Lineplot\n![Laptimes Lineplot](images/laptime_line.png)\n\n")
 
 def main():
     folder = "BOP"
