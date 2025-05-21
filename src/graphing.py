@@ -167,12 +167,22 @@ def process_json(json_path):
     fig_topspeed_violin.write_image(topspeed_violin_img)
     fig_laptime_line.write_image(laptime_line_img)
 
+    # Calculate the average laptime, qualilaptime and topspeed of all cars
+    avg_laptime = np.mean([car['raceLaptime'] for car in data])
+    avg_quali_laptime = np.mean([car['qualiLaptime'] for car in data])
+    avg_topspeed = np.mean([car['topspeed'] for car in data])
+    avg_laptime_str = format_time(avg_laptime)
+    avg_quali_laptime_str = format_time(avg_quali_laptime)
+    avg_topspeed_str = f"{avg_topspeed:.2f}kph"
+
     # Combine all plots into a markdown file in the requested order
     md_path = os.path.join(os.path.dirname(json_path), "offline.md")
     with open(md_path, "w") as mdfile:
         mdfile.write("# Combined Plots\n\n## Metadata\n\n")
         mdfile.write(f"- BoP Accuracy: {bop_accuracy:.2f}%\n- Overall BoP Grade: {bop_grade_total}\n")
-        mdfile.write(f"- Track: {data[0]['track']}\n- Threshhold: {data[0]['powerSetting']['increaseThreshhold']}kph\n\n")
+        mdfile.write(f"- Track: {data[0]['track']}\n- Threshhold: {data[0]['powerSetting']['increaseThreshhold']}kph\n")
+        mdfile.write(f"- Average Laptime: {avg_laptime_str}\n- Average Quali Laptime: {avg_quali_laptime_str}\n")
+        mdfile.write(f"- Average Topspeed: {avg_topspeed_str}\n\n")
         mdfile.write("## BoP Table\n" + bop_table_md + "\n\n")
         mdfile.write("## Performance Table\n" + perf_table_md + "\n\n")
         mdfile.write("## Race Laptimes\n" + race_violin_html + "\n\n")
@@ -185,7 +195,9 @@ def process_json(json_path):
     with open(readme_path, "w") as mdfile:
         mdfile.write("# Combined Plots\n\n## Metadata\n\n")
         mdfile.write(f"- BoP Accuracy: {bop_accuracy:.2f}%\n- Overall BoP Grade: {bop_grade_total}\n")
-        mdfile.write(f"- Track: {data[0]['track']}\n- Threshhold: {data[0]['powerSetting']['increaseThreshhold']}kph\n\n")
+        mdfile.write(f"- Track: {data[0]['track']}\n- Threshhold: {data[0]['powerSetting']['increaseThreshhold']}kph\n")
+        mdfile.write(f"- Average Laptime: {avg_laptime_str}\n- Average Quali Laptime: {avg_quali_laptime_str}\n")
+        mdfile.write(f"- Average Topspeed: {avg_topspeed_str}\n\n")
         mdfile.write("## BoP Table\n" + bop_table_md + "\n\n")
         mdfile.write("## Performance Table\n" + perf_table_md + "\n\n")
         mdfile.write("## Race Laptimes\n![Race Laptimes](images/race_violin.png)\n\n")
