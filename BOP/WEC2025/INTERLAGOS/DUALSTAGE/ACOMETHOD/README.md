@@ -2,34 +2,37 @@
 
 ## Metadata
 
-- BoP Accuracy: 99.21%
+- BoP Accuracy: 99.63%
 - Overall BoP Grade: A1
 - Track: INTERLAGOS
 - Threshhold: 250.0kph
+- Average Laptime: 1:29.02
+- Average Quali Laptime: 1:24.69
+- Average Topspeed: 282.16kph
 
 ## BoP Table
 | Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS    | RDP    | QDP    | TDP    |
 |:---------------|:-----------|:---------|:--------|:-------|:----------|:-------|:-------|:-------|:-------|
-| Alpine         | A424       | 1057kg   | 520.0kw | -0.10% | 918MJ     | -      | 52.35% | 61.85% | 27.84% |
-| Aston Martin   | Valkyrie   | 1040kg   | 505.0kw | +0.40% | 900MJ     | -      | 53.59% | 53.33% | 21.51% |
-| BMW            | M-Hybrid   | 1051kg   | 512.0kw | +0.10% | 909MJ     | -      | 53.26% | 57.23% | 34.54% |
-| Cadillac       | V-Series.R | 1044kg   | 510.0kw | +0.10% | 904MJ     | -      | 47.80% | 56.73% | 19.63% |
-| Ferrari        | 499P       | 1073kg   | 508.0kw | -0.10% | 906MJ     | 190kph | 53.02% | 42.32% | 9.88%  |
-| Peugeot        | 9X8Evo     | 1059kg   | 510.0kw | -0.10% | 910MJ     | 190kph | 48.47% | 51.26% | 16.02% |
-| Porsche        | 963        | 1057kg   | 516.0kw | -0.10% | 912MJ     | -      | 50.87% | 45.25% | 30.77% |
-| Toyota         | GR010      | 1090kg   | 512.0kw | -0.10% | 913MJ     | 190kph | 52.43% | 57.12% | 12.82% |
+| Alpine         | A424       | 1057kg   | 520.0kw | -      | 918MJ     | -      | 51.64% | 59.31% | 26.80% |
+| Aston Martin   | Valkyrie   | 1039kg   | 518.0kw | -      | 910MJ     | -      | 53.50% | 53.33% | 21.51% |
+| BMW            | M-Hybrid   | 1049kg   | 512.0kw | +0.10% | 909MJ     | -      | 52.89% | 56.22% | 33.41% |
+| Cadillac       | V-Series.R | 1034kg   | 511.0kw | -      | 903MJ     | -      | 48.63% | 60.80% | 19.01% |
+| Ferrari        | 499P       | 1069kg   | 508.0kw | -0.10% | 905MJ     | 190kph | 51.38% | 44.98% | 9.83%  |
+| Peugeot        | 9X8Evo     | 1050kg   | 510.0kw | +0.10% | 909MJ     | 190kph | 48.87% | 52.78% | 15.41% |
+| Porsche        | 963        | 1057kg   | 516.0kw | -0.10% | 912MJ     | -      | 50.70% | 44.30% | 29.51% |
+| Toyota         | GR010      | 1085kg   | 512.0kw | -0.10% | 912MJ     | 190kph | 51.09% | 52.71% | 11.46% |
 
 ## Performance Table
 | Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:-----------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Alpine         | A424       | 1:26.55 | 1:23.29 | 280.27kph |   1.04 | ~A1         | 99.05%  |
-| Aston Martin   | Valkyrie   | 1:27.58 | 1:23.75 | 278.60kph |   1.05 | ~A1         | 100.00% |
-| BMW            | M-Hybrid   | 1:26.88 | 1:23.31 | 278.58kph |   1.04 | ~A1         | 100.00% |
-| Cadillac       | V-Series.R | 1:27.07 | 1:23.50 | 275.59kph |   1.04 | ~A1         | 100.00% |
-| Ferrari        | 499P       | 1:27.03 | 1:23.05 | 278.93kph |   1.05 | ~A1         | 99.81%  |
-| Peugeot        | 9X8Evo     | 1:27.58 | 1:24.09 | 280.06kph |   1.04 | ~A1         | 95.27%  |
-| Porsche        | 963        | 1:26.81 | 1:23.28 | 279.17kph |   1.04 | ~A1         | 99.78%  |
-| Toyota         | GR010      | 1:27.11 | 1:23.03 | 279.08kph |   1.05 | ~A1         | 99.76%  |
+| Alpine         | A424       | 1:28.50 | 1:24.44 | 282.10kph |   1.05 | ~A1         | 99.97%  |
+| Aston Martin   | Valkyrie   | 1:29.12 | 1:24.61 | 282.96kph |   1.05 | ~A1         | 100.00% |
+| BMW            | M-Hybrid   | 1:29.11 | 1:24.70 | 280.83kph |   1.05 | ~A1         | 99.59%  |
+| Cadillac       | V-Series.R | 1:29.12 | 1:24.74 | 279.70kph |   1.05 | ~A1         | 99.40%  |
+| Ferrari        | 499P       | 1:29.12 | 1:24.68 | 283.07kph |   1.05 | ~A1         | 98.64%  |
+| Peugeot        | 9X8Evo     | 1:29.18 | 1:24.97 | 282.47kph |   1.05 | ~A1         | 100.00% |
+| Porsche        | 963        | 1:28.90 | 1:24.81 | 283.15kph |   1.05 | ~A1         | 99.86%  |
+| Toyota         | GR010      | 1:29.11 | 1:24.55 | 283.04kph |   1.05 | ~A1         | 99.56%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

@@ -2,15 +2,18 @@
 
 ## Metadata
 
-- BoP Accuracy: 43.82%
+- BoP Accuracy: 44.96%
 - Overall BoP Grade: Ω1
 - Track: REFERENCETRACK
 - Threshhold: 0.0kph
+- Average Laptime: 2:10.42
+- Average Quali Laptime: 2:05.05
+- Average Topspeed: 309.37kph
 
 ## BoP Table
 | Manufacturer   | Car            | Weight   | Power   | PINC   | E/Stint   | FDS   | RDP    | QDP     | TDP    |
 |:---------------|:---------------|:---------|:--------|:-------|:----------|:------|:-------|:--------|:-------|
-| Cadillac       | V-Series.R     | 1030kg   | 520.0kw | -      | 910MJ     | -     | 44.92% | 25.00%  | 7.98%  |
+| Cadillac       | V-Series.R     | 1030kg   | 520.0kw | -      | 910MJ     | -     | 45.45% | 25.00%  | 7.98%  |
 | Ferrari        | 499P           | 1030kg   | 520.0kw | -      | 907MJ     | -     | 48.43% | 25.00%  | 3.21%  |
 | Glickenhaus    | 007            | 1030kg   | 520.0kw | -      | 913MJ     | -     | 46.58% | 50.00%  | 23.12% |
 | Peugeot        | 9X8            | 1030kg   | 520.0kw | -      | 910MJ     | -     | 44.18% | 33.33%  | 2.85%  |
@@ -21,13 +24,13 @@
 ## Performance Table
 | Manufacturer   | Car            | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:---------------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Cadillac       | V-Series.R     | 2:10.94 | 2:04.87 | 311.94kph |   1.05 | +B1         | 85.71%  |
-| Ferrari        | 499P           | 2:06.60 | 2:01.48 | 317.86kph |   1.04 | -Ω1         | 4.88%   |
-| Glickenhaus    | 007            | 2:13.23 | 2:07.61 | 305.66kph |   1.04 | +Ω1         | 8.82%   |
-| Peugeot        | 9X8            | 2:09.71 | 2:04.57 | 311.16kph |   1.04 | ~A1         | 95.35%  |
-| Porsche        | 963            | 2:11.49 | 2:06.25 | 310.36kph |   1.04 | +E1         | 56.52%  |
-| Toyota         | GR010          | 2:07.39 | 2:01.87 | 311.75kph |   1.05 | -E1         | 55.47%  |
-| Vanwall        | Vanderwell 680 | 2:14.27 | 2:08.73 | 301.95kph |   1.04 | +Ω2         | 0.00%   |
+| Cadillac       | V-Series.R     | 2:10.82 | 2:04.83 | 311.21kph |   1.05 | +B1         | 85.88%  |
+| Ferrari        | 499P           | 2:06.57 | 2:01.53 | 317.12kph |   1.04 | -Ω1         | 9.76%   |
+| Glickenhaus    | 007            | 2:13.04 | 2:07.53 | 304.94kph |   1.04 | +Ω1         | 8.82%   |
+| Peugeot        | 9X8            | 2:09.67 | 2:04.61 | 310.44kph |   1.04 | ~A1         | 95.35%  |
+| Porsche        | 963            | 2:11.40 | 2:06.26 | 309.63kph |   1.04 | +E1         | 56.52%  |
+| Toyota         | GR010          | 2:07.37 | 2:01.93 | 311.01kph |   1.04 | -E1         | 58.39%  |
+| Vanwall        | Vanderwell 680 | 2:14.10 | 2:08.66 | 301.24kph |   1.04 | +Ω2         | 0.00%   |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

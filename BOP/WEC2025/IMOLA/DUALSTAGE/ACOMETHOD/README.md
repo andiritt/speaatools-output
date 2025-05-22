@@ -2,34 +2,37 @@
 
 ## Metadata
 
-- BoP Accuracy: 99.42%
+- BoP Accuracy: 99.80%
 - Overall BoP Grade: A1
 - Track: IMOLA
 - Threshhold: 250.0kph
+- Average Laptime: 1:34.16
+- Average Quali Laptime: 1:30.10
+- Average Topspeed: 313.75kph
 
 ## BoP Table
 | Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS    | RDP    | QDP    | TDP    |
 |:---------------|:-----------|:---------|:--------|:-------|:----------|:-------|:-------|:-------|:-------|
-| Alpine         | A424       | 1057kg   | 520.0kw | -0.10% | 923MJ     | -      | 52.35% | 61.85% | 27.84% |
-| Aston Martin   | Valkyrie   | 1042kg   | 505.0kw | +0.40% | 900MJ     | -      | 53.59% | 53.33% | 21.51% |
-| BMW            | M-Hybrid   | 1051kg   | 512.0kw | +0.10% | 911MJ     | -      | 53.26% | 57.23% | 34.54% |
-| Cadillac       | V-Series.R | 1044kg   | 510.0kw | +0.10% | 903MJ     | -      | 47.80% | 56.73% | 19.63% |
-| Ferrari        | 499P       | 1073kg   | 508.0kw | -0.10% | 907MJ     | 190kph | 53.02% | 42.32% | 9.88%  |
-| Peugeot        | 9X8Evo     | 1060kg   | 510.0kw | -0.10% | 911MJ     | 190kph | 48.47% | 51.26% | 16.02% |
-| Porsche        | 963        | 1057kg   | 516.0kw | -0.10% | 913MJ     | -      | 50.87% | 45.25% | 30.77% |
-| Toyota         | GR010      | 1090kg   | 512.0kw | -0.10% | 911MJ     | 190kph | 52.43% | 57.12% | 12.82% |
+| Alpine         | A424       | 1057kg   | 520.0kw | -0.10% | 923MJ     | -      | 51.64% | 59.31% | 26.80% |
+| Aston Martin   | Valkyrie   | 1032kg   | 520.0kw | -      | 911MJ     | -      | 53.50% | 53.33% | 21.51% |
+| BMW            | M-Hybrid   | 1047kg   | 512.0kw | +0.10% | 911MJ     | -      | 52.89% | 56.22% | 33.41% |
+| Cadillac       | V-Series.R | 1034kg   | 510.0kw | +0.10% | 901MJ     | -      | 48.63% | 60.80% | 19.01% |
+| Ferrari        | 499P       | 1073kg   | 508.0kw | -0.10% | 907MJ     | 190kph | 51.38% | 44.98% | 9.83%  |
+| Peugeot        | 9X8Evo     | 1048kg   | 511.0kw | -      | 911MJ     | 190kph | 48.87% | 52.78% | 15.41% |
+| Porsche        | 963        | 1057kg   | 516.0kw | -0.10% | 913MJ     | -      | 50.70% | 44.30% | 29.51% |
+| Toyota         | GR010      | 1085kg   | 512.0kw | -0.10% | 910MJ     | 190kph | 51.09% | 52.71% | 11.46% |
 
 ## Performance Table
 | Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:-----------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Alpine         | A424       | 1:33.88 | 1:29.57 | 311.50kph |   1.05 | ~A1         | 99.61%  |
-| Aston Martin   | Valkyrie   | 1:35.00 | 1:30.07 | 309.43kph |   1.05 | ~A1         | 99.84%  |
-| BMW            | M-Hybrid   | 1:34.21 | 1:29.56 | 309.62kph |   1.05 | ~A1         | 100.00% |
-| Cadillac       | V-Series.R | 1:34.41 | 1:29.77 | 306.30kph |   1.05 | ~A1         | 99.96%  |
-| Ferrari        | 499P       | 1:34.21 | 1:29.14 | 310.01kph |   1.06 | ~A1         | 99.79%  |
-| Peugeot        | 9X8Evo     | 1:34.85 | 1:30.30 | 311.16kph |   1.05 | ~A1         | 96.53%  |
-| Porsche        | 963        | 1:34.14 | 1:29.55 | 310.29kph |   1.05 | ~A1         | 99.80%  |
-| Toyota         | GR010      | 1:34.29 | 1:29.12 | 310.18kph |   1.06 | ~A1         | 99.85%  |
+| Alpine         | A424       | 1:34.02 | 1:30.21 | 313.45kph |   1.04 | ~A1         | 99.45%  |
+| Aston Martin   | Valkyrie   | 1:34.30 | 1:30.06 | 315.71kph |   1.05 | ~A1         | 100.00% |
+| BMW            | M-Hybrid   | 1:34.16 | 1:30.02 | 312.34kph |   1.05 | ~A1         | 99.81%  |
+| Cadillac       | V-Series.R | 1:34.21 | 1:30.11 | 310.74kph |   1.05 | ~A1         | 99.56%  |
+| Ferrari        | 499P       | 1:34.08 | 1:29.92 | 314.19kph |   1.05 | ~A1         | 100.00% |
+| Peugeot        | 9X8Evo     | 1:34.17 | 1:30.24 | 314.30kph |   1.04 | ~A1         | 100.00% |
+| Porsche        | 963        | 1:34.18 | 1:30.36 | 314.71kph |   1.04 | ~A1         | 99.84%  |
+| Toyota         | GR010      | 1:34.18 | 1:29.88 | 314.58kph |   1.05 | ~A1         | 99.71%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

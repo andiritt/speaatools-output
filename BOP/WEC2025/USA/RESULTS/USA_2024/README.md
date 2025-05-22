@@ -6,6 +6,9 @@
 - Overall BoP Grade: A2
 - Track: USA
 - Threshhold: 250.0kph
+- Average Laptime: 1:54.19
+- Average Quali Laptime: 1:51.00
+- Average Topspeed: 307.54kph
 
 ## BoP Table
 | Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS    | RDP    | QDP    | TDP    |

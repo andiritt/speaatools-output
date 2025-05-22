@@ -6,6 +6,9 @@
 - Overall BoP Grade: C2
 - Track: PORTIMAO
 - Threshhold: 0.0kph
+- Average Laptime: 1:34.08
+- Average Quali Laptime: 1:32.17
+- Average Topspeed: 311.99kph
 
 ## BoP Table
 | Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS    | RDP    | QDP     | TDP    |
@@ -17,9 +20,9 @@
 ## Performance Table
 | Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:-----------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Alpine         | A480       | 1:32.17 | 1:30.14 | 311.19kph |   1.02 | -B1         | 88.89%  |
-| Glickenhaus    | 007        | 1:33.73 | 1:31.83 | 310.89kph |   1.02 | +Ω1         | 35.94%  |
-| Toyota         | GR010-2021 | 1:32.19 | 1:30.33 | 314.23kph |   1.02 | -A2         | 93.77%  |
+| Alpine         | A480       | 1:33.55 | 1:31.53 | 311.08kph |   1.02 | -B1         | 88.89%  |
+| Glickenhaus    | 007        | 1:35.13 | 1:33.25 | 310.77kph |   1.02 | +Ω1         | 35.94%  |
+| Toyota         | GR010-2021 | 1:33.57 | 1:31.74 | 314.11kph |   1.02 | -A2         | 93.77%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

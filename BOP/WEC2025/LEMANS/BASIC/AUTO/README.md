@@ -2,34 +2,37 @@
 
 ## Metadata
 
-- BoP Accuracy: 99.91%
+- BoP Accuracy: 99.80%
 - Overall BoP Grade: A1
 - Track: LEMANS
 - Threshhold: 0.0kph
+- Average Laptime: 3:31.14
+- Average Quali Laptime: 3:25.30
+- Average Topspeed: 337.43kph
 
 ## BoP Table
 | Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS    | RDP    | QDP    | TDP    |
 |:---------------|:-----------|:---------|:--------|:-------|:----------|:-------|:-------|:-------|:-------|
-| Alpine         | A424       | 1041kg   | 507.0kw | -      | 902MJ     | -      | 52.35% | 61.85% | 27.84% |
-| Aston Martin   | Valkyrie   | 1031kg   | 520.0kw | -      | 911MJ     | -      | 53.59% | 53.33% | 21.51% |
-| BMW            | M-Hybrid   | 1041kg   | 509.0kw | -      | 904MJ     | -      | 53.26% | 57.23% | 34.54% |
-| Cadillac       | V-Series.R | 1048kg   | 518.0kw | -      | 909MJ     | -      | 47.80% | 56.73% | 19.63% |
-| Ferrari        | 499P       | 1066kg   | 491.0kw | -      | 879MJ     | 190kph | 53.02% | 42.32% | 9.88%  |
-| Peugeot        | 9X8Evo     | 1031kg   | 501.0kw | -      | 888MJ     | 190kph | 48.47% | 51.26% | 16.02% |
-| Porsche        | 963        | 1041kg   | 508.0kw | -      | 901MJ     | -      | 50.87% | 45.25% | 30.77% |
-| Toyota         | GR010      | 1065kg   | 488.0kw | -      | 888MJ     | 190kph | 52.43% | 57.12% | 12.82% |
+| Alpine         | A424       | 1037kg   | 506.0kw | -      | 900MJ     | -      | 51.64% | 59.31% | 26.80% |
+| Aston Martin   | Valkyrie   | 1030kg   | 520.0kw | -      | 911MJ     | -      | 53.50% | 53.33% | 21.51% |
+| BMW            | M-Hybrid   | 1039kg   | 510.0kw | -      | 904MJ     | -      | 52.89% | 56.22% | 33.41% |
+| Cadillac       | V-Series.R | 1042kg   | 520.0kw | -      | 910MJ     | -      | 48.63% | 60.80% | 19.01% |
+| Ferrari        | 499P       | 1059kg   | 503.0kw | -      | 889MJ     | 190kph | 51.38% | 44.98% | 9.83%  |
+| Peugeot        | 9X8Evo     | 1030kg   | 514.0kw | -      | 900MJ     | 190kph | 48.87% | 52.78% | 15.41% |
+| Porsche        | 963        | 1033kg   | 504.0kw | -      | 897MJ     | -      | 50.70% | 44.30% | 29.51% |
+| Toyota         | GR010      | 1059kg   | 501.0kw | -      | 899MJ     | 190kph | 51.09% | 52.71% | 11.46% |
 
 ## Performance Table
 | Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:-----------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Alpine         | A424       | 3:29.12 | 3:24.19 | 333.30kph |   1.02 | ~A1         | 99.79%  |
-| Aston Martin   | Valkyrie   | 3:29.12 | 3:23.01 | 336.66kph |   1.03 | ~A1         | 100.00% |
-| BMW            | M-Hybrid   | 3:29.12 | 3:23.47 | 332.75kph |   1.03 | ~A1         | 100.00% |
-| Cadillac       | V-Series.R | 3:29.12 | 3:23.53 | 330.15kph |   1.03 | ~A1         | 100.00% |
-| Ferrari        | 499P       | 3:29.13 | 3:22.53 | 329.61kph |   1.03 | ~A1         | 99.83%  |
-| Peugeot        | 9X8Evo     | 3:29.11 | 3:23.80 | 335.35kph |   1.03 | ~A1         | 100.00% |
-| Porsche        | 963        | 3:29.11 | 3:23.59 | 333.17kph |   1.03 | ~A1         | 99.87%  |
-| Toyota         | GR010      | 3:29.11 | 3:22.31 | 330.11kph |   1.03 | ~A1         | 99.76%  |
+| Alpine         | A424       | 3:31.04 | 3:25.76 | 335.61kph |   1.03 | ~A1         | 99.11%  |
+| Aston Martin   | Valkyrie   | 3:31.85 | 3:25.57 | 339.17kph |   1.03 | ~A1         | 100.00% |
+| BMW            | M-Hybrid   | 3:31.03 | 3:25.03 | 335.68kph |   1.03 | ~A1         | 99.94%  |
+| Cadillac       | V-Series.R | 3:31.04 | 3:25.13 | 334.93kph |   1.03 | ~A1         | 99.72%  |
+| Ferrari        | 499P       | 3:31.02 | 3:24.94 | 337.80kph |   1.03 | ~A1         | 99.99%  |
+| Peugeot        | 9X8Evo     | 3:31.03 | 3:25.51 | 340.27kph |   1.03 | ~A1         | 100.00% |
+| Porsche        | 963        | 3:31.05 | 3:25.78 | 337.89kph |   1.03 | ~A1         | 99.86%  |
+| Toyota         | GR010      | 3:31.05 | 3:24.69 | 338.13kph |   1.03 | ~A1         | 99.79%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

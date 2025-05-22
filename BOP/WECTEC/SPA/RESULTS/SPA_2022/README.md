@@ -6,6 +6,9 @@
 - Overall BoP Grade: B1
 - Track: SPA
 - Threshhold: 0.0kph
+- Average Laptime: 2:07.22
+- Average Quali Laptime: 2:05.73
+- Average Topspeed: 310.67kph
 
 ## BoP Table
 | Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS    | RDP    | QDP    | TDP    |
@@ -17,9 +20,9 @@
 ## Performance Table
 | Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:-----------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Alpine         | A480       | 2:06.51 | 2:03.89 | 301.59kph |   1.02 | +A2         | 91.30%  |
-| Glickenhaus    | 007        | 2:06.37 | 2:03.56 | 309.78kph |   1.02 | -C1         | 79.17%  |
-| Toyota         | GR010-2022 | 2:05.42 | 2:03.72 | 315.25kph |   1.01 | ~A1         | 97.56%  |
+| Alpine         | A480       | 2:07.63 | 2:05.90 | 303.34kph |   1.01 | +A2         | 91.30%  |
+| Glickenhaus    | 007        | 2:07.49 | 2:05.57 | 311.58kph |   1.02 | -C1         | 79.17%  |
+| Toyota         | GR010-2022 | 2:06.53 | 2:05.72 | 317.08kph |   1.01 | ~A1         | 97.56%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

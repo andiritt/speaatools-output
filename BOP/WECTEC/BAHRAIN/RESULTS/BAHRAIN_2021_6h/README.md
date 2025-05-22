@@ -6,6 +6,9 @@
 - Overall BoP Grade: B1
 - Track: BAHRAIN
 - Threshhold: 0.0kph
+- Average Laptime: 1:53.75
+- Average Quali Laptime: 1:48.47
+- Average Topspeed: 297.60kph
 
 ## BoP Table
 | Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS    | RDP    | QDP    | TDP   |
@@ -16,8 +19,8 @@
 ## Performance Table
 | Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:-----------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Alpine         | A480       | 1:52.53 | 1:46.93 | 275.57kph |   1.05 | +C1         | 80.00%  |
-| Toyota         | GR010-2021 | 1:52.25 | 1:46.57 | 278.74kph |   1.05 | ~A1         | 98.97%  |
+| Alpine         | A480       | 1:53.89 | 1:48.65 | 295.90kph |   1.05 | +C1         | 80.00%  |
+| Toyota         | GR010-2021 | 1:53.61 | 1:48.29 | 299.30kph |   1.05 | ~A1         | 98.97%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

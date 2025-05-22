@@ -6,11 +6,14 @@
 - Overall BoP Grade: B1
 - Track: SPA
 - Threshhold: 210.0kph
+- Average Laptime: 2:07.85
+- Average Quali Laptime: 2:04.42
+- Average Topspeed: 315.01kph
 
 ## BoP Table
 | Manufacturer     | Car        | Weight   | Power   | PINC   | E/Stint   | FDS    | RDP    | QDP    | TDP    |
 |:-----------------|:-----------|:---------|:--------|:-------|:----------|:-------|:-------|:-------|:-------|
-| Alpine           | A424       | 1045kg   | 513.0kw | -      | 913MJ     | -      | 46.98% | 33.33% | 11.90% |
+| Alpine           | A424       | 1045kg   | 513.0kw | -      | 913MJ     | -      | 46.62% | 33.33% | 11.90% |
 | BMW              | M-Hybrid   | 1038kg   | 510.0kw | -      | 907MJ     | -      | 46.79% | 16.67% | 5.10%  |
 | Cadillac         | V-Series.R | 1030kg   | 516.0kw | -      | 909MJ     | -      | 44.21% | 33.33% | 13.45% |
 | Ferrari          | 499P       | 1053kg   | 508.0kw | -      | 902MJ     | 190kph | 45.63% | 33.33% | 11.42% |
@@ -23,15 +26,15 @@
 ## Performance Table
 | Manufacturer     | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:-----------------|:-----------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Alpine           | A424       | 2:06.47 | 2:02.48 | 307.89kph |   1.03 | ~A1         | 97.73%  |
-| BMW              | M-Hybrid   | 2:06.55 | 2:02.35 | 307.58kph |   1.03 | ~A1         | 100.00% |
-| Cadillac         | V-Series.R | 2:06.45 | 2:02.50 | 307.46kph |   1.03 | ~A1         | 97.62%  |
-| Ferrari          | 499P       | 2:06.18 | 2:02.00 | 308.16kph |   1.03 | ~A1         | 97.41%  |
-| Isotta Fraschini | Tipo6C     | 2:07.83 | 2:05.46 | 305.25kph |   1.02 | +Ω1         | 43.33%  |
-| Lamborghini      | SC63       | 2:07.06 | 2:03.92 | 306.74kph |   1.03 | +B1         | 85.71%  |
-| Peugeot          | 9X8Evo     | 2:07.16 | 2:03.10 | 305.44kph |   1.03 | +C1         | 75.94%  |
-| Porsche          | 963        | 2:05.95 | 2:02.19 | 307.28kph |   1.03 | -A2         | 92.18%  |
-| Toyota           | GR010      | 2:06.51 | 2:02.10 | 311.07kph |   1.04 | ~A1         | 100.00% |
+| Alpine           | A424       | 2:07.62 | 2:04.00 | 315.49kph |   1.03 | ~A1         | 97.71%  |
+| BMW              | M-Hybrid   | 2:07.72 | 2:03.87 | 315.17kph |   1.03 | ~A1         | 100.00% |
+| Cadillac         | V-Series.R | 2:07.61 | 2:04.02 | 315.05kph |   1.03 | ~A1         | 97.62%  |
+| Ferrari          | 499P       | 2:07.34 | 2:03.51 | 315.76kph |   1.03 | ~A1         | 97.41%  |
+| Isotta Fraschini | Tipo6C     | 2:09.01 | 2:07.01 | 312.78kph |   1.02 | +Ω1         | 43.33%  |
+| Lamborghini      | SC63       | 2:08.23 | 2:05.46 | 314.31kph |   1.02 | +B1         | 85.71%  |
+| Peugeot          | 9X8Evo     | 2:08.34 | 2:04.63 | 312.97kph |   1.03 | +C1         | 75.94%  |
+| Porsche          | 963        | 2:07.10 | 2:03.71 | 314.86kph |   1.03 | -A2         | 92.18%  |
+| Toyota           | GR010      | 2:07.68 | 2:03.61 | 318.74kph |   1.03 | ~A1         | 100.00% |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)
