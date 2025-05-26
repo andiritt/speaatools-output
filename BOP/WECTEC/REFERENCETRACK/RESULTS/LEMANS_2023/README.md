@@ -2,12 +2,12 @@
 
 ## Metadata
 
-- BoP Accuracy: 36.03%
+- BoP Accuracy: 39.84%
 - Overall BoP Grade: Ω1
 - Track: REFERENCETRACK
 - Threshhold: 0.0kph
-- Average Laptime: 2:10.33
-- Average Quali Laptime: 2:06.78
+- Average Laptime: 2:10.41
+- Average Quali Laptime: 2:06.86
 - Average Topspeed: 312.62kph
 
 ## BoP Table
@@ -24,13 +24,13 @@
 ## Performance Table
 | Manufacturer   | Car            | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:---------------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Cadillac       | V-Series.R     | 2:11.03 | 2:07.29 | 312.23kph |   1.03 | +C1         | 78.10%  |
-| Ferrari        | 499P           | 2:06.93 | 2:02.87 | 318.21kph |   1.03 | -Ω2         | 0.00%   |
-| Glickenhaus    | 007            | 2:12.65 | 2:09.89 | 310.58kph |   1.02 | +Ω1         | 13.22%  |
-| Peugeot        | 9X8            | 2:09.03 | 2:06.49 | 309.18kph |   1.02 | -C1         | 79.50%  |
-| Porsche        | 963            | 2:10.94 | 2:06.92 | 314.14kph |   1.03 | +B2         | 81.40%  |
-| Toyota         | GR010          | 2:07.26 | 2:03.32 | 317.95kph |   1.03 | -Ω2         | 0.00%   |
-| Vanwall        | Vanderwell 680 | 2:14.50 | 2:10.70 | 306.02kph |   1.03 | +Ω2         | 0.00%   |
+| Cadillac       | V-Series.R     | 2:10.91 | 2:07.18 | 312.23kph |   1.03 | +B1         | 86.28%  |
+| Ferrari        | 499P           | 2:07.19 | 2:03.12 | 318.21kph |   1.03 | -Ω2         | 0.00%   |
+| Glickenhaus    | 007            | 2:12.65 | 2:09.89 | 310.58kph |   1.02 | +Ω1         | 15.70%  |
+| Peugeot        | 9X8            | 2:09.35 | 2:06.80 | 309.18kph |   1.02 | -B1         | 87.03%  |
+| Porsche        | 963            | 2:10.85 | 2:06.84 | 314.14kph |   1.03 | +B1         | 88.66%  |
+| Toyota         | GR010          | 2:07.51 | 2:03.56 | 317.95kph |   1.03 | -Ω1         | 1.19%   |
+| Vanwall        | Vanderwell 680 | 2:14.41 | 2:10.61 | 306.02kph |   1.03 | +Ω2         | 0.00%   |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

@@ -2,12 +2,12 @@
 
 ## Metadata
 
-- BoP Accuracy: 58.24%
-- Overall BoP Grade: E1
+- BoP Accuracy: 63.62%
+- Overall BoP Grade: D2
 - Track: REFERENCETRACK
 - Threshhold: 0.0kph
-- Average Laptime: 2:09.57
-- Average Quali Laptime: 2:06.35
+- Average Laptime: 2:09.61
+- Average Quali Laptime: 2:06.40
 - Average Topspeed: 314.70kph
 
 ## BoP Table
@@ -24,13 +24,13 @@
 ## Performance Table
 | Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:-----------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Alpine         | A424       | 2:10.74 | 2:07.59 | 313.67kph |   1.02 | +Ω1         | 43.09%  |
-| BMW            | M-Hybrid   | 2:11.03 | 2:07.35 | 312.41kph |   1.03 | +Ω1         | 37.21%  |
-| Cadillac       | V-Series.R | 2:11.07 | 2:07.44 | 309.22kph |   1.03 | +Ω1         | 31.14%  |
-| Ferrari        | 499P       | 2:07.44 | 2:04.49 | 316.73kph |   1.02 | -B1         | 86.38%  |
-| Peugeot        | 9X8Evo     | 2:08.33 | 2:05.47 | 316.50kph |   1.02 | ~A1         | 96.88%  |
-| Porsche        | 963        | 2:11.03 | 2:07.57 | 317.18kph |   1.03 | +Ω1         | 30.44%  |
-| Toyota         | GR010      | 2:07.32 | 2:04.56 | 317.16kph |   1.02 | -B2         | 82.52%  |
+| Alpine         | A424       | 2:10.60 | 2:07.46 | 313.67kph |   1.02 | +Ω1         | 49.72%  |
+| BMW            | M-Hybrid   | 2:10.90 | 2:07.22 | 312.41kph |   1.03 | +Ω1         | 40.70%  |
+| Cadillac       | V-Series.R | 2:10.94 | 2:07.32 | 309.22kph |   1.03 | +Ω1         | 37.71%  |
+| Ferrari        | 499P       | 2:07.71 | 2:04.75 | 316.73kph |   1.02 | -A2         | 91.52%  |
+| Peugeot        | 9X8Evo     | 2:08.61 | 2:05.74 | 316.50kph |   1.02 | ~A1         | 98.83%  |
+| Porsche        | 963        | 2:10.91 | 2:07.45 | 317.18kph |   1.03 | +Ω1         | 38.73%  |
+| Toyota         | GR010      | 2:07.62 | 2:04.84 | 317.16kph |   1.02 | -B1         | 88.11%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

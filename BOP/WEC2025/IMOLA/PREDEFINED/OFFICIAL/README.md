@@ -2,12 +2,12 @@
 
 ## Metadata
 
-- BoP Accuracy: 94.13%
-- Overall BoP Grade: A2
+- BoP Accuracy: 96.12%
+- Overall BoP Grade: A1
 - Track: IMOLA
 - Threshhold: 250.0kph
-- Average Laptime: 1:34.22
-- Average Quali Laptime: 1:30.16
+- Average Laptime: 1:34.36
+- Average Quali Laptime: 1:30.25
 - Average Topspeed: 312.91kph
 
 ## BoP Table
@@ -25,14 +25,14 @@
 ## Performance Table
 | Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:-----------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Alpine         | A424       | 1:34.29 | 1:30.47 | 310.06kph |   1.04 | ~A1         | 98.68%  |
-| Aston Martin   | Valkyrie   | 1:35.48 | 1:31.15 | 310.32kph |   1.05 | +E1         | 55.89%  |
-| BMW            | M-Hybrid   | 1:34.19 | 1:30.05 | 311.59kph |   1.05 | ~A1         | 99.94%  |
-| Cadillac       | V-Series.R | 1:34.17 | 1:30.08 | 311.64kph |   1.05 | ~A1         | 99.75%  |
-| Ferrari        | 499P       | 1:33.55 | 1:29.43 | 315.68kph |   1.05 | ~A1         | 99.79%  |
-| Peugeot        | 9X8Evo     | 1:33.95 | 1:30.04 | 313.35kph |   1.04 | ~A1         | 100.00% |
-| Porsche        | 963        | 1:34.45 | 1:30.62 | 313.39kph |   1.04 | ~A1         | 99.31%  |
-| Toyota         | GR010      | 1:33.71 | 1:29.45 | 317.27kph |   1.05 | ~A1         | 99.71%  |
+| Alpine         | A424       | 1:34.34 | 1:30.54 | 310.06kph |   1.04 | ~A1         | 98.99%  |
+| Aston Martin   | Valkyrie   | 1:35.51 | 1:31.18 | 310.32kph |   1.05 | +C2         | 70.64%  |
+| BMW            | M-Hybrid   | 1:34.22 | 1:30.09 | 311.59kph |   1.05 | ~A1         | 100.00% |
+| Cadillac       | V-Series.R | 1:34.11 | 1:30.01 | 311.64kph |   1.05 | ~A1         | 99.96%  |
+| Ferrari        | 499P       | 1:33.91 | 1:29.62 | 315.68kph |   1.05 | ~A1         | 99.90%  |
+| Peugeot        | 9X8Evo     | 1:34.33 | 1:30.42 | 313.35kph |   1.04 | ~A1         | 100.00% |
+| Porsche        | 963        | 1:34.46 | 1:30.48 | 313.39kph |   1.04 | ~A1         | 99.87%  |
+| Toyota         | GR010      | 1:34.00 | 1:29.69 | 317.27kph |   1.05 | ~A1         | 99.62%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

@@ -15,7 +15,7 @@ def find_json_files(folder):
             if file.endswith('.json'):
                 json_files.append(os.path.join(root, file))
     return json_files
-
+  
 def calculate_overlap(car, lower, upper):
     lb = min(car['laptimes'])
     too_fast = lb < lower

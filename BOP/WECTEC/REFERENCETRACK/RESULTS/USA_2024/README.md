@@ -2,7 +2,7 @@
 
 ## Metadata
 
-- BoP Accuracy: 16.85%
+- BoP Accuracy: 16.88%
 - Overall BoP Grade: Ω1
 - Track: REFERENCETRACK
 - Threshhold: 0.0kph
@@ -30,9 +30,9 @@
 | Cadillac       | V-Series.R | 2:11.40 | 2:07.60 | 303.09kph |   1.03 | +Ω1         | 0.99%   |
 | Ferrari        | 499P       | 2:06.62 | 2:02.91 | 318.28kph |   1.03 | -Ω2         | 0.00%   |
 | Lamborghini    | SC63       | 2:12.59 | 2:10.08 | 307.88kph |   1.02 | +Ω2         | 0.00%   |
-| Peugeot        | 9X8Evo     | 2:08.27 | 2:04.94 | 312.81kph |   1.03 | -Ω1         | 47.40%  |
-| Porsche        | 963        | 2:10.64 | 2:07.01 | 310.77kph |   1.03 | +Ω1         | 36.75%  |
-| Toyota         | GR010      | 2:06.59 | 2:03.61 | 315.51kph |   1.02 | -Ω2         | 0.00%   |
+| Peugeot        | 9X8Evo     | 2:08.26 | 2:04.94 | 312.81kph |   1.03 | -Ω1         | 47.40%  |
+| Porsche        | 963        | 2:10.64 | 2:07.01 | 310.77kph |   1.03 | +Ω1         | 36.97%  |
+| Toyota         | GR010      | 2:06.57 | 2:03.59 | 315.51kph |   1.02 | -Ω2         | 0.00%   |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

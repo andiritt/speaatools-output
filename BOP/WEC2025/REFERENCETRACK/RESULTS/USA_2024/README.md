@@ -7,7 +7,7 @@
 - Track: REFERENCETRACK
 - Threshhold: 0.0kph
 - Average Laptime: 2:09.32
-- Average Quali Laptime: 2:05.79
+- Average Quali Laptime: 2:05.78
 - Average Topspeed: 311.90kph
 
 ## BoP Table
@@ -28,9 +28,9 @@
 | BMW            | M-Hybrid   | 2:11.08 | 2:07.42 | 308.27kph |   1.03 | +Ω1         | 6.34%   |
 | Cadillac       | V-Series.R | 2:11.40 | 2:07.60 | 303.09kph |   1.03 | +Ω2         | 0.00%   |
 | Ferrari        | 499P       | 2:06.62 | 2:02.91 | 318.28kph |   1.03 | -Ω2         | 0.00%   |
-| Peugeot        | 9X8Evo     | 2:08.27 | 2:04.94 | 312.81kph |   1.03 | -B2         | 80.35%  |
+| Peugeot        | 9X8Evo     | 2:08.26 | 2:04.94 | 312.81kph |   1.03 | -B2         | 80.35%  |
 | Porsche        | 963        | 2:10.64 | 2:07.01 | 310.77kph |   1.03 | +Ω1         | 18.49%  |
-| Toyota         | GR010      | 2:06.59 | 2:03.61 | 315.51kph |   1.02 | -Ω2         | 0.00%   |
+| Toyota         | GR010      | 2:06.57 | 2:03.59 | 315.51kph |   1.02 | -Ω2         | 0.00%   |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

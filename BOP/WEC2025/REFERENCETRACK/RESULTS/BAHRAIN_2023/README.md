@@ -2,12 +2,12 @@
 
 ## Metadata
 
-- BoP Accuracy: 42.78%
+- BoP Accuracy: 36.83%
 - Overall BoP Grade: Ω1
 - Track: REFERENCETRACK
 - Threshhold: 0.0kph
-- Average Laptime: 2:09.26
-- Average Quali Laptime: 2:03.02
+- Average Laptime: 2:08.21
+- Average Quali Laptime: 2:02.06
 - Average Topspeed: 314.95kph
 
 ## BoP Table
@@ -21,10 +21,10 @@
 ## Performance Table
 | Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:-----------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Cadillac       | V-Series.R | 2:11.73 | 2:04.61 | 298.43kph |   1.06 | +Ω1         | 1.34%   |
-| Ferrari        | 499P       | 2:07.36 | 2:01.66 | 318.06kph |   1.05 | -B1         | 88.38%  |
-| Porsche        | 963        | 2:11.08 | 2:05.18 | 316.91kph |   1.05 | +Ω1         | 8.91%   |
-| Toyota         | GR010      | 2:06.89 | 2:00.63 | 326.40kph |   1.05 | -C2         | 72.47%  |
+| Cadillac       | V-Series.R | 2:10.91 | 2:03.87 | 298.43kph |   1.06 | +Ω1         | 1.34%   |
+| Ferrari        | 499P       | 2:06.01 | 2:00.43 | 318.06kph |   1.05 | -C1         | 79.58%  |
+| Porsche        | 963        | 2:10.30 | 2:04.47 | 316.91kph |   1.05 | +Ω1         | 3.64%   |
+| Toyota         | GR010      | 2:05.60 | 1:59.47 | 326.40kph |   1.05 | -D2         | 62.75%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

@@ -2,12 +2,12 @@
 
 ## Metadata
 
-- BoP Accuracy: 99.75%
+- BoP Accuracy: 99.81%
 - Overall BoP Grade: A1
 - Track: SPA
 - Threshhold: 250.0kph
-- Average Laptime: 2:08.09
-- Average Quali Laptime: 2:01.54
+- Average Laptime: 2:07.97
+- Average Quali Laptime: 2:01.39
 - Average Topspeed: 311.29kph
 
 ## BoP Table
@@ -25,14 +25,14 @@
 ## Performance Table
 | Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:-----------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Alpine         | A424       | 2:07.70 | 2:01.50 | 309.38kph |   1.05 | ~A1         | 99.88%  |
-| Aston Martin   | Valkyrie   | 2:08.52 | 2:01.70 | 311.18kph |   1.06 | ~A1         | 100.00% |
-| BMW            | M-Hybrid   | 2:08.16 | 2:01.50 | 309.23kph |   1.05 | ~A1         | 99.69%  |
-| Cadillac       | V-Series.R | 2:08.08 | 2:01.48 | 309.15kph |   1.05 | ~A1         | 99.68%  |
-| Ferrari        | 499P       | 2:08.08 | 2:01.38 | 312.96kph |   1.06 | ~A1         | 99.65%  |
-| Peugeot        | 9X8Evo     | 2:07.71 | 2:01.37 | 313.18kph |   1.05 | ~A1         | 100.00% |
-| Porsche        | 963        | 2:08.39 | 2:02.15 | 311.12kph |   1.05 | ~A1         | 99.38%  |
-| Toyota         | GR010      | 2:08.12 | 2:01.26 | 314.12kph |   1.06 | ~A1         | 99.74%  |
+| Alpine         | A424       | 2:07.58 | 2:01.42 | 309.38kph |   1.05 | ~A1         | 99.91%  |
+| Aston Martin   | Valkyrie   | 2:08.36 | 2:01.57 | 311.18kph |   1.06 | ~A1         | 100.00% |
+| BMW            | M-Hybrid   | 2:08.14 | 2:01.50 | 309.23kph |   1.05 | ~A1         | 99.69%  |
+| Cadillac       | V-Series.R | 2:08.02 | 2:01.42 | 309.15kph |   1.05 | ~A1         | 99.65%  |
+| Ferrari        | 499P       | 2:07.88 | 2:01.01 | 312.96kph |   1.06 | ~A1         | 100.00% |
+| Peugeot        | 9X8Evo     | 2:07.37 | 2:01.10 | 313.18kph |   1.05 | ~A1         | 99.93%  |
+| Porsche        | 963        | 2:08.38 | 2:01.94 | 311.12kph |   1.05 | ~A1         | 99.59%  |
+| Toyota         | GR010      | 2:08.06 | 2:01.15 | 314.12kph |   1.06 | ~A1         | 99.75%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

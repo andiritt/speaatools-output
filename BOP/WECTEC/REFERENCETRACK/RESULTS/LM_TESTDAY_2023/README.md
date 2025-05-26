@@ -2,12 +2,12 @@
 
 ## Metadata
 
-- BoP Accuracy: 44.40%
+- BoP Accuracy: 48.70%
 - Overall BoP Grade: Ω1
 - Track: REFERENCETRACK
 - Threshhold: 0.0kph
-- Average Laptime: 2:09.55
-- Average Quali Laptime: 2:09.17
+- Average Laptime: 2:09.63
+- Average Quali Laptime: 2:09.25
 - Average Topspeed: 312.88kph
 
 ## BoP Table
@@ -24,13 +24,13 @@
 ## Performance Table
 | Manufacturer   | Car            | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:---------------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Cadillac       | V-Series.R     | 2:10.53 | 2:10.33 | 311.42kph |   1    | +C1         | 80.00%  |
-| Ferrari        | 499P           | 2:06.37 | 2:06.30 | 317.45kph |   1    | -Ω1         | 12.00%  |
+| Cadillac       | V-Series.R     | 2:10.41 | 2:10.21 | 311.42kph |   1    | +C1         | 80.00%  |
+| Ferrari        | 499P           | 2:06.64 | 2:06.56 | 317.45kph |   1    | -Ω1         | 18.00%  |
 | Glickenhaus    | 007            | 2:12.52 | 2:11.32 | 310.88kph |   1.01 | +Ω1         | 15.56%  |
-| Peugeot        | 9X8            | 2:08.36 | 2:08.31 | 312.09kph |   1    | -C1         | 79.55%  |
-| Porsche        | 963            | 2:10.33 | 2:09.96 | 311.60kph |   1    | +C2         | 71.21%  |
-| Toyota         | GR010          | 2:06.85 | 2:06.66 | 319.09kph |   1    | -Ω1         | 20.69%  |
-| Vanwall        | Vanderwell 680 | 2:11.92 | 2:11.31 | 307.65kph |   1    | +Ω1         | 31.82%  |
+| Peugeot        | 9X8            | 2:08.68 | 2:08.63 | 312.09kph |   1    | -B1         | 86.36%  |
+| Porsche        | 963            | 2:10.24 | 2:09.87 | 311.60kph |   1    | +C1         | 78.79%  |
+| Toyota         | GR010          | 2:07.10 | 2:06.91 | 319.09kph |   1    | -Ω1         | 25.86%  |
+| Vanwall        | Vanderwell 680 | 2:11.84 | 2:11.23 | 307.65kph |   1    | +Ω1         | 36.36%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

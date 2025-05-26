@@ -2,12 +2,12 @@
 
 ## Metadata
 
-- BoP Accuracy: 46.75%
+- BoP Accuracy: 44.24%
 - Overall BoP Grade: Ω1
 - Track: REFERENCETRACK
 - Threshhold: 0.0kph
-- Average Laptime: 2:10.17
-- Average Quali Laptime: 2:03.77
+- Average Laptime: 2:09.46
+- Average Quali Laptime: 2:03.13
 - Average Topspeed: 310.88kph
 
 ## BoP Table
@@ -25,14 +25,14 @@
 ## Performance Table
 | Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:-----------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Alpine         | A424       | 2:11.05 | 2:05.49 | 307.69kph |   1.04 | +Ω1         | 46.98%  |
-| BMW            | M-Hybrid   | 2:11.37 | 2:04.41 | 308.20kph |   1.06 | +Ω1         | 29.90%  |
-| Cadillac       | V-Series.R | 2:11.89 | 2:05.28 | 306.81kph |   1.05 | +Ω1         | 11.63%  |
-| Ferrari        | 499P       | 2:07.74 | 2:01.15 | 311.91kph |   1.05 | -C1         | 75.48%  |
-| Lamborghini    | SC63       | 2:12.10 | 2:06.21 | 310.26kph |   1.05 | +Ω1         | 12.37%  |
-| Peugeot        | 9X8Evo     | 2:08.37 | 2:02.74 | 308.87kph |   1.05 | -A2         | 90.48%  |
-| Porsche        | 963        | 2:11.22 | 2:04.44 | 315.18kph |   1.05 | +Ω1         | 39.70%  |
-| Toyota         | GR010      | 2:07.61 | 2:00.43 | 318.16kph |   1.06 | -D1         | 67.46%  |
+| Alpine         | A424       | 2:10.02 | 2:04.55 | 307.69kph |   1.04 | +D1         | 65.95%  |
+| BMW            | M-Hybrid   | 2:10.76 | 2:03.86 | 308.20kph |   1.06 | +Ω1         | 25.26%  |
+| Cadillac       | V-Series.R | 2:11.50 | 2:04.93 | 306.81kph |   1.05 | +Ω1         | 6.98%   |
+| Ferrari        | 499P       | 2:06.78 | 2:00.29 | 311.91kph |   1.05 | -D2         | 60.88%  |
+| Lamborghini    | SC63       | 2:11.91 | 2:06.04 | 310.26kph |   1.05 | +Ω1         | 3.09%   |
+| Peugeot        | 9X8Evo     | 2:07.73 | 2:02.15 | 308.87kph |   1.05 | -A2         | 91.43%  |
+| Porsche        | 963        | 2:10.39 | 2:03.70 | 315.18kph |   1.05 | +Ω1         | 43.89%  |
+| Toyota         | GR010      | 2:06.56 | 1:59.50 | 318.16kph |   1.06 | -E1         | 56.46%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

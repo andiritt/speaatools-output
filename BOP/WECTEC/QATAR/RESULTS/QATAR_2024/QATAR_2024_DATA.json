@@ -183,9 +183,9 @@
     "qualiDataPointPercentage": 0.4,
     "topSpeedDataPointPercentage": 0.07368421052631578,
     "colorForPlotting": {
-        "R": 171,
-        "G": 214,
-        "B": 0
+        "R": 166,
+        "G": 202,
+        "B": 20
     }
 },
 {
