@@ -8,7 +8,8 @@
 - Threshhold: 0.0kph
 - Average Laptime: 3:31.62
 - Average Quali Laptime: 3:25.10
-- Average Topspeed: 337.45kph
+- Laptime Std Dev: 0.88 seconds
+- Filtered Average Topspeed: 337.45kph
 
 ## BoP Table
 | Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS    | RDP    | QDP    | TDP    |

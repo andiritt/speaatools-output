@@ -2,13 +2,14 @@
 
 ## Metadata
 
-- BoP Accuracy: 39.22%
-- Overall BoP Grade: Ω1
+- BoP Accuracy: 83.38%
+- Overall BoP Grade: B2
 - Track: REFERENCETRACK
 - Threshhold: 0.0kph
-- Average Laptime: 2:09.79
-- Average Quali Laptime: 2:06.50
-- Average Topspeed: 312.52kph
+- Average Laptime: 2:11.06
+- Average Quali Laptime: 2:07.70
+- Laptime Std Dev: 0.78 seconds
+- Filtered Average Topspeed: 312.53kph
 
 ## BoP Table
 | Manufacturer     | Car        | Weight   | Power   | PINC   | E/Stint   | FDS   | RDP    | QDP     | TDP    |
@@ -26,15 +27,15 @@
 ## Performance Table
 | Manufacturer     | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:-----------------|:-----------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Alpine           | A424       | 2:11.62 | 2:08.70 | 312.05kph |   1.02 | +Ω1         | 26.49%  |
-| BMW              | M-Hybrid   | 2:11.25 | 2:07.13 | 311.21kph |   1.03 | +Ω1         | 45.23%  |
-| Cadillac         | V-Series.R | 2:11.70 | 2:08.65 | 308.66kph |   1.02 | +Ω1         | 34.26%  |
-| Ferrari          | 499P       | 2:07.00 | 2:02.47 | 316.42kph |   1.04 | -Ω1         | 8.04%   |
-| Isotta Fraschini | Tipo6C     | 2:09.14 | 2:07.90 | 310.22kph |   1.01 | ~A1         | 100.00% |
-| Lamborghini      | SC63       | 2:11.92 | 2:09.21 | 311.78kph |   1.02 | +Ω1         | 22.02%  |
-| Peugeot          | 9X8Evo     | 2:07.61 | 2:04.79 | 314.43kph |   1.02 | -Ω1         | 39.20%  |
-| Porsche          | 963        | 2:10.77 | 2:06.24 | 312.75kph |   1.04 | +D2         | 62.08%  |
-| Toyota           | GR010      | 2:07.13 | 2:03.41 | 315.20kph |   1.03 | -Ω1         | 15.62%  |
+| Alpine           | A424       | 2:11.58 | 2:08.66 | 312.06kph |   1.02 | +B2         | 84.32%  |
+| BMW              | M-Hybrid   | 2:11.21 | 2:07.09 | 311.22kph |   1.03 | +A2         | 92.96%  |
+| Cadillac         | V-Series.R | 2:11.66 | 2:08.61 | 308.67kph |   1.02 | +C2         | 73.15%  |
+| Ferrari          | 499P       | 2:09.86 | 2:05.12 | 316.43kph |   1.04 | -B2         | 81.12%  |
+| Isotta Fraschini | Tipo6C     | 2:12.11 | 2:10.81 | 310.23kph |   1.01 | +D1         | 68.97%  |
+| Lamborghini      | SC63       | 2:11.88 | 2:09.17 | 311.79kph |   1.02 | +D1         | 69.72%  |
+| Peugeot          | 9X8Evo     | 2:10.51 | 2:07.55 | 314.44kph |   1.02 | -A2         | 93.97%  |
+| Porsche          | 963        | 2:10.73 | 2:06.20 | 312.76kph |   1.04 | ~A1         | 98.23%  |
+| Toyota           | GR010      | 2:09.99 | 2:06.11 | 315.21kph |   1.03 | -B1         | 87.95%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

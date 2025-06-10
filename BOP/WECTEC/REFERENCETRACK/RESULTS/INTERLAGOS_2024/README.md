@@ -2,13 +2,14 @@
 
 ## Metadata
 
-- BoP Accuracy: 43.90%
-- Overall BoP Grade: Ω1
+- BoP Accuracy: 81.89%
+- Overall BoP Grade: B2
 - Track: REFERENCETRACK
 - Threshhold: 0.0kph
-- Average Laptime: 2:09.38
-- Average Quali Laptime: 2:02.40
-- Average Topspeed: 305.57kph
+- Average Laptime: 2:10.50
+- Average Quali Laptime: 2:03.41
+- Laptime Std Dev: 0.82 seconds
+- Filtered Average Topspeed: 305.58kph
 
 ## BoP Table
 | Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS   | RDP    | QDP    | TDP   |
@@ -16,7 +17,7 @@
 | Alpine         | A424       | 1030kg   | 520.0kw | -      | 915MJ     | -     | 48.08% | 25.00% | 0.83% |
 | BMW            | M-Hybrid   | 1030kg   | 520.0kw | -      | 914MJ     | -     | 52.24% | 40.00% | 1.43% |
 | Cadillac       | V-Series.R | 1030kg   | 520.0kw | -      | 911MJ     | -     | 52.99% | 80.00% | 3.59% |
-| Ferrari        | 499P       | 1030kg   | 520.0kw | -      | 912MJ     | -     | 52.77% | 62.50% | 1.33% |
+| Ferrari        | 499P       | 1030kg   | 520.0kw | -      | 913MJ     | -     | 52.77% | 62.50% | 1.33% |
 | Lamborghini    | SC63       | 1030kg   | 520.0kw | -      | 911MJ     | -     | 58.97% | 33.33% | 2.49% |
 | Peugeot        | 9X8Evo     | 1030kg   | 520.0kw | -      | 916MJ     | -     | 49.25% | 75.00% | 1.24% |
 | Porsche        | 963        | 1030kg   | 520.0kw | -      | 913MJ     | -     | 51.62% | 41.67% | 0.96% |
@@ -25,14 +26,14 @@
 ## Performance Table
 | Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:-----------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Alpine         | A424       | 2:10.96 | 2:03.68 | 298.79kph |   1.06 | +Ω1         | 26.22%  |
-| BMW            | M-Hybrid   | 2:11.14 | 2:03.44 | 299.85kph |   1.06 | +Ω1         | 20.00%  |
-| Cadillac       | V-Series.R | 2:11.08 | 2:03.57 | 296.14kph |   1.06 | +Ω1         | 12.10%  |
-| Ferrari        | 499P       | 2:06.44 | 1:59.80 | 315.37kph |   1.06 | -D1         | 69.62%  |
-| Lamborghini    | SC63       | 2:11.73 | 2:05.30 | 297.72kph |   1.05 | +Ω1         | 6.52%   |
-| Peugeot        | 9X8Evo     | 2:07.53 | 2:01.35 | 304.13kph |   1.05 | -A2         | 94.81%  |
-| Porsche        | 963        | 2:10.12 | 2:02.61 | 315.33kph |   1.06 | +E1         | 58.75%  |
-| Toyota         | GR010      | 2:06.07 | 1:59.48 | 317.24kph |   1.06 | -D2         | 63.22%  |
+| Alpine         | A424       | 2:10.92 | 2:03.63 | 298.80kph |   1.06 | +C2         | 73.33%  |
+| BMW            | M-Hybrid   | 2:11.10 | 2:03.40 | 299.86kph |   1.06 | +C2         | 73.47%  |
+| Cadillac       | V-Series.R | 2:11.04 | 2:03.53 | 296.15kph |   1.06 | +C2         | 75.00%  |
+| Ferrari        | 499P       | 2:09.48 | 2:02.52 | 315.38kph |   1.06 | ~A1         | 98.39%  |
+| Lamborghini    | SC63       | 2:11.68 | 2:05.26 | 297.73kph |   1.05 | +Ω1         | 42.03%  |
+| Peugeot        | 9X8Evo     | 2:10.64 | 2:04.15 | 304.14kph |   1.05 | ~A1         | 99.13%  |
+| Porsche        | 963        | 2:10.08 | 2:02.58 | 315.34kph |   1.06 | ~A1         | 99.17%  |
+| Toyota         | GR010      | 2:09.10 | 2:02.20 | 317.25kph |   1.06 | -A2         | 94.63%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

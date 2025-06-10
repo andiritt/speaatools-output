@@ -2,13 +2,14 @@
 
 ## Metadata
 
-- BoP Accuracy: 16.88%
-- Overall BoP Grade: Ω1
+- BoP Accuracy: 67.76%
+- Overall BoP Grade: D1
 - Track: REFERENCETRACK
 - Threshhold: 0.0kph
-- Average Laptime: 2:09.73
-- Average Quali Laptime: 2:06.32
-- Average Topspeed: 311.39kph
+- Average Laptime: 2:10.87
+- Average Quali Laptime: 2:07.40
+- Laptime Std Dev: 0.89 seconds
+- Filtered Average Topspeed: 311.40kph
 
 ## BoP Table
 | Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS   | RDP    | QDP    | TDP    |
@@ -25,14 +26,14 @@
 ## Performance Table
 | Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:-----------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Alpine         | A424       | 2:10.67 | 2:07.01 | 314.55kph |   1.03 | +Ω1         | 35.05%  |
-| BMW            | M-Hybrid   | 2:11.08 | 2:07.42 | 308.27kph |   1.03 | +Ω1         | 14.63%  |
-| Cadillac       | V-Series.R | 2:11.40 | 2:07.60 | 303.09kph |   1.03 | +Ω1         | 0.99%   |
-| Ferrari        | 499P       | 2:06.62 | 2:02.91 | 318.28kph |   1.03 | -Ω2         | 0.00%   |
-| Lamborghini    | SC63       | 2:12.59 | 2:10.08 | 307.88kph |   1.02 | +Ω2         | 0.00%   |
-| Peugeot        | 9X8Evo     | 2:08.26 | 2:04.94 | 312.81kph |   1.03 | -Ω1         | 47.40%  |
-| Porsche        | 963        | 2:10.64 | 2:07.01 | 310.77kph |   1.03 | +Ω1         | 36.97%  |
-| Toyota         | GR010      | 2:06.57 | 2:03.59 | 315.51kph |   1.02 | -Ω2         | 0.00%   |
+| Alpine         | A424       | 2:10.63 | 2:06.97 | 314.56kph |   1.03 | -A2         | 93.81%  |
+| BMW            | M-Hybrid   | 2:11.04 | 2:07.38 | 308.28kph |   1.03 | +B1         | 85.37%  |
+| Cadillac       | V-Series.R | 2:11.36 | 2:07.56 | 303.10kph |   1.03 | +D1         | 67.33%  |
+| Ferrari        | 499P       | 2:09.69 | 2:05.80 | 318.29kph |   1.03 | -C2         | 70.18%  |
+| Lamborghini    | SC63       | 2:12.54 | 2:10.03 | 307.89kph |   1.02 | +Ω2         | 0.00%   |
+| Peugeot        | 9X8Evo     | 2:11.43 | 2:07.94 | 312.82kph |   1.03 | +D2         | 64.74%  |
+| Porsche        | 963        | 2:10.60 | 2:06.97 | 310.78kph |   1.03 | ~A1         | 98.66%  |
+| Toyota         | GR010      | 2:09.64 | 2:06.51 | 315.52kph |   1.02 | -D2         | 61.98%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

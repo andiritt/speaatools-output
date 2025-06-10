@@ -2,13 +2,14 @@
 
 ## Metadata
 
-- BoP Accuracy: 39.88%
-- Overall BoP Grade: Ω1
+- BoP Accuracy: 78.49%
+- Overall BoP Grade: C1
 - Track: REFERENCETRACK
 - Threshhold: 0.0kph
-- Average Laptime: 2:10.28
-- Average Quali Laptime: 2:03.95
-- Average Topspeed: 309.39kph
+- Average Laptime: 2:11.60
+- Average Quali Laptime: 2:05.14
+- Laptime Std Dev: 1.56 seconds
+- Filtered Average Topspeed: 309.40kph
 
 ## BoP Table
 | Manufacturer   | Car            | Weight   | Power   | PINC   | E/Stint   | FDS   | RDP    | QDP    | TDP    |
@@ -23,12 +24,12 @@
 ## Performance Table
 | Manufacturer   | Car            | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:---------------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Cadillac       | V-Series.R     | 2:11.75 | 2:04.35 | 297.19kph |   1.06 | +Ω1         | 13.42%  |
-| Ferrari        | 499P           | 2:07.77 | 2:01.77 | 315.80kph |   1.05 | -E1         | 57.39%  |
-| Peugeot        | 9X8            | 2:09.22 | 2:04.02 | 300.87kph |   1.04 | ~A1         | 96.54%  |
-| Porsche        | 963            | 2:10.95 | 2:04.78 | 316.07kph |   1.05 | +E1         | 58.23%  |
-| Toyota         | GR010          | 2:07.16 | 2:00.62 | 324.56kph |   1.05 | -Ω1         | 13.71%  |
-| Vanwall        | Vanderwell 680 | 2:14.86 | 2:08.18 | 301.83kph |   1.05 | +Ω2         | 0.00%   |
+| Cadillac       | V-Series.R     | 2:11.71 | 2:04.31 | 297.20kph |   1.06 | -B1         | 89.26%  |
+| Ferrari        | 499P           | 2:10.59 | 2:04.33 | 315.81kph |   1.05 | ~A1         | 96.83%  |
+| Peugeot        | 9X8            | 2:11.61 | 2:06.22 | 300.88kph |   1.04 | ~A1         | 99.65%  |
+| Porsche        | 963            | 2:10.91 | 2:04.74 | 316.08kph |   1.05 | ~A1         | 98.92%  |
+| Toyota         | GR010          | 2:09.96 | 2:03.13 | 324.57kph |   1.06 | -B1         | 86.29%  |
+| Vanwall        | Vanderwell 680 | 2:14.82 | 2:08.13 | 301.84kph |   1.05 | +Ω2         | 0.00%   |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

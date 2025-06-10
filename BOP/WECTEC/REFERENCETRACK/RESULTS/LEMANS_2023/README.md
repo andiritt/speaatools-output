@@ -2,13 +2,14 @@
 
 ## Metadata
 
-- BoP Accuracy: 39.84%
-- Overall BoP Grade: Ω1
+- BoP Accuracy: 69.88%
+- Overall BoP Grade: D1
 - Track: REFERENCETRACK
 - Threshhold: 0.0kph
-- Average Laptime: 2:10.41
-- Average Quali Laptime: 2:06.86
-- Average Topspeed: 312.62kph
+- Average Laptime: 2:11.33
+- Average Quali Laptime: 2:07.72
+- Laptime Std Dev: 1.55 seconds
+- Filtered Average Topspeed: 312.63kph
 
 ## BoP Table
 | Manufacturer   | Car            | Weight   | Power   | PINC   | E/Stint   | FDS   | RDP    | QDP    | TDP    |
@@ -24,13 +25,13 @@
 ## Performance Table
 | Manufacturer   | Car            | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:---------------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Cadillac       | V-Series.R     | 2:10.91 | 2:07.18 | 312.23kph |   1.03 | +B1         | 86.28%  |
-| Ferrari        | 499P           | 2:07.19 | 2:03.12 | 318.21kph |   1.03 | -Ω2         | 0.00%   |
-| Glickenhaus    | 007            | 2:12.65 | 2:09.89 | 310.58kph |   1.02 | +Ω1         | 15.70%  |
-| Peugeot        | 9X8            | 2:09.35 | 2:06.80 | 309.18kph |   1.02 | -B1         | 87.03%  |
-| Porsche        | 963            | 2:10.85 | 2:06.84 | 314.14kph |   1.03 | +B1         | 88.66%  |
-| Toyota         | GR010          | 2:07.51 | 2:03.56 | 317.95kph |   1.03 | -Ω1         | 1.19%   |
-| Vanwall        | Vanderwell 680 | 2:14.41 | 2:10.61 | 306.02kph |   1.03 | +Ω2         | 0.00%   |
+| Cadillac       | V-Series.R     | 2:10.87 | 2:07.14 | 312.24kph |   1.03 | ~A1         | 97.89%  |
+| Ferrari        | 499P           | 2:09.50 | 2:05.28 | 318.22kph |   1.03 | -E1         | 57.47%  |
+| Glickenhaus    | 007            | 2:12.60 | 2:09.85 | 310.59kph |   1.02 | +E2         | 52.48%  |
+| Peugeot        | 9X8            | 2:11.33 | 2:08.70 | 309.19kph |   1.02 | ~A1         | 100.00% |
+| Porsche        | 963            | 2:10.81 | 2:06.80 | 314.15kph |   1.03 | ~A1         | 96.80%  |
+| Toyota         | GR010          | 2:09.82 | 2:05.73 | 317.96kph |   1.03 | -C2         | 75.00%  |
+| Vanwall        | Vanderwell 680 | 2:14.36 | 2:10.57 | 306.03kph |   1.03 | +Ω1         | 9.52%   |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

@@ -2,37 +2,38 @@
 
 ## Metadata
 
-- BoP Accuracy: 99.15%
+- BoP Accuracy: 99.73%
 - Overall BoP Grade: A1
 - Track: FUJI
 - Threshhold: 250.0kph
-- Average Laptime: 1:32.23
-- Average Quali Laptime: 1:28.85
-- Average Topspeed: 311.85kph
+- Average Laptime: 1:32.13
+- Average Quali Laptime: 1:28.94
+- Laptime Std Dev: 0.08 seconds
+- Filtered Average Topspeed: 312.02kph
 
 ## BoP Table
 | Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS    | RDP    | QDP    | TDP    |
 |:---------------|:-----------|:---------|:--------|:-------|:----------|:-------|:-------|:-------|:-------|
-| Alpine         | A424       | 1058kg   | 515.0kw | +0.70% | 918MJ     | -      | 51.64% | 59.31% | 26.80% |
-| Aston Martin   | Valkyrie   | 1031kg   | 510.0kw | -      | 902MJ     | -      | 53.50% | 53.33% | 21.51% |
-| BMW            | M-Hybrid   | 1050kg   | 517.0kw | -      | 913MJ     | -      | 52.89% | 56.22% | 33.41% |
-| Cadillac       | V-Series.R | 1040kg   | 520.0kw | -      | 912MJ     | -      | 48.63% | 60.80% | 19.01% |
-| Ferrari        | 499P       | 1065kg   | 504.0kw | -0.60% | 900MJ     | 190kph | 51.38% | 44.98% | 9.83%  |
-| Peugeot        | 9X8Evo     | 1055kg   | 516.0kw | -0.10% | 922MJ     | 190kph | 48.87% | 52.78% | 15.41% |
-| Porsche        | 963        | 1053kg   | 514.0kw | -0.10% | 909MJ     | -      | 50.70% | 44.30% | 29.51% |
-| Toyota         | GR010      | 1069kg   | 501.0kw | +0.10% | 901MJ     | 190kph | 51.09% | 52.71% | 11.46% |
+| Alpine         | A424       | 1053kg   | 511.0kw | +0.10% | 913MJ     | -      | 51.38% | 57.54% | 26.10% |
+| Aston Martin   | Valkyrie   | 1033kg   | 519.0kw | -      | 910MJ     | -      | 52.56% | 51.11% | 27.23% |
+| BMW            | M-Hybrid   | 1050kg   | 513.0kw | +0.10% | 910MJ     | -      | 52.62% | 53.36% | 32.99% |
+| Cadillac       | V-Series.R | 1047kg   | 519.0kw | -      | 912MJ     | -      | 48.29% | 59.47% | 18.65% |
+| Ferrari        | 499P       | 1052kg   | 503.0kw | -0.60% | 898MJ     | 190kph | 51.25% | 43.28% | 10.17% |
+| Peugeot        | 9X8Evo     | 1052kg   | 518.0kw | -0.10% | 924MJ     | 190kph | 48.70% | 50.83% | 18.68% |
+| Porsche        | 963        | 1051kg   | 511.0kw | -0.10% | 907MJ     | -      | 50.57% | 42.80% | 29.05% |
+| Toyota         | GR010      | 1061kg   | 502.0kw | -0.10% | 900MJ     | 190kph | 51.03% | 51.78% | 14.64% |
 
 ## Performance Table
 | Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:-----------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Alpine         | A424       | 1:31.95 | 1:28.88 | 311.23kph |   1.03 | ~A1         | 99.91%  |
-| Aston Martin   | Valkyrie   | 1:32.56 | 1:29.03 | 311.86kph |   1.04 | ~A1         | 100.00% |
-| BMW            | M-Hybrid   | 1:31.89 | 1:28.50 | 311.29kph |   1.04 | ~A1         | 100.00% |
-| Cadillac       | V-Series.R | 1:31.75 | 1:28.39 | 310.45kph |   1.04 | ~A1         | 99.88%  |
-| Ferrari        | 499P       | 1:32.56 | 1:28.94 | 311.94kph |   1.04 | ~A1         | 97.80%  |
-| Peugeot        | 9X8Evo     | 1:32.42 | 1:29.22 | 312.81kph |   1.04 | ~A1         | 99.79%  |
-| Porsche        | 963        | 1:32.01 | 1:28.78 | 312.95kph |   1.04 | ~A1         | 99.92%  |
-| Toyota         | GR010      | 1:32.71 | 1:29.06 | 312.24kph |   1.04 | ~A1         | 95.87%  |
+| Alpine         | A424       | 1:32.13 | 1:29.18 | 310.42kph |   1.03 | ~A1         | 98.96%  |
+| Aston Martin   | Valkyrie   | 1:32.13 | 1:29.40 | 313.07kph |   1.03 | ~A1         | 100.00% |
+| BMW            | M-Hybrid   | 1:32.10 | 1:28.87 | 310.66kph |   1.04 | ~A1         | 100.00% |
+| Cadillac       | V-Series.R | 1:32.01 | 1:28.74 | 309.84kph |   1.04 | ~A1         | 99.90%  |
+| Ferrari        | 499P       | 1:32.13 | 1:28.63 | 313.12kph |   1.04 | ~A1         | 100.00% |
+| Peugeot        | 9X8Evo     | 1:32.09 | 1:29.06 | 313.58kph |   1.03 | ~A1         | 100.00% |
+| Porsche        | 963        | 1:32.13 | 1:28.85 | 312.57kph |   1.04 | ~A1         | 99.92%  |
+| Toyota         | GR010      | 1:32.33 | 1:28.80 | 312.92kph |   1.04 | ~A1         | 99.10%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)
