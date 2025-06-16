@@ -2,14 +2,14 @@
 
 ## Metadata
 
-- BoP Accuracy: 74.84%
-- Overall BoP Grade: C2
+- BoP Accuracy: 77.17%
+- Overall BoP Grade: C1
 - Track: REFERENCETRACK
 - Threshhold: 0.0kph
-- Average Laptime: 2:11.23
-- Average Quali Laptime: 2:08.91
-- Laptime Std Dev: 0.86 seconds
-- Filtered Average Topspeed: 314.46kph
+- Average Laptime: 2:11.26
+- Average Quali Laptime: 2:08.94
+- Laptime Std Dev: 0.80 seconds
+- Filtered Average Topspeed: 314.55kph
 
 ## BoP Table
 | Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS   | RDP    | QDP    | TDP    |
@@ -21,9 +21,9 @@
 ## Performance Table
 | Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:-----------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Alpine         | A480       | 2:11.27 | 2:08.66 | 312.91kph |   1.02 | ~A1         | 95.61%  |
-| Glickenhaus    | 007        | 2:12.26 | 2:10.22 | 314.62kph |   1.02 | +Ω1         | 50.00%  |
-| Toyota         | GR010-2021 | 2:10.15 | 2:07.84 | 315.86kph |   1.02 | -C1         | 78.89%  |
+| Alpine         | A480       | 2:11.32 | 2:08.71 | 313.00kph |   1.02 | ~A1         | 95.61%  |
+| Glickenhaus    | 007        | 2:12.21 | 2:10.18 | 314.71kph |   1.02 | +E2         | 54.49%  |
+| Toyota         | GR010-2021 | 2:10.26 | 2:07.94 | 315.95kph |   1.02 | -B2         | 81.41%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

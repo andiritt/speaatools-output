@@ -2,14 +2,14 @@
 
 ## Metadata
 
-- BoP Accuracy: 35.59%
-- Overall BoP Grade: Ω1
+- BoP Accuracy: 80.53%
+- Overall BoP Grade: B2
 - Track: REFERENCETRACK
 - Threshhold: 0.0kph
-- Average Laptime: 2:09.34
-- Average Quali Laptime: 2:04.47
-- Laptime Std Dev: 1.66 seconds
-- Filtered Average Topspeed: 321.73kph
+- Average Laptime: 2:10.57
+- Average Quali Laptime: 2:05.61
+- Laptime Std Dev: 0.63 seconds
+- Filtered Average Topspeed: 321.82kph
 
 ## BoP Table
 | Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS   | RDP    | QDP     | TDP   |
@@ -21,9 +21,9 @@
 ## Performance Table
 | Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:-----------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Alpine         | A480       | 2:07.03 | 2:02.88 | 324.02kph |   1.03 | -Ω1         | 47.06%  |
-| Peugeot        | 9X8        | 2:10.88 | 2:06.13 | 313.89kph |   1.04 | +Ω1         | 13.82%  |
-| Toyota         | GR010-2022 | 2:10.12 | 2:04.39 | 327.28kph |   1.05 | +Ω1         | 45.88%  |
+| Alpine         | A480       | 2:09.72 | 2:05.39 | 324.11kph |   1.03 | ~A1         | 98.53%  |
+| Peugeot        | 9X8        | 2:11.23 | 2:06.45 | 313.98kph |   1.04 | +Ω1         | 47.00%  |
+| Toyota         | GR010-2022 | 2:10.77 | 2:04.99 | 327.38kph |   1.05 | ~A1         | 96.06%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

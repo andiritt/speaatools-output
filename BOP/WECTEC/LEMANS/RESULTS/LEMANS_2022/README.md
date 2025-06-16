@@ -6,10 +6,10 @@
 - Overall BoP Grade: B2
 - Track: LEMANS
 - Threshhold: 0.0kph
-- Average Laptime: 3:31.96
-- Average Quali Laptime: 3:32.53
+- Average Laptime: 3:31.18
+- Average Quali Laptime: 3:32.04
 - Laptime Std Dev: 1.20 seconds
-- Filtered Average Topspeed: 337.84kph
+- Filtered Average Topspeed: 338.99kph
 
 ## BoP Table
 | Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS    | RDP    | QDP    | TDP    |
@@ -21,9 +21,9 @@
 ## Performance Table
 | Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:-----------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Alpine         | A480       | 3:33.30 | 3:34.23 | 330.67kph |   1    | -E1         | 56.25%  |
-| Glickenhaus    | 007        | 3:32.20 | 3:31.72 | 340.57kph |   1    | +A2         | 90.86%  |
-| Toyota         | GR010-2022 | 3:30.39 | 3:31.65 | 342.29kph |   0.99 | ~A1         | 99.20%  |
+| Alpine         | A480       | 3:32.51 | 3:33.73 | 331.79kph |   0.99 | -E1         | 56.25%  |
+| Glickenhaus    | 007        | 3:31.41 | 3:31.23 | 341.73kph |   1    | +A2         | 90.86%  |
+| Toyota         | GR010-2022 | 3:29.61 | 3:31.16 | 343.45kph |   0.99 | ~A1         | 99.20%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

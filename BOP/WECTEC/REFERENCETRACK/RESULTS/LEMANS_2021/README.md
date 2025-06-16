@@ -2,28 +2,28 @@
 
 ## Metadata
 
-- BoP Accuracy: 76.89%
-- Overall BoP Grade: C1
+- BoP Accuracy: 74.59%
+- Overall BoP Grade: C2
 - Track: REFERENCETRACK
 - Threshhold: 0.0kph
-- Average Laptime: 2:11.17
-- Average Quali Laptime: 2:07.14
-- Laptime Std Dev: 1.05 seconds
-- Filtered Average Topspeed: 311.38kph
+- Average Laptime: 2:11.03
+- Average Quali Laptime: 2:07.19
+- Laptime Std Dev: 1.12 seconds
+- Filtered Average Topspeed: 311.47kph
 
 ## BoP Table
 | Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS   | RDP    | QDP    | TDP    |
 |:---------------|:-----------|:---------|:--------|:-------|:----------|:------|:-------|:-------|:-------|
-| Alpine         | A480       | 930kg    | 454.0kw | -      | 845MJ     | -     | 47.68% | 28.57% | 21.48% |
+| Alpine         | A480       | 930kg    | 454.0kw | -      | 845MJ     | -     | 47.96% | 28.57% | 21.48% |
 | Glickenhaus    | 007        | 1030kg   | 520.0kw | -      | 965MJ     | -     | 45.28% | 37.50% | 14.42% |
-| Toyota         | GR010-2021 | 1030kg   | 520.0kw | -      | 963MJ     | -     | 51.35% | 60.00% | 0.85%  |
+| Toyota         | GR010-2021 | 1030kg   | 520.0kw | -      | 963MJ     | -     | 51.22% | 60.00% | 0.85%  |
 
 ## Performance Table
 | Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:-----------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Alpine         | A480       | 2:10.96 | 2:07.27 | 309.22kph |   1.03 | ~A1         | 100.00% |
-| Glickenhaus    | 007        | 2:12.54 | 2:08.31 | 307.39kph |   1.03 | +Ω1         | 37.76%  |
-| Toyota         | GR010-2021 | 2:10.00 | 2:05.85 | 317.53kph |   1.03 | -A2         | 92.89%  |
+| Alpine         | A480       | 2:10.82 | 2:07.31 | 309.31kph |   1.03 | ~A1         | 100.00% |
+| Glickenhaus    | 007        | 2:12.49 | 2:08.45 | 307.48kph |   1.03 | +Ω1         | 33.53%  |
+| Toyota         | GR010-2021 | 2:09.78 | 2:05.82 | 317.62kph |   1.03 | -A2         | 90.24%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)
