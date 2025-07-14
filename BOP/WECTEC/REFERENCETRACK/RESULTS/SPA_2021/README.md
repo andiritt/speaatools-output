@@ -6,10 +6,10 @@
 - Overall BoP Grade: A2
 - Track: REFERENCETRACK
 - Threshhold: 0.0kph
-- Average Laptime: 2:11.81
-- Average Quali Laptime: 2:07.74
+- Average Laptime: 2:11.70
+- Average Quali Laptime: 2:07.63
 - Laptime Std Dev: 0.31 seconds
-- Filtered Average Topspeed: 313.70kph
+- Filtered Average Topspeed: 313.98kph
 
 ## BoP Table
 | Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS   | RDP    | QDP     | TDP    |
@@ -20,8 +20,8 @@
 ## Performance Table
 | Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:-----------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Alpine         | A480       | 2:12.12 | 2:08.80 | 314.52kph |   1.03 | +B2         | 83.53%  |
-| Toyota         | GR010-2021 | 2:11.50 | 2:06.68 | 312.88kph |   1.04 | ~A1         | 99.43%  |
+| Alpine         | A480       | 2:12.01 | 2:08.69 | 314.80kph |   1.03 | +B2         | 83.53%  |
+| Toyota         | GR010-2021 | 2:11.39 | 2:06.58 | 313.15kph |   1.04 | ~A1         | 99.43%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

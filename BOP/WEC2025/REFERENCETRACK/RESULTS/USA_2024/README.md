@@ -6,10 +6,10 @@
 - Overall BoP Grade: C2
 - Track: REFERENCETRACK
 - Threshhold: 0.0kph
-- Average Laptime: 2:10.58
-- Average Quali Laptime: 2:06.97
+- Average Laptime: 2:10.47
+- Average Quali Laptime: 2:06.87
 - Laptime Std Dev: 0.68 seconds
-- Filtered Average Topspeed: 312.00kph
+- Filtered Average Topspeed: 312.27kph
 
 ## BoP Table
 | Manufacturer   | Car        | Weight   | Power   | PINC   | E/Stint   | FDS   | RDP    | QDP    | TDP    |
@@ -25,13 +25,13 @@
 ## Performance Table
 | Manufacturer   | Car        | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:-----------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Alpine         | A424       | 2:10.58 | 2:06.92 | 314.65kph |   1.03 | -B1         | 85.57%  |
-| BMW            | M-Hybrid   | 2:10.99 | 2:07.33 | 308.37kph |   1.03 | +D1         | 69.27%  |
-| Cadillac       | V-Series.R | 2:11.31 | 2:07.51 | 303.19kph |   1.03 | +E2         | 52.48%  |
-| Ferrari        | 499P       | 2:09.64 | 2:05.75 | 318.39kph |   1.03 | -B1         | 87.72%  |
-| Peugeot        | 9X8Evo     | 2:11.38 | 2:07.89 | 312.91kph |   1.03 | +Ω1         | 45.66%  |
-| Porsche        | 963        | 2:10.55 | 2:06.92 | 310.87kph |   1.03 | ~A1         | 99.78%  |
-| Toyota         | GR010      | 2:09.59 | 2:06.46 | 315.61kph |   1.02 | -B2         | 81.77%  |
+| Alpine         | A424       | 2:10.47 | 2:06.82 | 314.92kph |   1.03 | -B1         | 85.57%  |
+| BMW            | M-Hybrid   | 2:10.88 | 2:07.23 | 308.63kph |   1.03 | +D1         | 69.27%  |
+| Cadillac       | V-Series.R | 2:11.21 | 2:07.41 | 303.45kph |   1.03 | +E2         | 52.48%  |
+| Ferrari        | 499P       | 2:09.53 | 2:05.65 | 318.66kph |   1.03 | -B1         | 87.72%  |
+| Peugeot        | 9X8Evo     | 2:11.27 | 2:07.79 | 313.18kph |   1.03 | +Ω1         | 45.66%  |
+| Porsche        | 963        | 2:10.44 | 2:06.82 | 311.14kph |   1.03 | ~A1         | 99.78%  |
+| Toyota         | GR010      | 2:09.48 | 2:06.36 | 315.89kph |   1.02 | -B2         | 81.77%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

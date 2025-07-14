@@ -2,14 +2,14 @@
 
 ## Metadata
 
-- BoP Accuracy: 72.40%
-- Overall BoP Grade: C2
+- BoP Accuracy: 68.98%
+- Overall BoP Grade: D1
 - Track: REFERENCETRACK
 - Threshhold: 0.0kph
-- Average Laptime: 2:10.49
-- Average Quali Laptime: 2:10.42
-- Laptime Std Dev: 1.22 seconds
-- Filtered Average Topspeed: 312.98kph
+- Average Laptime: 2:10.18
+- Average Quali Laptime: 2:10.12
+- Laptime Std Dev: 1.35 seconds
+- Filtered Average Topspeed: 313.25kph
 
 ## BoP Table
 | Manufacturer   | Car            | Weight   | Power   | PINC   | E/Stint   | FDS   | RDP    | QDP    | TDP    |
@@ -25,13 +25,13 @@
 ## Performance Table
 | Manufacturer   | Car            | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:---------------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Cadillac       | V-Series.R     | 2:10.35 | 2:10.47 | 311.52kph |   1    | ~A1         | 100.00% |
-| Ferrari        | 499P           | 2:08.87 | 2:09.11 | 317.55kph |   1    | -E1         | 58.00%  |
-| Glickenhaus    | 007            | 2:12.43 | 2:11.56 | 310.98kph |   1.01 | +Ω1         | 40.00%  |
-| Peugeot        | 9X8            | 2:10.59 | 2:10.86 | 312.19kph |   1    | ~A1         | 100.00% |
-| Porsche        | 963            | 2:10.09 | 2:10.05 | 311.70kph |   1    | -A2         | 90.91%  |
-| Toyota         | GR010          | 2:09.14 | 2:09.27 | 319.19kph |   1    | -C2         | 72.41%  |
-| Vanwall        | Vanderwell 680 | 2:11.93 | 2:11.65 | 307.74kph |   1    | +Ω1         | 45.45%  |
+| Cadillac       | V-Series.R     | 2:10.04 | 2:10.17 | 311.79kph |   1    | ~A1         | 100.00% |
+| Ferrari        | 499P           | 2:08.41 | 2:08.64 | 317.83kph |   1    | -E2         | 52.00%  |
+| Glickenhaus    | 007            | 2:12.32 | 2:11.45 | 311.25kph |   1.01 | +Ω1         | 33.33%  |
+| Peugeot        | 9X8            | 2:10.35 | 2:10.62 | 312.46kph |   1    | ~A1         | 100.00% |
+| Porsche        | 963            | 2:09.82 | 2:09.77 | 311.97kph |   1    | -B1         | 89.39%  |
+| Toyota         | GR010          | 2:08.62 | 2:08.74 | 319.46kph |   1    | -D1         | 67.24%  |
+| Vanwall        | Vanderwell 680 | 2:11.71 | 2:11.43 | 308.01kph |   1    | +Ω1         | 40.91%  |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)

@@ -2,14 +2,14 @@
 
 ## Metadata
 
-- BoP Accuracy: 46.65%
-- Overall BoP Grade: Ω1
+- BoP Accuracy: 57.71%
+- Overall BoP Grade: E1
 - Track: REFERENCETRACK
 - Threshhold: 0.0kph
-- Average Laptime: 2:11.41
-- Average Quali Laptime: 2:06.68
-- Laptime Std Dev: 1.71 seconds
-- Filtered Average Topspeed: 313.59kph
+- Average Laptime: 2:11.42
+- Average Quali Laptime: 2:06.69
+- Laptime Std Dev: 1.56 seconds
+- Filtered Average Topspeed: 313.86kph
 
 ## BoP Table
 | Manufacturer   | Car            | Weight   | Power   | PINC   | E/Stint   | FDS   | RDP    | QDP    | TDP    |
@@ -24,12 +24,12 @@
 ## Performance Table
 | Manufacturer   | Car            | RP      | QP      | Vavg      |   RDLC | BOP-Grade   | Match   |
 |:---------------|:---------------|:--------|:--------|:----------|-------:|:------------|:--------|
-| Cadillac       | V-Series.R     | 2:11.86 | 2:06.05 | 309.81kph |   1.05 | +D1         | 68.64%  |
-| Ferrari        | 499P           | 2:09.75 | 2:05.07 | 320.22kph |   1.04 | -Ω1         | 47.92%  |
-| Peugeot        | 9X8            | 2:12.10 | 2:08.05 | 312.64kph |   1.03 | +E1         | 56.98%  |
-| Porsche        | 963            | 2:11.00 | 2:06.02 | 314.61kph |   1.04 | ~A1         | 98.66%  |
-| Toyota         | GR010          | 2:09.28 | 2:03.64 | 319.51kph |   1.05 | -Ω1         | 7.69%   |
-| Vanwall        | Vanderwell 680 | 2:14.49 | 2:11.25 | 304.75kph |   1.02 | +Ω2         | 0.00%   |
+| Cadillac       | V-Series.R     | 2:11.44 | 2:05.67 | 310.07kph |   1.05 | +B1         | 88.98%  |
+| Ferrari        | 499P           | 2:09.88 | 2:05.19 | 320.49kph |   1.04 | -E1         | 55.85%  |
+| Peugeot        | 9X8            | 2:12.11 | 2:08.06 | 312.91kph |   1.03 | +E1         | 56.98%  |
+| Porsche        | 963            | 2:11.00 | 2:06.01 | 314.89kph |   1.04 | ~A1         | 98.28%  |
+| Toyota         | GR010          | 2:09.73 | 2:04.05 | 319.78kph |   1.05 | -Ω1         | 46.15%  |
+| Vanwall        | Vanderwell 680 | 2:14.38 | 2:11.14 | 305.01kph |   1.02 | +Ω2         | 0.00%   |
 
 ## Race Laptimes
 ![Race Laptimes](images/race_violin.png)
