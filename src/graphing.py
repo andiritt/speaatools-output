@@ -208,6 +208,77 @@ def process_json(json_path):
         mdfile.write("## Topspeeds\n![Topspeeds](images/topspeed_violin.png)\n\n")
         mdfile.write("## Laptimes Lineplot\n![Laptimes Lineplot](images/laptime_line.png)\n\n")
 
+def generate_error_markdown():
+    bop_root = "BOP"
+    for series in os.listdir(bop_root):
+        series_path = os.path.join(bop_root, series)
+        if not os.path.isdir(series_path):
+            continue
+        for track in os.listdir(series_path):
+            track_path = os.path.join(series_path, track)
+            if not os.path.isdir(track_path):
+                continue
+            predefined_json = os.path.join(track_path, "PREDEFINED", "OFFICIAL", "OFFICIAL_DATA.json")
+            results_path = os.path.join(track_path, "RESULTS")
+            if not os.path.exists(predefined_json) or not os.path.exists(results_path):
+                continue
+
+            # Find latest year in RESULTS
+            years = [d for d in os.listdir(results_path) if os.path.isdir(os.path.join(results_path, d))]
+            if not years:
+                continue
+            latest_year = sorted(years)[-1]
+            latest_results_folder = os.path.join(results_path, latest_year)
+            # Find result json file
+            result_jsons = [f for f in os.listdir(latest_results_folder) if f.endswith("_DATA.json")]
+            if not result_jsons:
+                continue
+            result_json_path = os.path.join(latest_results_folder, result_jsons[0])
+            # Load result data
+            with open(result_json_path, "r") as f:
+                result_data = json.load(f)
+            # Load official BoP data
+            with open(predefined_json, "r") as f:
+                official_data = json.load(f)
+            # Map result cars by manufacturer+carName
+            result_map = {}
+            for car in result_data:
+                key = (car.get("manufacturer", "-"), car.get("carName", "-"))
+                result_map[key] = car
+            # Calculate errors
+            error_table = []
+            for car in official_data:
+                key = (car.get("manufacturer", "-"), car.get("carName", "-"))
+                result_car = result_map.get(key)
+                if not result_car:
+                    continue
+                race_error = float(result_car.get("raceLaptime", 0)) - float(car.get("raceLaptime", 0))
+                quali_error = float(result_car.get("qualiLaptime", 0)) - float(car.get("qualiLaptime", 0))
+                topspeed_error = float(result_car.get("topspeed", 0)) - float(car.get("topspeed", 0))
+                error_table.append([
+                    car.get("manufacturer", "-"), car.get("carName", "-"),
+                    race_error, quali_error, topspeed_error
+                ])
+            if not error_table:
+                continue
+            abs_df = pd.DataFrame(error_table, columns=["Manufacturer", "Car", "RaceLaptime Error", "QualiLaptime Error", "Topspeed Error"])
+            abs_md = abs_df.to_markdown(index=False)
+            min_race = abs_df["RaceLaptime Error"].min()
+            min_quali = abs_df["QualiLaptime Error"].min()
+            min_top = abs_df["Topspeed Error"].min()
+            rel_df = abs_df.copy()
+            rel_df["RaceLaptime Error"] -= min_race
+            rel_df["QualiLaptime Error"] -= min_quali
+            rel_df["Topspeed Error"] -= min_top
+            rel_md = rel_df.to_markdown(index=False)
+            out_path = os.path.join(latest_results_folder, "ERROR_COMPARISON.md")
+            with open(out_path, "w") as f:
+                f.write("# BoP Error Comparison (Latest Results vs Official)\n\n")
+                f.write("## Absolute Errors\n")
+                f.write(abs_md + "\n\n")
+                f.write("## Relative Errors (minimum error subtracted)\n")
+                f.write(rel_md + "\n")
+
 def main():
     folder = "BOP"
     ensure_dir(folder)
@@ -215,6 +286,7 @@ def main():
     for json_file in json_files:
         process_json(json_file)
         print(f"Processed {json_file}")
+    generate_error_markdown()
 
 if __name__ == "__main__":
     main()
