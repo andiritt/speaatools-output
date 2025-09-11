@@ -255,6 +255,11 @@ def generate_error_markdown():
                 race_error = float(result_car.get("raceLaptime", 0)) - float(car.get("raceLaptime", 0))
                 quali_error = float(result_car.get("qualiLaptime", 0)) - float(car.get("qualiLaptime", 0))
                 topspeed_error = float(result_car.get("topspeed", 0)) - float(car.get("topspeed", 0))
+
+                race_error = abs(race_error)
+                quali_error = abs(quali_error)
+                topspeed_error = abs(topspeed_error)
+
                 error_table.append([
                     car.get("manufacturer", "-"), car.get("carName", "-"),
                     race_error, quali_error, topspeed_error
